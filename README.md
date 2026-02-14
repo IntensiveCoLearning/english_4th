@@ -23,7 +23,7 @@
 ## 发起人
 
 - 姓名：Estrella
-- GitHub ID：muxin-web3
+- GitHub ID：Estrella93517
 - Telegram：muxin_eth
 - Email：2031006226@qq.com
 ## 发起组织
@@ -31,9 +31,12 @@
 
 
 
+
 ## 社群
 
+
 ## 学习资料/课程安排
+
 ### 第一部分：必备基础
 
 **核心挑战：无中文输入**
@@ -319,6 +322,7 @@
 ## 请假规则
 
 每周请假 2 次
+
 
 
 
