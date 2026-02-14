@@ -23,7 +23,7 @@
 ## 发起人
 
 - 姓名：Estrella
-- GitHub ID：muxin-web3
+- GitHub ID：Estrella93517
 - Telegram：jiangjianjing
 - Email：2031006226@qq.com
 ## 发起组织
@@ -328,8 +328,6 @@
 ## 请假规则
 
 每周请假 2 次
-
-
 
 
 ## 报名和打卡规则
