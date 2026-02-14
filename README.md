@@ -23,8 +23,8 @@
 ## 发起人
 
 - 姓名：Estrella
-- GitHub ID：Estrella93517
-- Telegram：muxin_eth
+- GitHub ID：muxin-web3
+- Telegram：jiangjianjing
 - Email：2031006226@qq.com
 ## 发起组织
 
