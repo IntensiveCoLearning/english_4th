@@ -36,7 +36,7 @@
 
 微信群二维码：![微信群二维码](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/muxin-web3/images/2026-02-14-1771048189414-WechatIMG259.jpeg)
 
-微信联系人：-LifeIsFun-
+微信联系人：-VICKI2031006226-
 ## 学习资料/课程安排
 
 ### 第一部分：必备基础
