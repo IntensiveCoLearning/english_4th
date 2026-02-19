@@ -168,7 +168,9 @@
 | [Booker4real](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Booker4real.md) | | | | | | | | | | | | | | | | | | | | | |
 | [binjietang](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/binjietang.md) | | | | | | | | | | | | | | | | | | | | | |
 | [Srain520](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Srain520.md) | | | | | | | | | | | | | | | | | | | | | |
+| [FluctlightSu](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/FluctlightSu.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
