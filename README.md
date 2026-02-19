@@ -200,7 +200,9 @@
 | [YichengDraw](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/YichengDraw.md) | | | | | | | | | | | | | | | | | | | | | |
 | [ConfucianConfusion](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/ConfucianConfusion.md) | | | | | | | | | | | | | | | | | | | | | |
 | [ShawnX-F](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/ShawnX-F.md) | | | | | | | | | | | | | | | | | | | | | |
+| [binggan470](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/binggan470.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
