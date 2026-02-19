@@ -171,7 +171,9 @@
 | [FluctlightSu](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/FluctlightSu.md) | | | | | | | | | | | | | | | | | | | | | |
 | [Tadaaaaaaaaa](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Tadaaaaaaaaa.md) | | | | | | | | | | | | | | | | | | | | | |
 | [meixingyu001-code](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/meixingyu001-code.md) | | | | | | | | | | | | | | | | | | | | | |
+| [Cap-bit-mint](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Cap-bit-mint.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
