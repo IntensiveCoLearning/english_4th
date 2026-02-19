@@ -194,7 +194,10 @@
 | [ylxlxlx](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/ylxlxlx.md) | | | | | | | | | | | | | | | | | | | | | |
 | [jiezi77706](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/jiezi77706.md) | | | | | | | | | | | | | | | | | | | | | |
 | [marcuswustarman-tech](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/marcuswustarman-tech.md) | | | | | | | | | | | | | | | | | | | | | |
+| [JackCC703](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/JackCC703.md) | | | | | | | | | | | | | | | | | | | | | |
+| [aiyoudiao](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/aiyoudiao.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
