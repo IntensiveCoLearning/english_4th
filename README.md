@@ -157,7 +157,9 @@
 | [Toby1009](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Toby1009.md) | | | | | | | | | | | | | | | | | | | | | |
 | [bobi-caishenye](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/bobi-caishenye.md) | | | | | | | | | | | | | | | | | | | | | |
 | [changlu812](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/changlu812.md) | | | | | | | | | | | | | | | | | | | | | |
+| [xiaoloouyan-hue](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/xiaoloouyan-hue.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
