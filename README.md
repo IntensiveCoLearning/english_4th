@@ -199,7 +199,9 @@
 | [zoeyz3](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/zoeyz3.md) | | | | | | | | | | | | | | | | | | | | | |
 | [YichengDraw](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/YichengDraw.md) | | | | | | | | | | | | | | | | | | | | | |
 | [ConfucianConfusion](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/ConfucianConfusion.md) | | | | | | | | | | | | | | | | | | | | | |
+| [ShawnX-F](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/ShawnX-F.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
