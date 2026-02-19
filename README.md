@@ -176,7 +176,9 @@
 | [Haiweb3](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Haiweb3.md) | | | | | | | | | | | | | | | | | | | | | |
 | [enderzcx](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/enderzcx.md) | | | | | | | | | | | | | | | | | | | | | |
 | [Nancy0209](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Nancy0209.md) | | | | | | | | | | | | | | | | | | | | | |
+| [angela881225-debug](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/angela881225-debug.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
