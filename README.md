@@ -183,7 +183,9 @@
 | [slucifersz](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/slucifersz.md) | | | | | | | | | | | | | | | | | | | | | |
 | [sunyuchenyaobo](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/sunyuchenyaobo.md) | | | | | | | | | | | | | | | | | | | | | |
 | [Miaaa111](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Miaaa111.md) | | | | | | | | | | | | | | | | | | | | | |
+| [lrm350378-star](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/lrm350378-star.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
