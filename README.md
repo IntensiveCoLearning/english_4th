@@ -180,7 +180,9 @@
 | [iluvjaecott](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/iluvjaecott.md) | | | | | | | | | | | | | | | | | | | | | |
 | [lunateng](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/lunateng.md) | | | | | | | | | | | | | | | | | | | | | |
 | [kingstarling](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/kingstarling.md) | | | | | | | | | | | | | | | | | | | | | |
+| [slucifersz](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/slucifersz.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
