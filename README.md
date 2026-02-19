@@ -187,7 +187,9 @@
 | [FairyTaleBliss](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/FairyTaleBliss.md) | | | | | | | | | | | | | | | | | | | | | |
 | [Jalen1412](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Jalen1412.md) | | | | | | | | | | | | | | | | | | | | | |
 | [2273310475-dev](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/2273310475-dev.md) | | | | | | | | | | | | | | | | | | | | | |
+| [sharingcoke](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/sharingcoke.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
