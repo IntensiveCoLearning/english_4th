@@ -179,7 +179,9 @@
 | [angela881225-debug](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/angela881225-debug.md) | | | | | | | | | | | | | | | | | | | | | |
 | [iluvjaecott](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/iluvjaecott.md) | | | | | | | | | | | | | | | | | | | | | |
 | [lunateng](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/lunateng.md) | | | | | | | | | | | | | | | | | | | | | |
+| [kingstarling](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/kingstarling.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
