@@ -229,7 +229,9 @@
 | [QingQiuGeek](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/QingQiuGeek.md) | | | | | | | | | | | | | | | | | | | | | |
 | [JarvisRiser](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/JarvisRiser.md) | | | | | | | | | | | | | | | | | | | | | |
 | [liyuhengha-png](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/liyuhengha-png.md) | | | | | | | | | | | | | | | | | | | | | |
+| [Karynam2](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Karynam2.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
