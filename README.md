@@ -209,7 +209,9 @@
 | [Gavinwonder](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Gavinwonder.md) | | | | | | | | | | | | | | | | | | | | | |
 | [bruce237](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/bruce237.md) | | | | | | | | | | | | | | | | | | | | | |
 | [SupeRay0703](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/SupeRay0703.md) | | | | | | | | | | | | | | | | | | | | | |
+| [Fuyew1](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Fuyew1.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
