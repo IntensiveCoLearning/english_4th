@@ -239,7 +239,9 @@
 | [yufeiyi](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/yufeiyi.md) | | | | | | | | | | | | | | | | | | | | | |
 | [marsmu1213](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/marsmu1213.md) | | | | | | | | | | | | | | | | | | | | | |
 | [xiefeixian](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/xiefeixian.md) | | | | | | | | | | | | | | | | | | | | | |
+| [Lizze-lab](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Lizze-lab.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
