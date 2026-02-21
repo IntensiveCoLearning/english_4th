@@ -207,7 +207,9 @@
 | [ershisihuasheng2003](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/ershisihuasheng2003.md) | | | | | | | | | | | | | | | | | | | | | |
 | [sylvia-tso](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/sylvia-tso.md) | | | | | | | | | | | | | | | | | | | | | |
 | [Gavinwonder](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Gavinwonder.md) | | | | | | | | | | | | | | | | | | | | | |
+| [bruce237](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/bruce237.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
