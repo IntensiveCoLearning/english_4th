@@ -606,11 +606,11 @@
 
 ## 报名和打卡规则
 
-- 报名：https://www.notion.so/lxdao/232dceffe40b8030993ad26f2eb6bed2
+- 报名：https://www.notion.so/lxdao/28fdceffe40b81b4ae63c22c91c4aab2
 
-- 打卡：https://www.notion.so/lxdao/232dceffe40b80508330c5ee936d4dab
+- 打卡：https://www.notion.so/lxdao/28fdceffe40b81fa8eedee04c770ddde
 
 ## 更多信息
-- 如何报名：https://www.notion.so/lxdao/232dceffe40b8030993ad26f2eb6bed2
+- 如何报名：https://www.notion.so/lxdao/28fdceffe40b81b4ae63c22c91c4aab2
 
-- 如何打卡：https://www.notion.so/lxdao/232dceffe40b80508330c5ee936d4dab
+- 如何打卡：https://www.notion.so/lxdao/28fdceffe40b81fa8eedee04c770ddde
