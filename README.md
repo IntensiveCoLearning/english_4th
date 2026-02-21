@@ -277,7 +277,9 @@
 | [I-am-not-Terry](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/I-am-not-Terry.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [hjx516615156-hue](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/hjx516615156-hue.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [hwish39-byte](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/hwish39-byte.md) |   | | | | | | | | | | | | | | | | | | | | |
+| [XGe711](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/XGe711.md) |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
