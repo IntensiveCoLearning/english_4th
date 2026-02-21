@@ -268,7 +268,9 @@
 | [khris292](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/khris292.md) | | | | | | | | | | | | | | | | | | | | | |
 | [Susie-beep](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Susie-beep.md) | | | | | | | | | | | | | | | | | | | | | |
 | [yuriswj12-bit](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/yuriswj12-bit.md) | | | | | | | | | | | | | | | | | | | | | |
+| [B1u-e](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/B1u-e.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
