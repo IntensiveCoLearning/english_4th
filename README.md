@@ -271,7 +271,9 @@
 | [B1u-e](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/B1u-e.md) | | | | | | | | | | | | | | | | | | | | | |
 | [kotoYoshi](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/kotoYoshi.md) | | | | | | | | | | | | | | | | | | | | | |
 | [DrC-Web3](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/DrC-Web3.md) | | | | | | | | | | | | | | | | | | | | | |
+| [SKYEJT](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/SKYEJT.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
