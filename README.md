@@ -227,7 +227,9 @@
 | [Oronm-boop](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Oronm-boop.md) | | | | | | | | | | | | | | | | | | | | | |
 | [merlin-ecde](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/merlin-ecde.md) | | | | | | | | | | | | | | | | | | | | | |
 | [QingQiuGeek](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/QingQiuGeek.md) | | | | | | | | | | | | | | | | | | | | | |
+| [JarvisRiser](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/JarvisRiser.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
