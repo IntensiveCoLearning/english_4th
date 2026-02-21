@@ -226,7 +226,9 @@
 | [dadwawd1-ops](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/dadwawd1-ops.md) | | | | | | | | | | | | | | | | | | | | | |
 | [Oronm-boop](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Oronm-boop.md) | | | | | | | | | | | | | | | | | | | | | |
 | [merlin-ecde](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/merlin-ecde.md) | | | | | | | | | | | | | | | | | | | | | |
+| [QingQiuGeek](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/QingQiuGeek.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
