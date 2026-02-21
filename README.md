@@ -234,7 +234,9 @@
 | [HankGrimm](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/HankGrimm.md) | | | | | | | | | | | | | | | | | | | | | |
 | [zym89861-wq](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/zym89861-wq.md) | | | | | | | | | | | | | | | | | | | | | |
 | [explorerer](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/explorerer.md) | | | | | | | | | | | | | | | | | | | | | |
+| [karenyuan03](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/karenyuan03.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
