@@ -266,7 +266,9 @@
 | [lanwudawn](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/lanwudawn.md) | | | | | | | | | | | | | | | | | | | | | |
 | [bobben1998](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/bobben1998.md) | | | | | | | | | | | | | | | | | | | | | |
 | [khris292](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/khris292.md) | | | | | | | | | | | | | | | | | | | | | |
+| [Susie-beep](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Susie-beep.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
