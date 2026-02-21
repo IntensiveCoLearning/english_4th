@@ -272,7 +272,9 @@
 | [kotoYoshi](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/kotoYoshi.md) | | | | | | | | | | | | | | | | | | | | | |
 | [DrC-Web3](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/DrC-Web3.md) | | | | | | | | | | | | | | | | | | | | | |
 | [SKYEJT](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/SKYEJT.md) | | | | | | | | | | | | | | | | | | | | | |
+| [labilio](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/labilio.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
