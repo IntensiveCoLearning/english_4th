@@ -19,7 +19,7 @@ Hi I'm eden. I deeply resonate with the phrase, "The boundary of language is the
 <!-- DAILY_CHECKIN_2026-02-22_START -->
 DAY-1
 
-Sharing a video for practing oral-speaking whic is clearly teacher you how to practice your oral-speaking,and also can be an article for shadowing practing.
+Sharing a video for practing oral-speaking which is clearly teacher you how to practice your oral-speaking,and also can be an article for shadowing practing.
 
 [https://youtu.be/PY1dbFnVLwg?si=Fck90zAhTEw0NJ9z](https://youtu.be/PY1dbFnVLwg?si=Fck90zAhTEw0NJ9z)
 
