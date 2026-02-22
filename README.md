@@ -208,7 +208,7 @@
 | [sylvia-tso](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/sylvia-tso.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [Gavinwonder](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Gavinwonder.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [bruce237](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/bruce237.md) |   | | | | | | | | | | | | | | | | | | | | |
-| [SupeRay0703](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/SupeRay0703.md) |   | | | | | | | | | | | | | | | | | | | | |
+| [SupeRay0703](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/SupeRay0703.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [Fuyew1](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Fuyew1.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [yenlingpeng95-cmd](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/yenlingpeng95-cmd.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [0xBrick-Li](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/0xBrick-Li.md) |   | | | | | | | | | | | | | | | | | | | | |
@@ -283,6 +283,7 @@
 | [Xiaonan2020](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Xiaonan2020.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [zombiegazhi](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/zombiegazhi.md) |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
