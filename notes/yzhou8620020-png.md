@@ -15,6 +15,21 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-22
+<!-- DAILY_CHECKIN_2026-02-22_START -->
+## **If you’re ambitious but lazy, watch this**
 
+### YouTube -- Ali Abdaal
 
+[https://www.youtube.com/watch?v=CykYoS1LftQ](https://www.youtube.com/watch?v=CykYoS1LftQ)
+
+-   clarify what you actually want
+    
+-   identify the blockers, which are not in your control, in your control and somewhat in your control
+    
+-   take time to do the work
+    
+
+Insight: This video helped me clarify what my actual goals are and how I can stay motivated to achieve them, rather than just thinking I’m supposed to.
+<!-- DAILY_CHECKIN_2026-02-22_END -->
 <!-- Content_END -->
