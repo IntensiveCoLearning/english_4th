@@ -25,7 +25,7 @@ timezone: UTC+8
     
 -   不要有翻译逻辑（用英语逻辑思考）：让大脑开辟新模块，用英语逻辑听说读写
     
--   新学一门语言就塑造了一个新的人格，给自己一个新的生命
+-   新学一门语言就塑造一个新的人格
     
 -   If you want to learn language efficiently you need to give language life
 <!-- DAILY_CHECKIN_2026-02-22_END -->
