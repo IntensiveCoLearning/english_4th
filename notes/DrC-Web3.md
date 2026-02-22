@@ -22,5 +22,7 @@ timezone: UTC+8
 迷茫中
 
 要从哪儿开始？
+
+今天在群里分享 怎么让自己只做英语输出
 <!-- DAILY_CHECKIN_2026-02-22_END -->
 <!-- Content_END -->
