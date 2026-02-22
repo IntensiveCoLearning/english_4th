@@ -17,7 +17,7 @@ A new Web3 builder.
 <!-- Content_START -->
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
--   **「Listen podcast」Get some strategy about "How to learn an foreign language"**
+-   **「Listen podcast」Get some strategy about “How to learn an foreign language”**
     
     -   [https://www.xiaoyuzhoufm.com/episode/6847ec6bb23ed76e604d99bc](https://www.xiaoyuzhoufm.com/episode/6847ec6bb23ed76e604d99bc)
         
@@ -27,22 +27,22 @@ A new Web3 builder.
         
     -   主动召回（抵抗记忆）
         
-    -   Don't translate!
+    -   Don’t translate!
         
     -   音标的学习（为了更好的口语）
         
-    -   Todo...
+    -   Todo…
         
-
--   **「Grammar study」从词性开始**  
-    [https://hzpt-inet-club.github.io/english-note/](https://hzpt-inet-club.github.io/english-note/)
+-   **「Grammar study」从词性开始**
     
-    -   Todo...
+    -   [https://hzpt-inet-club.github.io/english-note/](https://hzpt-inet-club.github.io/english-note/)
+        
+    -   Todo…
         
 -   **「Try more tools 」Help to learning**
     
     -   Anki
         
-    -   Todo...
+    -   Todo…
 <!-- DAILY_CHECKIN_2026-02-22_END -->
 <!-- Content_END -->
