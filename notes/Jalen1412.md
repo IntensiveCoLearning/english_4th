@@ -15,6 +15,8 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
-
-
+# 2026-02-22
+<!-- DAILY_CHECKIN_2026-02-22_START -->
+今日开始对着《silicon valley》进行口语训练
+<!-- DAILY_CHECKIN_2026-02-22_END -->
 <!-- Content_END -->
