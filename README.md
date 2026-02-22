@@ -182,7 +182,7 @@
 | [kingstarling](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/kingstarling.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [slucifersz](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/slucifersz.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [sunyuchenyaobo](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/sunyuchenyaobo.md) |   | | | | | | | | | | | | | | | | | | | | |
-| [Miaaa111](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Miaaa111.md) |   | | | | | | | | | | | | | | | | | | | | |
+| [Miaaa111](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Miaaa111.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [lrm350378-star](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/lrm350378-star.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [FairyTaleBliss](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/FairyTaleBliss.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [Jalen1412](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Jalen1412.md) |   | | | | | | | | | | | | | | | | | | | | |
@@ -283,6 +283,7 @@
 | [Xiaonan2020](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Xiaonan2020.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [zombiegazhi](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/zombiegazhi.md) |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
