@@ -256,7 +256,7 @@
 | [violetzhs](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/violetzhs.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [Ryat2899](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Ryat2899.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [Pluto417-Qing](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Pluto417-Qing.md) |   | | | | | | | | | | | | | | | | | | | | |
-| [rebelrebel-tech](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/rebelrebel-tech.md) |   | | | | | | | | | | | | | | | | | | | | |
+| [rebelrebel-tech](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/rebelrebel-tech.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [liuyuedayueyue-star](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/liuyuedayueyue-star.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [vientoenpopa-creator](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/vientoenpopa-creator.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [tianxuanzhizi01](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/tianxuanzhizi01.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
@@ -283,6 +283,7 @@
 | [Xiaonan2020](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Xiaonan2020.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [zombiegazhi](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/zombiegazhi.md) |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
