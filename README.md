@@ -175,7 +175,7 @@
 | [welldone711](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/welldone711.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [Haiweb3](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Haiweb3.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [enderzcx](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/enderzcx.md) |   | | | | | | | | | | | | | | | | | | | | |
-| [Nancy0209](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Nancy0209.md) |   | | | | | | | | | | | | | | | | | | | | |
+| [Nancy0209](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Nancy0209.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [angela881225-debug](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/angela881225-debug.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [iluvjaecott](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/iluvjaecott.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [lunateng](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/lunateng.md) |   | | | | | | | | | | | | | | | | | | | | |
@@ -184,7 +184,7 @@
 | [sunyuchenyaobo](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/sunyuchenyaobo.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [Miaaa111](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Miaaa111.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [lrm350378-star](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/lrm350378-star.md) |   | | | | | | | | | | | | | | | | | | | | |
-| [FairyTaleBliss](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/FairyTaleBliss.md) |   | | | | | | | | | | | | | | | | | | | | |
+| [FairyTaleBliss](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/FairyTaleBliss.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [Jalen1412](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Jalen1412.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [2273310475-dev](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/2273310475-dev.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [sharingcoke](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/sharingcoke.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
@@ -283,6 +283,7 @@
 | [Xiaonan2020](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Xiaonan2020.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [zombiegazhi](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/zombiegazhi.md) |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
