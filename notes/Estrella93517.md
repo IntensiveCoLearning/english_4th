@@ -17,7 +17,7 @@ timezone: UTC+8
 <!-- Content_START -->
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
-It wouldn't have seemed possible a year ago. But Bitcoin has gotten caught in one of its deepest struggles yet, with no obvious way out.
+It wouldn’t have seemed possible a year ago. But Bitcoin has gotten caught in one of its deepest struggles yet, with no obvious way out.
 
 词汇解析
 
@@ -31,7 +31,7 @@ It wouldn't have seemed possible a year ago. But Bitcoin has gotten caught in on
 
 句式结构
 
-两句为转折并列句，but连接前后语义相反的内容；第一句为虚拟语气（wouldn't have seemed），表示“一年前看来绝无可能的事，如今发生了”。
+两句为转折并列句，but连接前后语义相反的内容；第一句为虚拟语气（wouldn’t have seemed），表示“一年前看来绝无可能的事，如今发生了”。
 
 句意
 
@@ -39,7 +39,7 @@ It wouldn't have seemed possible a year ago. But Bitcoin has gotten caught in on
 
 核心句2
 
-The world's largest cryptocurrency has plunged more than 40% from its peak, and the usual playbook isn't working — dip buyers have vanished, and the forces that would normally fuel a rebound are now working against it.
+The world’s largest cryptocurrency has plunged more than 40% from its peak, and the usual playbook isn’t working — dip buyers have vanished, and the forces that would normally fuel a rebound are now working against it.
 
 词汇解析
 
@@ -49,7 +49,7 @@ The world's largest cryptocurrency has plunged more than 40% from its peak, and 
 
 3\. playbook /ˈpleɪbʊk/ n. 策略手册、惯用套路（财经俚语，此处指比特币以往价格下跌后的反弹策略）
 
-4\. dip buyer /dɪp ˈbaɪə(r)/ n. 抄底者（Web3/股票市场高频表达；dip n. 价格小幅下跌）
+4\. dip buyer /dɪp ˈbaɪə®/ n. 抄底者（Web3/股票市场高频表达；dip n. 价格小幅下跌）
 
 5\. vanish /ˈvænɪʃ/ v. 消失、绝迹（正式书面语；替代disappear）
 
@@ -63,7 +63,7 @@ The world's largest cryptocurrency has plunged more than 40% from its peak, and 
 
 本句为多层并列复合句：
 
-① 主句由and连接两个分句：The world's largest cryptocurrency has plunged... 和 the usual playbook isn't working；
+① 主句由and连接两个分句：The world’s largest cryptocurrency has plunged… 和 the usual playbook isn’t working；
 
 ② 破折号后为解释说明内容，同样由and连接两个分句，其中第二个分句包含定语从句 that would normally fuel a rebound，修饰先行词the forces；
 
