@@ -21,6 +21,8 @@ DAY-1
 
 Sharing a video for practing oral-speaking whic is clearly teacher you how to practice your oral-speaking,and also can be an article for shadowing practing.
 
+[https://youtu.be/PY1dbFnVLwg?si=Fck90zAhTEw0NJ9z](https://youtu.be/PY1dbFnVLwg?si=Fck90zAhTEw0NJ9z)
+
 [https://www.youtube.com/watch?v=ZolxCnqMwkg](https://www.youtube.com/watch?v=ZolxCnqMwkg)
 <!-- DAILY_CHECKIN_2026-02-22_END -->
 <!-- Content_END -->
