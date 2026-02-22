@@ -17,6 +17,10 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-22
+<!-- DAILY_CHECKIN_2026-02-22_START -->
+已学习20个单词，第一次用这个软件，感觉还挺好用的。
 
-
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/JackCC703/images/2026-02-22-1771731581620-image.png)
+<!-- DAILY_CHECKIN_2026-02-22_END -->
 <!-- Content_END -->
