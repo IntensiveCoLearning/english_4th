@@ -232,7 +232,7 @@
 | [Karynam2](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Karynam2.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [tengjskk-spec](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/tengjskk-spec.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [HankGrimm](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/HankGrimm.md) |   | | | | | | | | | | | | | | | | | | | | |
-| [zym89861-wq](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/zym89861-wq.md) |   | | | | | | | | | | | | | | | | | | | | |
+| [zym89861-wq](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/zym89861-wq.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [explorerer](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/explorerer.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [karenyuan03](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/karenyuan03.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [djdjdj2948439](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/djdjdj2948439.md) |   | | | | | | | | | | | | | | | | | | | | |
@@ -283,6 +283,7 @@
 | [Xiaonan2020](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Xiaonan2020.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [zombiegazhi](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/zombiegazhi.md) |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
