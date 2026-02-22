@@ -253,7 +253,7 @@
 | [bdlfy-Kate](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/bdlfy-Kate.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [emptytouch](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/emptytouch.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [Failover97](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Failover97.md) |   | | | | | | | | | | | | | | | | | | | | |
-| [violetzhs](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/violetzhs.md) |   | | | | | | | | | | | | | | | | | | | | |
+| [violetzhs](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/violetzhs.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [Ryat2899](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Ryat2899.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [Pluto417-Qing](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Pluto417-Qing.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [rebelrebel-tech](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/rebelrebel-tech.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
@@ -283,6 +283,7 @@
 | [Xiaonan2020](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Xiaonan2020.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [zombiegazhi](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/zombiegazhi.md) |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
