@@ -15,6 +15,12 @@ Hi I'm eden. I deeply resonate with the phrase, "The boundary of language is the
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-22
+<!-- DAILY_CHECKIN_2026-02-22_START -->
+DAY-1
 
+Sharing a video for practing oral-speaking whic is clearly teacher you how to practice your oral-speaking,and also can be an article for shadowing practing.
 
+[https://www.youtube.com/watch?v=ZolxCnqMwkg](https://www.youtube.com/watch?v=ZolxCnqMwkg)
+<!-- DAILY_CHECKIN_2026-02-22_END -->
 <!-- Content_END -->
