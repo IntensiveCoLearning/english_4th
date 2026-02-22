@@ -266,7 +266,7 @@
 | [lanwudawn](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/lanwudawn.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [bobben1998](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/bobben1998.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [khris292](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/khris292.md) |   | | | | | | | | | | | | | | | | | | | | |
-| [Susie-beep](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Susie-beep.md) |   | | | | | | | | | | | | | | | | | | | | |
+| [Susie-beep](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Susie-beep.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [yuriswj12-bit](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/yuriswj12-bit.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [B1u-e](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/B1u-e.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [kotoYoshi](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/kotoYoshi.md) |   | | | | | | | | | | | | | | | | | | | | |
@@ -283,6 +283,7 @@
 | [Xiaonan2020](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Xiaonan2020.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [zombiegazhi](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/zombiegazhi.md) |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
