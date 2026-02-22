@@ -15,6 +15,15 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-22
+<!-- DAILY_CHECKIN_2026-02-22_START -->
+-   words learning finish
+    
+-   watching American drama for four hours
+    
+-   tried Anki for some difficult words and sentences learning
+    
 
-
+As for todays' leaning ,gradually focusing on basic English learning .
+<!-- DAILY_CHECKIN_2026-02-22_END -->
 <!-- Content_END -->
