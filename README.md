@@ -226,7 +226,7 @@
 | [dadwawd1-ops](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/dadwawd1-ops.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [Oronm-boop](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Oronm-boop.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [merlin-ecde](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/merlin-ecde.md) |   | | | | | | | | | | | | | | | | | | | | |
-| [QingQiuGeek](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/QingQiuGeek.md) |   | | | | | | | | | | | | | | | | | | | | |
+| [QingQiuGeek](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/QingQiuGeek.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [JarvisRiser](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/JarvisRiser.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [liyuhengha-png](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/liyuhengha-png.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [Karynam2](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Karynam2.md) |   | | | | | | | | | | | | | | | | | | | | |
@@ -283,6 +283,7 @@
 | [Xiaonan2020](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Xiaonan2020.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [zombiegazhi](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/zombiegazhi.md) |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
