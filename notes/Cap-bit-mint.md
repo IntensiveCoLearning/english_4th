@@ -15,8 +15,15 @@ Hi I'm eden. I deeply resonate with the phrase, "The boundary of language is the
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-23
+<!-- DAILY_CHECKIN_2026-02-23_START -->
+**Day 2**  
+Today I chatted with two foreigners on Free4Talk. They are from Pakistan. It was so interesting to talk with them. I even taught one of them some Chinese. We chatted for two hours!
+<!-- DAILY_CHECKIN_2026-02-23_END -->
+
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 DAY-1
 
 Sharing a video for practing oral-speaking which is clearly teacher you how to practice your oral-speaking,and also can be an article for shadowing practing.
