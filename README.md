@@ -171,7 +171,7 @@
 | [FluctlightSu](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/FluctlightSu.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [Tadaaaaaaaaa](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Tadaaaaaaaaa.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [meixingyu001-code](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/meixingyu001-code.md) |   | | | | | | | | | | | | | | | | | | | | |
-| [Cap-bit-mint](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Cap-bit-mint.md) |   | | | | | | | | | | | | | | | | | | | | |
+| [Cap-bit-mint](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Cap-bit-mint.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [welldone711](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/welldone711.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [Haiweb3](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Haiweb3.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [enderzcx](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/enderzcx.md) |   | | | | | | | | | | | | | | | | | | | | |
@@ -283,6 +283,7 @@
 | [Xiaonan2020](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Xiaonan2020.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [zombiegazhi](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/zombiegazhi.md) |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
