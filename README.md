@@ -200,7 +200,7 @@
 | [YichengDraw](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/YichengDraw.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [ConfucianConfusion](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/ConfucianConfusion.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [ShawnX-F](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/ShawnX-F.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
-| [binggan470](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/binggan470.md) |   | | | | | | | | | | | | | | | | | | | | |
+| [binggan470](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/binggan470.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [yzhou8620020-png](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/yzhou8620020-png.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [cecilia721](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/cecilia721.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [shaoguoji](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/shaoguoji.md) |   | | | | | | | | | | | | | | | | | | | | |
@@ -283,6 +283,7 @@
 | [Xiaonan2020](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Xiaonan2020.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [zombiegazhi](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/zombiegazhi.md) |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
