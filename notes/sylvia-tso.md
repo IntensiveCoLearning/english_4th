@@ -15,8 +15,15 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-23
+<!-- DAILY_CHECKIN_2026-02-23_START -->
+dont never let somebody tell u, you cant do something  
+never 应是ever, dont 和ever连读以后t音变weak
+<!-- DAILY_CHECKIN_2026-02-23_END -->
+
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 There are three things\_\_\_\_,never discuss with people.  
 缺少 I have learned ,和 never to,to 发t的音
 <!-- DAILY_CHECKIN_2026-02-22_END -->
