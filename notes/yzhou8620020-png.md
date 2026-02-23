@@ -15,8 +15,32 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-23
+<!-- DAILY_CHECKIN_2026-02-23_START -->
+## **The 4 Hobbies that Improved my Life**
+
+### **YouTube – Ali Abdaal**
+
+[https://www.youtube.com/watch?v=o4qiwWFdZ\_U](https://www.youtube.com/watch?v=o4qiwWFdZ_U)
+
+-   **Coding and Web Design**
+    
+-   He can easily get kinds of business ideas and models when he learn coding.
+    
+-   **Playing Music**
+    
+-   Motivated by his peers’ outstanding singing performances, he taught himself to play the guitar using online resources. Later, he became more confident in learning whatever he wants on his own.
+    
+-   **Performing Magic**
+    
+-   **Teaching Others**
+    
+-   You don’t have to be a specialist to help others. When we start to learn, our best teacher is the person who did it just one year ago.
+<!-- DAILY_CHECKIN_2026-02-23_END -->
+
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 ## **If you’re ambitious but lazy, watch this**
 
 ### YouTube -- Ali Abdaal
