@@ -18,8 +18,28 @@ Just come and chat with me!
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-23
+<!-- DAILY_CHECKIN_2026-02-23_START -->
+**PRELUDE**
+
+About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
+
+Today’s authentication lyrics:
+
+You are my shyness boy 待ってるのよ~ 誘いの言葉~
+
+もどかしさなら今日かぎりにしてほしい~ I'm falling love~
+
+This is one of my favorite songs of city-pop, _SHYNESS BOY_.
+
+**Tracks (Or diaries, whatever)**
+
+Today is the last day of this happy holiday, I still create no plan for this co-learning, because I met an old friend at day, ate family hot-pot at evening, and still in the process of configuring nanobot just now. What a full day!
+<!-- DAILY_CHECKIN_2026-02-23_END -->
+
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 ### PRELUDE
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
