@@ -15,8 +15,16 @@ web3初学者，增强英语水平
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-23
+<!-- DAILY_CHECKIN_2026-02-23_START -->
+I learned thirty-seven new words，and reviewed thirteen words.
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/emptytouch/images/2026-02-23-1771835621178-image.png)
+<!-- DAILY_CHECKIN_2026-02-23_END -->
+
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 Today,I learned twenty words on Anki.  
 
 ![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/emptytouch/images/2026-02-22-1771744718335-image.png)
