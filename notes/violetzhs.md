@@ -15,8 +15,18 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-23
+<!-- DAILY_CHECKIN_2026-02-23_START -->
+reading task
+
+# **Blue Owl Anxiety Rattles the $1.8 Trillion Private Credit Market from**
+
+[https://www.bloomberg.com/news/features/2026-02-22/blue-owl-redemptions-halt-intensifies-private-credit-fears?srnd=homepage-americas&embedded-checkout=true](https://www.bloomberg.com/news/features/2026-02-22/blue-owl-redemptions-halt-intensifies-private-credit-fears?srnd=homepage-americas&embedded-checkout=true)
+<!-- DAILY_CHECKIN_2026-02-23_END -->
+
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 Good evening. My name is Fb, I'll be your waiter for tonight.May I take your order?
 
 No, I'm still working on it. This menu is not even in English. What's good here?
