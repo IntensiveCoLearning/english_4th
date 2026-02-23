@@ -15,8 +15,32 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-23
+<!-- DAILY_CHECKIN_2026-02-23_START -->
+Daily English Dictation
+
+-   Jerry what time do you have? I have 5 o’clock.
+    
+-   Mother Teresa, who received a Nobel Peace Prize for her work on behalf of the poor, dies in Calcutta, India-she was 87 years old.
+    
+-   There are three things I have never to discuss with people, religion, politics and the Great Pumpkin!
+    
+-   Don’t ever let somebody tell you, you can’t do something.
+    
+-   I have come here to chew bubblegum and kick ass, and I’m all out of bubblegum.
+    
+-   The secret of life is just to live every moment.
+    
+-   Another rogue trader has cost a bank billions.
+    
+-   German, Rolf Buchholz, is the man with the most piercings, he’s got 453.
+    
+-   A satellite that was carried to space aboard the shuttle Discovery 20 years ago is about to fall to earth, but nobody knows where the debris will hit.
+<!-- DAILY_CHECKIN_2026-02-23_END -->
+
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 小宇宙博客如何快速、地道、流利地学习一门外语
 
 -   发音训练（native发音）：学英语首要任务就是学习native发音，包括句子中间的连读部分，多听多读
