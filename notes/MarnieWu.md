@@ -15,8 +15,15 @@ A new Web3 builder.
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-23
+<!-- DAILY_CHECKIN_2026-02-23_START -->
+Finish Grammar Learning  
+[https://hzpt-inet-club.github.io/english-note/guide/grammar.html](https://hzpt-inet-club.github.io/english-note/guide/grammar.html)
+<!-- DAILY_CHECKIN_2026-02-23_END -->
+
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 -   **「Listen podcast」Get some strategy about “How to learn an foreign language”**
     
     -   [https://www.xiaoyuzhoufm.com/episode/6847ec6bb23ed76e604d99bc](https://www.xiaoyuzhoufm.com/episode/6847ec6bb23ed76e604d99bc)
