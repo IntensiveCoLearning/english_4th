@@ -16,6 +16,15 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-24
+<!-- DAILY_CHECKIN_2026-02-24_START -->
+2.24
 
+今日打卡背单词
 
+|   |   |
+| --- | --- |
+| spring | 1️⃣泉水2️⃣春天 3️⃣弹簧 4️⃣爆发 |
+|   |   |
+<!-- DAILY_CHECKIN_2026-02-24_END -->
 <!-- Content_END -->
