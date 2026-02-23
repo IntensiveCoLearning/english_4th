@@ -214,12 +214,12 @@
 | [0xBrick-Li](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/0xBrick-Li.md) | ⭕️ | ✅ | | | | | | | | | | | | | | | | | | | |
 | [riwev](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/riwev.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | [Uoghluvm](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Uoghluvm.md) | ⭕️ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [JWiang](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/JWiang.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
+| [JWiang](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/JWiang.md) | ⭕️ | ✅ | | | | | | | | | | | | | | | | | | | |
 | [cheng-zhaofeng](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/cheng-zhaofeng.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | [tengyuandoufuzi-hub](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/tengyuandoufuzi-hub.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | [Serenayyy123](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Serenayyy123.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | [MXEC](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/MXEC.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [RanX557](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/RanX557.md) | ✅ |   | | | | | | | | | | | | | | | | | | | |
+| [RanX557](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/RanX557.md) | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
 | [spacewqq](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/spacewqq.md) | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
 | [yhzhongc](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/yhzhongc.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | [Estrella93517](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Estrella93517.md) | ✅ |   | | | | | | | | | | | | | | | | | | | |
@@ -283,6 +283,7 @@
 | [Xiaonan2020](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Xiaonan2020.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | [zombiegazhi](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/zombiegazhi.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
