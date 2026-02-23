@@ -15,8 +15,14 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-23
+<!-- DAILY_CHECKIN_2026-02-23_START -->
+今天从简单的开始慢慢看起，纠正读音，能揪多少多少就揪多少。
+<!-- DAILY_CHECKIN_2026-02-23_END -->
+
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 如何地道的学习一门语言
 <!-- DAILY_CHECKIN_2026-02-22_END -->
 <!-- Content_END -->
