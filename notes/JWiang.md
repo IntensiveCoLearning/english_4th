@@ -15,6 +15,10 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-23
+<!-- DAILY_CHECKIN_2026-02-23_START -->
+今日第一天打卡
 
-
+根据学习计划，恰逢备考雅思阶段，正好打算将听说读写部分的备考真题与残酷共学计划的学习材料相互结合，坚持打卡学习。
+<!-- DAILY_CHECKIN_2026-02-23_END -->
 <!-- Content_END -->
