@@ -18,8 +18,14 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-23
+<!-- DAILY_CHECKIN_2026-02-23_START -->
+今日用时47分钟，复习昨天100个单词，以及记忆今天100个单词。
+<!-- DAILY_CHECKIN_2026-02-23_END -->
+
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 已学习100个单词。
 <!-- DAILY_CHECKIN_2026-02-22_END -->
 <!-- Content_END -->
