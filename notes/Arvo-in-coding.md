@@ -17,8 +17,14 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-23
+<!-- DAILY_CHECKIN_2026-02-23_START -->
+雅思剑桥21 阅读part over
+<!-- DAILY_CHECKIN_2026-02-23_END -->
+
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 雅思剑桥21 听力part over
 <!-- DAILY_CHECKIN_2026-02-22_END -->
 <!-- Content_END -->
