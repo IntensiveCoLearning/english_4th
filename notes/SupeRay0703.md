@@ -15,8 +15,27 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-23
+<!-- DAILY_CHECKIN_2026-02-23_START -->
+Day 2
+
+1.  I followed my plan listening to the English Pod:
+    
+
+a. Flu comes from Influenza
+
+b. Sore throat
+
+c. Have a runny nose - It's not your nose actually "running"
+
+d. Was hoping - To kindly expect
+
+2.  Keep expressing myself in English!
+<!-- DAILY_CHECKIN_2026-02-23_END -->
+
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 My ultimate goal in joining this learning group is to develop a better feel for English. If I'm ever kidnapped to an English-speaking country, at least I can still ask for the direction and get some food in English. (🤪Yes, I'm a foodie).
 
 Here’s what I’ve done today (mainly preparation based on the materials provided on the Intensive Learning website):
