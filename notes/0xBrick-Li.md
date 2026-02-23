@@ -15,6 +15,10 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
-
-
+# 2026-02-23
+<!-- DAILY_CHECKIN_2026-02-23_START -->
+-   听每日听力
+    
+-   学习群里 web3 词汇表
+<!-- DAILY_CHECKIN_2026-02-23_END -->
 <!-- Content_END -->
