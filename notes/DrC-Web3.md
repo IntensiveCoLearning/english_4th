@@ -15,8 +15,16 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-23
+<!-- DAILY_CHECKIN_2026-02-23_START -->
+今天学的语法
+
+[形容词 和 名词 的关系 | 英语语法](https://hzpt-inet-club.github.io/english-note/guide/adjectiveToNoun.html)
+<!-- DAILY_CHECKIN_2026-02-23_END -->
+
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 第一天
 
 迷茫中
