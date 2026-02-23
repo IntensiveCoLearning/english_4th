@@ -17,8 +17,14 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-23
+<!-- DAILY_CHECKIN_2026-02-23_START -->
+背了20个单词，但感觉这个词书的单词对我来说有点太简单了。明天准备换一个词书
+<!-- DAILY_CHECKIN_2026-02-23_END -->
+
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 已学习20个单词，第一次用这个软件，感觉还挺好用的。
 
 ![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/JackCC703/images/2026-02-22-1771731581620-image.png)
