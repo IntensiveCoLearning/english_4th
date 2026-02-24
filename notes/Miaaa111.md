@@ -15,8 +15,14 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-24
+<!-- DAILY_CHECKIN_2026-02-24_START -->
+Daily English Dictation
+<!-- DAILY_CHECKIN_2026-02-24_END -->
+
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 Daily English Dictation
 
 -   Jerry what time do you have? I have 5 o’clock.
@@ -40,6 +46,7 @@ Daily English Dictation
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 小宇宙博客如何快速、地道、流利地学习一门外语
 
