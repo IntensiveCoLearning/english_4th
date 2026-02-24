@@ -18,10 +18,17 @@ timezone: UTC+8
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
 Daily English Dictation
+
+-   It is a lofty， probably impossible goal.
+    
+-   New York swept the Tampa Bay Rays by identical 4—2 scores in a day-night doubleheader Wednesday!
+    
+-   Jim Henson, creator of of the muppets—from Kermit the Frog to Sesame Street—is born in Greenville Mississippi!
 <!-- DAILY_CHECKIN_2026-02-24_END -->
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 Daily English Dictation
 
@@ -46,6 +53,7 @@ Daily English Dictation
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 小宇宙博客如何快速、地道、流利地学习一门外语
