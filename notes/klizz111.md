@@ -15,8 +15,18 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-24
+<!-- DAILY_CHECKIN_2026-02-24_START -->
+## Daily accumulation 03
+
+-   _foretell_: the oracle is a machine that can _foretell_ something that will happen in future
+    
+-   _stagant_: to describe something not flowing, circulating, growing or changing
+<!-- DAILY_CHECKIN_2026-02-24_END -->
+
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 ## Daily accumulation 02
 
 -   tranquil: high level substitution for serene
@@ -30,6 +40,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 ## Daily accumulation 1
