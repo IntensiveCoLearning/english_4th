@@ -15,8 +15,30 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-24
+<!-- DAILY_CHECKIN_2026-02-24_START -->
+Day 3 - Starting to work after the CNY holiday!
+
+1.  I followed my plan listening to the English Pod:
+    
+
+a. Complimentary upgrade - Your service or reservation get upgraded for some reason, and it's not your fault
+
+b. Mix-up - Confusion
+
+c. overbooked - full
+
+2.  It was funny that a Spanish client of my colleague said that "We have free rooms in our hotel. Let me make a reservation for you". My manager thought that they could have the rooms for free.  
+    However, it turned out that the "free" means "available"! Fortunately, they hadn't replied to the client before they found out the "mix-up".  
+    Seems like we all need to improve our English.
+    
+
+2.  Keep expressing myself in English!
+<!-- DAILY_CHECKIN_2026-02-24_END -->
+
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 Day 2
 
 1.  I followed my plan listening to the English Pod:
@@ -35,6 +57,7 @@ d. Was hoping - To kindly expect
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 My ultimate goal in joining this learning group is to develop a better feel for English. If I'm ever kidnapped to an English-speaking country, at least I can still ask for the direction and get some food in English. (🤪Yes, I'm a foodie).
 
