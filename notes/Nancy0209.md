@@ -15,8 +15,16 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-24
+<!-- DAILY_CHECKIN_2026-02-24_START -->
+66 Fluent Forever｜如何快速、地道、流利地学习一门外语？
+
+沉浸式学习 拒绝语言天赋论
+<!-- DAILY_CHECKIN_2026-02-24_END -->
+
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 听 力 提 升 指
 
 填空题(P1,P4)
@@ -40,6 +48,7 @@ P2：尽量听懂，不跟丢，注意句子中的否定词(wont/can't)和时态
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 欧路词典 雅思听力4-18 背单词 66
 <!-- DAILY_CHECKIN_2026-02-22_END -->
