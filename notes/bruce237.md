@@ -15,8 +15,14 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-24
+<!-- DAILY_CHECKIN_2026-02-24_START -->
+英语语法八大句子成分，一定要知道的5个句型
+<!-- DAILY_CHECKIN_2026-02-24_END -->
+
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 美语音标24个元音读音练习
 <!-- DAILY_CHECKIN_2026-02-23_END -->
 <!-- Content_END -->
