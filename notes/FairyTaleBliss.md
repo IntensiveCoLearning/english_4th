@@ -18,8 +18,44 @@ Just come and chat with me!
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-24
+<!-- DAILY_CHECKIN_2026-02-24_START -->
+### PRELUDE
+
+About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
+
+Today’s authentication lyrics:
+
+KAMASAMI！KONG！
+
+Here come the summer lady~ 手をふるあなたへと~ 風を受けて走り出せ~
+
+KIKI Radio with Toshiki Kadomatsu! This is the first track of _SUMMER TIME ROMANCE～FROM KIKI, OFF SHORE_! God knows how much I love HAWAII KIKI RADIO!
+
+### Track (Or diary, whatever)
+
+The Spring Festival Holiday has ended! Still, I’m unemployed, so I don’t have to go back to work. But that doesn’t mean that I will do nothing until the day I die. However, it truly was a sleepy day, and I enjoyed the last 3 days I stayed in my hometown.
+
+On Feb 27th I will go back to Shanghai and continue on my way, which includes seeking a job related to AI or Web3, focusing on user expansion for PUSDC, and keeping studying English until I can express myself freely.
+
+Yesterday’s one-on-one meeting was extremely information-dense. The lead-developer of PUSDC said that he considers AI-Agent a user-interface revolution like PC with GUI, keyboard and mouse several decades ago, which means users can easily use crypto payments without annoying operations such as gas fees, private keys and current wallet applications, as long as a mature agent security solution is applied. Basically, I agree with his opinions. I also observed the potential of AI & Web3 in improving the user-experience of current web3 applications. And I believe the revolution in Web3 application user experience will come soon.
+
+### Yesterday’s Track
+
+Due to the incompleted submission of yesterday’s track, I’m submitting once again today.
+
+Today is the last day of this happy holiday, but I still create no plan for this co-learning, because I met an old friend during the day, ate family hot-pot in the evening, and was still in the process of configuring nanobot just now. What a day!
+
+During the day, I hung out in the park near my home with my old friend, then I came to his home, and played HearthStone Battlegrounds. It’s been a long time since I last played this game, so many new minions I didn’t know. Therefore, almost all decisions were made by my friend. Gradually, I became sleepy because of the lack of positive feedback.
+
+I still failed to finish the task of configuring nanobot. The LLM API configuration really confused me. My nanobot responded that no API was connected, so I was unable to process requests that require its AI capabilities. Man! What can I say? Just keep debugging until it works.
+
+Besides, I had a one-on-one meeting with the lead-developer of PUSDC. We discussed the user-expanding strategies.
+<!-- DAILY_CHECKIN_2026-02-24_END -->
+
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 **PRELUDE**
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -39,6 +75,7 @@ Today is the last day of this happy holiday, I still create no plan for this co-
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 ### PRELUDE
 
