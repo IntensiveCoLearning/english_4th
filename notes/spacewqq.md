@@ -15,8 +15,16 @@ web3初学者
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-24
+<!-- DAILY_CHECKIN_2026-02-24_START -->
+# Day 3
+
+1.  listening the englishpod for 30 minutes
+<!-- DAILY_CHECKIN_2026-02-24_END -->
+
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 # Day 2
 
 1.  Use Cambridge English to test my english level, my score is 16 out of 25. Maybe it takes so long time that I haven’t learn english grammar.
@@ -28,6 +36,7 @@ web3初学者
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 # Day 1
