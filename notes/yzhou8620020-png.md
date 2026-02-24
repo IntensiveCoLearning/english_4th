@@ -15,8 +15,61 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-24
+<!-- DAILY_CHECKIN_2026-02-24_START -->
+## how to keep studying when tired
+
+## boost energy
+
+### 1\. fix your body posture
+
+A study shows that our body influences how we think, feel and process information.
+
+### 2\. walking+sunlight combo
+
+Walking for just 10-20 minutes is plenty. Even simply walking around inside is fantastic.
+
+### 3\. take a power nap
+
+### 4\. coffee
+
+-   Strongly recommend not drink it regularly, it will trap you into a continuous loop
+    
+-   If you want drinking coffee to be more alert, avoid doing it habitually.
+    
+-   Limit yourself too 100-200 millig of caffeine in a day especially if you're younger.
+    
+-   Stop drinking coffee at least 6 hours before bed.
+    
+
+## optimize workflow
+
+### 1\. capture the easy wins
+
+When you're so tired, you can easily capture some repetitive tasks like creating flashcards, answering T/F questions.
+
+### 2\. understand what to prioritize
+
+Use a matrix to classify the resurgence and importance
+
+### 3\. find the fun
+
+e.g. assume the persona角色扮演
+
+e.g. gift yourself by rewarding at certain study session
+
+e.g. change your study place like cafe or library
+
+e.g. find a group people to study with
+
+### 4\. maintain the flow state
+
+batch your tasks to different groups that requires similar mindsets like logic and creativity
+<!-- DAILY_CHECKIN_2026-02-24_END -->
+
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 ## **The 4 Hobbies that Improved my Life**
 
 ### **YouTube – Ali Abdaal**
@@ -40,6 +93,7 @@ timezone: UTC+8
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 ## **If you’re ambitious but lazy, watch this**
 
