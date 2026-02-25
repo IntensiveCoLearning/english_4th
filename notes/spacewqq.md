@@ -19,13 +19,14 @@ web3初学者
 <!-- DAILY_CHECKIN_2026-02-25_START -->
 # Day 4
 
-1.  read a news about ios
+1.  reading a news about ios
     
 2.  listening englishpod for 20 minutes
 <!-- DAILY_CHECKIN_2026-02-25_END -->
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 # Day 3
 
@@ -34,6 +35,7 @@ web3初学者
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 # Day 2
@@ -47,6 +49,7 @@ web3初学者
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
