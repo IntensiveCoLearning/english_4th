@@ -15,8 +15,24 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-25
+<!-- DAILY_CHECKIN_2026-02-25_START -->
+[听力](https://hzpt-inet-club.github.io/english-note/guide/adjectiveToNoun.html)
+
+我认为听力
+
+跟理解挂钩
+
+而这里有个小诀窍
+
+就是蒙着眼睛 或者闭着眼睛
+
+听英文歌
+<!-- DAILY_CHECKIN_2026-02-25_END -->
+
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 今天学的语法
 
 [形容词 和 名词 的关系 | 英语语法](https://hzpt-inet-club.github.io/english-note/guide/adjectiveToNoun.html)
@@ -24,6 +40,7 @@ timezone: UTC+8
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 第一天
 
