@@ -15,8 +15,21 @@ o(=•ェ•=)m
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-25
+<!-- DAILY_CHECKIN_2026-02-25_START -->
+playing disco elysium--expanding vocabulary
+
+![20260225124045_1.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/marcuswustarman-tech/images/2026-02-25-1771994583528-20260225124045_1.jpg)
+
+feline: You can describe your kitten as your young _feline_ friend, since _feline_ describes anything having to do with cats.
+
+  
+"For a moment the man on the balcony seems almost vulnerable. Something moves in the depth of his feline eyes: compassion, and a hint of understanding." this expression is beautiful
+<!-- DAILY_CHECKIN_2026-02-25_END -->
+
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 writing paragraph about RWA(AI assistance)
 
 ## I. What Is RWA — Legal claim
@@ -151,6 +164,7 @@ It compresses:
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 doing some intensive oral pracing with GROK: (discussing about Stoicism)
 
