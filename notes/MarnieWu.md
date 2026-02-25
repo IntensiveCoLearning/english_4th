@@ -15,13 +15,20 @@ A new Web3 builder.
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-25
+<!-- DAILY_CHECKIN_2026-02-25_START -->
+发现还是得制定具体的学习计划，才能控制时间的投入，达到有效学习
+<!-- DAILY_CHECKIN_2026-02-25_END -->
+
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 语法学习中
 <!-- DAILY_CHECKIN_2026-02-24_END -->
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 Finish Grammar Learning  
 [https://hzpt-inet-club.github.io/english-note/guide/grammar.html](https://hzpt-inet-club.github.io/english-note/guide/grammar.html)
@@ -29,6 +36,7 @@ Finish Grammar Learning
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 -   **「Listen podcast」Get some strategy about “How to learn an foreign language”**
