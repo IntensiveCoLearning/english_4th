@@ -18,8 +18,32 @@ Just come and chat with me!
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-25
+<!-- DAILY_CHECKIN_2026-02-25_START -->
+### PRELUDE
+
+About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
+
+Today’s authentication lyrics:
+
+RIDE ON TIME　心に火を点けて~
+
+飛び立つ魂に送るよ　RIDE ON TIME~
+
+Hey Aloha! How’s everybody? マヒマヒ _RIDE ON TIME_! Welcome to HAWAII KIKI RADIO! This is Come Along Ⅱ, track 9, _RIDE ON TIME_!
+
+### Track (Or diary, whatever)
+
+Another day of sun! Today I had a trial of our PUSDC demo, and proposed some issues of user-experience to our intern-developer. We discussed a lot and iterated a better front-end interface. Regrettably, I found a back-end issue that fatally influenced the main function, email transactions. The lead-developer is working on the fix intensively. So the user expansion plan paused temporarily. There will be a meeting soon later tonight to discuss the official project name and fine-grained expansion plan.
+
+But today is also another leisure day, and I imitated the DJ of HAWAII KIKI RADIO to practice my speaking with my partner, Zoya. Then she said, “That sounds really like city-pop style.” And she’s right, I am a city-pop man, truly. Who is craving for sunshine, beach and bassline? Exactly, it’s me. If I can waste time in the log cabin near the beach, god knows how many science fictions I could write!
+
+Tomorrow evening I will take a train back to Shanghai. And when I return to Shanghai, I will work hard to get employed and make as much money as I can.
+<!-- DAILY_CHECKIN_2026-02-25_END -->
+
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 ### PRELUDE
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -56,6 +80,7 @@ Besides, I had a one-on-one meeting with the lead-developer of PUSDC. We discuss
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
 
+
 **PRELUDE**
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -75,6 +100,7 @@ Today is the last day of this happy holiday, I still create no plan for this co-
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 ### PRELUDE
