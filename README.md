@@ -193,7 +193,7 @@
 | [WWS312](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/WWS312.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [ylxlxlx](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/ylxlxlx.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [jiezi77706](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/jiezi77706.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
-| [marcuswustarman-tech](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/marcuswustarman-tech.md) | ⭕️ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | |
+| [marcuswustarman-tech](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/marcuswustarman-tech.md) | ⭕️ | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | |
 | [JackCC703](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/JackCC703.md) | ✅ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | |
 | [aiyoudiao](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/aiyoudiao.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | |
 | [zoeyz3](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/zoeyz3.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
@@ -205,7 +205,7 @@
 | [cecilia721](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/cecilia721.md) | ✅ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | |
 | [shaoguoji](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/shaoguoji.md) | ⭕️ | ⭕️ | ✅ |   | | | | | | | | | | | | | | | | | |
 | [ershisihuasheng2003](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/ershisihuasheng2003.md) | ⭕️ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | |
-| [sylvia-tso](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/sylvia-tso.md) | ✅ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | |
+| [sylvia-tso](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/sylvia-tso.md) | ✅ | ✅ | ⭕️ | ✅ | | | | | | | | | | | | | | | | | |
 | [Gavinwonder](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Gavinwonder.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [bruce237](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/bruce237.md) | ⭕️ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | |
 | [SupeRay0703](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/SupeRay0703.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | |
@@ -283,6 +283,7 @@
 | [Xiaonan2020](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Xiaonan2020.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [zombiegazhi](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/zombiegazhi.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
