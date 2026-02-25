@@ -229,7 +229,7 @@
 | [QingQiuGeek](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/QingQiuGeek.md) | ✅ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | |
 | [JarvisRiser](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/JarvisRiser.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [liyuhengha-png](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/liyuhengha-png.md) | ✅ | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | |
-| [Karynam2](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Karynam2.md) | ⭕️ | ⭕️ | ✅ |   | | | | | | | | | | | | | | | | | |
+| [Karynam2](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Karynam2.md) | ⭕️ | ⭕️ | ✅ | ✅ | | | | | | | | | | | | | | | | | |
 | [tengjskk-spec](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/tengjskk-spec.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [HankGrimm](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/HankGrimm.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [zym89861-wq](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/zym89861-wq.md) | ✅ | ⭕️ | ✅ | ✅ | | | | | | | | | | | | | | | | | |
@@ -283,6 +283,7 @@
 | [Xiaonan2020](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Xiaonan2020.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [zombiegazhi](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/zombiegazhi.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
