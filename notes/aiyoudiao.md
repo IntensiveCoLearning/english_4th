@@ -15,8 +15,137 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-25
+<!-- DAILY_CHECKIN_2026-02-25_START -->
+今天继续看完 [https://hzpt-inet-club.github.io/english-note/guide/grammar.html](https://hzpt-inet-club.github.io/english-note/guide/grammar.html，)  
+
+### 形容词语名词的关系
+
+形容词是用来修饰名词的。
+
+> 一般前面站  
+> 不定代词往后挪  
+> a- 形容词往后放  
+> 太长太复杂往后躲
+
+比如：
+
+-   a big house
+    
+-   a beautiful girl
+    
+-   an interesting book
+    
+
+-   前置定语：
+    
+    -   名词短语 中，用形容词修饰一个 名词 ，通常结构为 「限定词+形容词+名词」 a red apple、my new phone
+        
+    -   当多个 形容词 修饰一个 名词 时， 先说感觉，再说事实。
+        
+        -   大原则： 「观点形容词 + 描绘形容词」，
+            
+        -   观点形容词 表示对事物的看法，描绘形容词 表示事物本身的特征 a nice small dog、a beautiful big house
+            
+        -   限定词 + 观点形容词 + 描绘形容词 + 名词
+            
+-   后置定语
+    
+    -   在修饰「some，any，no，every」 和「one，thing，body」的 合成词 时， 形容词 要后置。 someone importan
+        
+    -   a- 开头的那些单词，比如 「alone, afraid, aside, asleep, alike… 」，形容词要后置。 The baby is asleep.
+        
+    -   修辞词太复杂了，就需要后置
+        
+        -   当 修辞词 本身带有不定式， 介词 词组等补足成分时， 也要被后置。因为如果放前面会太长、太复杂、不自然。
+            
+        -   带 介词 短语 a girl interested in music
+            
+        -   带不定式 a book easy to read
+            
+        -   带从句 the only person capable of doing it
+            
+-   特殊
+    
+    -   一般来说， 形容词 前置后置含义都不变， 不过凡事都有例外，有些词位置不同，意思会变。
+        
+        -   the present members（现在的成员）
+            
+        -   the members present（在场的成员）
+            
+    -   这些词表示特定的词义必须前置或者后置
+        
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/aiyoudiao/images/2026-02-25-1772029980451-image.png)
+
+### 花心的副词
+
+用来修饰 动词（verb）形容词（adj）另一个副词（adv）
+
+副词 = “修饰别人”的词
+
+> 修饰形容词 → 副词在前  
+> 修饰副词 → 强调在前  
+> 修饰动词 → 通常在后  
+> 强调语气 → 提前站队
+
+-   adv+adj：副词修饰形容词时， 形容词要让副词在前
+    
+-   adv+adv：副词修复副词时，修饰的那个在前面，被修饰的那个在后面
+    
+-   adv+verb：通常副词放在动词后面，以下两种情况 副词会放到动词前面
+    
+    -   在副词放后面有歧义时，副词放到动词的前面
+        
+    -   修饰的副词语气很强烈，副词需要放到动词前面
+        
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/aiyoudiao/images/2026-02-25-1772029546071-image.png)
+
+### 如何用介词 in / on / at 表示位置
+
+in 进“空间” ：表示在里面，强调在其内部，被包围、在范围之内
+
+on 是贴“表面”：表示在上面，强调在平面、表面上，接触某个表面
+
+at 是当成“点”：表示把位置当作一个 “点”，只强调“地点”，不强调里面或表面
+
+### 搞事的比较级（有点迷糊）
+
+比较级 = 用来比较两个人或两样东西的不同。
+
+### \# 单词变化
+
+**短单词（一般加 -er）**
+
+| 原级 | 比较级 |
+| --- | --- |
+| tall | taller |
+| small | smaller |
+| fast | faster |
+| young | younger |
+
+**长单词（前面加 more）**
+
+| 原级 | 比较级 |
+| --- | --- |
+| beautiful | more beautiful |
+| expensive | more expensive |
+| important | more important |
+
+**特殊变化（特别记）**
+
+| 原级 | 比较级 |
+| --- | --- |
+| good | better |
+| bad | worse |
+| many/much | more |
+| little | less |
+<!-- DAILY_CHECKIN_2026-02-25_END -->
+
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 今天看了 [https://hzpt-inet-club.github.io/english-note/guide/grammar.html](https://hzpt-inet-club.github.io/english-note/guide/grammar.html)，了解了 句子、句子成分、单词之间的关系。
 
 ### 十大词性
@@ -100,6 +229,7 @@ timezone: UTC+8
 
 
 
+
 今天学了 20 个英标，20个单词。感觉哪里不是很顺，应该是不习惯，但可以持续下去看看，再看看有没有更好用的工具和资料。  
 明儿白天抽空看看英语语法：https://hzpt-inet-club.github.io/english-note/guide/grammar.html  
 
@@ -108,6 +238,7 @@ timezone: UTC+8
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
