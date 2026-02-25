@@ -15,8 +15,16 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-25
+<!-- DAILY_CHECKIN_2026-02-25_START -->
+Daily English Dictation
+
+-   Asian tiger mosquitoes are native to the tropics of Southeast Asia, but in the past few years they‘ve spread all across the southeastern United States.
+<!-- DAILY_CHECKIN_2026-02-25_END -->
+
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 Daily English Dictation
 
 -   It is a lofty， probably impossible goal.
@@ -28,6 +36,7 @@ Daily English Dictation
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 Daily English Dictation
@@ -53,6 +62,7 @@ Daily English Dictation
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
