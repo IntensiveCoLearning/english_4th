@@ -15,8 +15,22 @@ Hi~ I’m Nina. I’m engaged in the traditional financial industry.Now I’m ex
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-25
+<!-- DAILY_CHECKIN_2026-02-25_START -->
+English pod2
+
+1学的点餐 2打电话请病假n
+
+**coming down with sth 感觉要什么病了**
+
+feel slightly feverish感觉要发烧了
+
+quite ill /sick
+<!-- DAILY_CHECKIN_2026-02-25_END -->
+
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 第一次尝试daily English dictation：1.Mother Terisa receive mobile a piceprice for her work on behalf of poor xxxxx india，she was 87 years old.
 
 有点懵哈哈不知道在说啥
