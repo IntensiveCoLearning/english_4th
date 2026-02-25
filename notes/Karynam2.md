@@ -21,10 +21,13 @@ timezone: UTC+8
 2.25
 
 继续学习：shadowing 一篇新闻到流利，一共6遍左右吧
+
+shadowing 韩语，一篇新闻（关于韩国人兼职和正职的人群比例和收入比较）
 <!-- DAILY_CHECKIN_2026-02-25_END -->
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 2.24
 
