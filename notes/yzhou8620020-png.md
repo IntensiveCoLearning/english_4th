@@ -15,8 +15,42 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-25
+<!-- DAILY_CHECKIN_2026-02-25_START -->
+## Deep Work System
+
+### 1\. realize the importance of deep work
+
+"muscle"
+
+### 2\. how to do it
+
+“Building your own productivity system is a very personal thing”
+
+1\. schedule your deep work into the calendar
+
+\- use some days that entirely deep work days, and some days that entirely shallow work days
+
+\- try to build a daily rhythm for yourself that related to deep work
+
+2\. take 5 mins assign & organize
+
+\- e.g. listen light music,
+
+3\. focus 50 mins (not fixed)
+
+\- maybe sometimes you only can focus 15 mins (it's OK
+
+4\. take 5 mins reflect &recharge
+
+\- take the focus log: track how many time you focus on deep work
+
+\-
+<!-- DAILY_CHECKIN_2026-02-25_END -->
+
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 ## how to keep studying when tired
 
 ## boost energy
@@ -70,6 +104,7 @@ batch your tasks to different groups that requires similar mindsets like logic a
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
 
+
 ## **The 4 Hobbies that Improved my Life**
 
 ### **YouTube – Ali Abdaal**
@@ -93,6 +128,7 @@ batch your tasks to different groups that requires similar mindsets like logic a
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 ## **If you’re ambitious but lazy, watch this**
