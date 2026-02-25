@@ -211,7 +211,7 @@
 | [SupeRay0703](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/SupeRay0703.md) | ✅ | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | |
 | [Fuyew1](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Fuyew1.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [yenlingpeng95-cmd](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/yenlingpeng95-cmd.md) | ✅ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | |
-| [0xBrick-Li](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/0xBrick-Li.md) | ⭕️ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | |
+| [0xBrick-Li](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/0xBrick-Li.md) | ⭕️ | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | |
 | [riwev](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/riwev.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [Uoghluvm](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Uoghluvm.md) | ⭕️ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | |
 | [JWiang](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/JWiang.md) | ⭕️ | ✅ | ⭕️ | ✅ | | | | | | | | | | | | | | | | | |
@@ -260,7 +260,7 @@
 | [liuyuedayueyue-star](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/liuyuedayueyue-star.md) | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | | | | | |
 | [vientoenpopa-creator](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/vientoenpopa-creator.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [tianxuanzhizi01](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/tianxuanzhizi01.md) | ✅ | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | |
-| [zoiaw1214](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/zoiaw1214.md) | ✅ | ✅ | ⭕️ |   | | | | | | | | | | | | | | | | | |
+| [zoiaw1214](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/zoiaw1214.md) | ✅ | ✅ | ⭕️ | ✅ | | | | | | | | | | | | | | | | | |
 | [MarnieWu](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/MarnieWu.md) | ✅ | ✅ | ✅ | ✅ | | | | | | | | | | | | | | | | | |
 | [dodinhanhquyen-ui](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/dodinhanhquyen-ui.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [lanwudawn](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/lanwudawn.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
@@ -283,6 +283,7 @@
 | [Xiaonan2020](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Xiaonan2020.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [zombiegazhi](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/zombiegazhi.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
