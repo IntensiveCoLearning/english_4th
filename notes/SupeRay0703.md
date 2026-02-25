@@ -15,8 +15,29 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-25
+<!-- DAILY_CHECKIN_2026-02-25_START -->
+Day 4
+
+1.  I followed my plan listening to the English Pod:
+    
+
+a. Understaffed - Not enough people to do the job
+
+b. The timing is not right
+
+c. Weigh off my shoulders - remove the stress
+
+d. Give me a hand - help
+
+e. Sounds reasonable
+
+2.  Keep expressing myself in English!
+<!-- DAILY_CHECKIN_2026-02-25_END -->
+
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 Day 3 - Starting to work after the CNY holiday!
 
 1.  I followed my plan listening to the English Pod:
@@ -39,6 +60,7 @@ c. overbooked - full
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
 
+
 Day 2
 
 1.  I followed my plan listening to the English Pod:
@@ -57,6 +79,7 @@ d. Was hoping - To kindly expect
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 My ultimate goal in joining this learning group is to develop a better feel for English. If I'm ever kidnapped to an English-speaking country, at least I can still ask for the direction and get some food in English. (🤪Yes, I'm a foodie).
