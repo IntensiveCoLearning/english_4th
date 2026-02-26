@@ -15,8 +15,39 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-26
+<!-- DAILY_CHECKIN_2026-02-26_START -->
+Day 5
+
+1.  I followed my plan listening to the English Pod:
+    
+
+a. Cut in line
+
+b. Be a mile long - very long
+
+c. Road trip - long car trip
+
+d. Pit stop - quick stop for food or gas e.g Make a pit stop
+
+e. Munchies - snack/food
+
+f. Got all the bases covered - get everything ready
+
+g. It's all set - It's ready
+
+h. All ready to go
+
+i. Get going - start, leave go e.g. Let's get going Let's get down to the business
+
+j. Fill up the tank
+
+2.  Keep expressing myself in English!
+<!-- DAILY_CHECKIN_2026-02-26_END -->
+
 # 2026-02-25
 <!-- DAILY_CHECKIN_2026-02-25_START -->
+
 Day 4
 
 1.  I followed my plan listening to the English Pod:
@@ -37,6 +68,7 @@ e. Sounds reasonable
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 Day 3 - Starting to work after the CNY holiday!
 
@@ -61,6 +93,7 @@ c. overbooked - full
 <!-- DAILY_CHECKIN_2026-02-23_START -->
 
 
+
 Day 2
 
 1.  I followed my plan listening to the English Pod:
@@ -79,6 +112,7 @@ d. Was hoping - To kindly expect
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
