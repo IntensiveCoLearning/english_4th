@@ -15,8 +15,14 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-26
+<!-- DAILY_CHECKIN_2026-02-26_START -->
+EnglishPod 1-10c
+<!-- DAILY_CHECKIN_2026-02-26_END -->
+
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 I don’t see the point of…
 
 I couldn’t agree more.
@@ -40,6 +46,7 @@ That’s exactly what I mean.
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 I was wondering if…
