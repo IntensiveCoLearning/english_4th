@@ -15,8 +15,16 @@ o(=•ェ•=)m
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-26
+<!-- DAILY_CHECKIN_2026-02-26_START -->
+summarize long-termism in life:
+
+technically speaking, there is no "personal long-termism". Scholars currently haven't decide to declare a lifestyle, such as eating healthy food, focus on long-term goals, choosing entertainment that may do well to human, such as reading, instead of social media viewing is an ideology. This may disappoint some people who choose their life because of its fancy name(wow, long-termism, that's cool.) And I have to admit that I am one of them, knowing the fact make me feel weak and turndown, but then the harsh fact surprisingly woke me: The real task is only to live a life fulfilled, not just saying it.
+<!-- DAILY_CHECKIN_2026-02-26_END -->
+
 # 2026-02-25
 <!-- DAILY_CHECKIN_2026-02-25_START -->
+
 playing disco elysium--expanding vocabulary
 
 ![20260225124045_1.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/marcuswustarman-tech/images/2026-02-25-1771994583528-20260225124045_1.jpg)
@@ -29,6 +37,7 @@ feline: You can describe your kitten as your young _feline_ friend, since _felin
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 writing paragraph about RWA(AI assistance)
 
@@ -164,6 +173,7 @@ It compresses:
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 doing some intensive oral pracing with GROK: (discussing about Stoicism)
