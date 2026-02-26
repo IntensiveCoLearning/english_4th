@@ -15,8 +15,18 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-26
+<!-- DAILY_CHECKIN_2026-02-26_START -->
+1、口语对话半小时
+
+2、雅思阅读2篇并校对、
+
+整理生僻词汇并总结同义替换
+<!-- DAILY_CHECKIN_2026-02-26_END -->
+
 # 2026-02-25
 <!-- DAILY_CHECKIN_2026-02-25_START -->
+
 1、与Chat GPt进行口语交互练习
 
 2、利用Chat GPt生成单词卡片
@@ -26,6 +36,7 @@ timezone: UTC+8
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 今日第一天打卡
 
