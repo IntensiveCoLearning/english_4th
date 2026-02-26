@@ -15,8 +15,14 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-26
+<!-- DAILY_CHECKIN_2026-02-26_START -->
+I forgot to submit the daily refelction yesterday . That's a bad sign. So I'm trying to write something down to finish today's day streak.It's being so busy after new year.Just keep fighting!
+<!-- DAILY_CHECKIN_2026-02-26_END -->
+
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 Hi, I’m Vera. Let me quickly reflect on my day.
 
 Today is the first workday after Chinese New Year, so I’ve been a bit busy. I don’t have a full-time job at the moment, but I do have several part-time jobs. Since it’s the first workday, there are quite a few things I need to handle.
@@ -30,6 +36,7 @@ That’s all for today. This is my daily reflection.
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 用语音转文字总结了我的一天，然后找 GPT 老师改了下
 
@@ -50,6 +57,7 @@ Besides that, I fixed a bug in my code. Although I vibe-coded and managed my age
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 It's my first time to participate in an English co-learning activities, I still feel kind of thrilled.And I am a little busy during these days, so I haven't checked the learning sources.Then I decided to write something in English to finish my first daily task.
