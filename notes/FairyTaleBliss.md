@@ -18,8 +18,32 @@ Just come and chat with me!
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-26
+<!-- DAILY_CHECKIN_2026-02-26_START -->
+**PRELUDE**
+
+About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
+
+Today’s authentication lyrics:
+
+今は耳を澄ますだけ~ 炎と雨の响き是无尽的~ 仆の想い何ひとつ~
+
+伝える术も无いのに~ 2000tの雨が降れば~ 仆は今日も一人~
+
+Today’s city pop, _2000トンの雨,_ 2000 tons of rain. Tatsuro Yamashita, the creator of this song, thought that he wasn’t a music genius at that time and intended to make living in some other way, so he created this song to express the bitterness in his mind. But somehow, god knows, he became the godfather of city pop. In most of his songs, you can feel the day with sunshine, beach and waves.
+
+**Track (Or diary, whatever)**
+
+As I will take the train at night, today’s note is written during the day.
+
+Yesterday evening, the PUSDC team had a meeting where we made several decisions for the next stage, including user expansion which I am concerned with and passionate about doing. But the regrettable thing was we still had no consensus on the new brand name for this project, and the only consensus was that PUSDC couldn’t be the name that would make a deep impression on VCs.
+
+Today, Zoya and I are going to apply for the X Space bounty task from LXDAO. We are discussing the topic of the X Space, and we intend to coordinate it with the PUSDC project and the purpose of LXDAO.
+<!-- DAILY_CHECKIN_2026-02-26_END -->
+
 # 2026-02-25
 <!-- DAILY_CHECKIN_2026-02-25_START -->
+
 ### PRELUDE
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -43,6 +67,7 @@ Tomorrow evening I will take a train back to Shanghai. And when I return to Shan
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 ### PRELUDE
 
@@ -81,6 +106,7 @@ Besides, I had a one-on-one meeting with the lead-developer of PUSDC. We discuss
 <!-- DAILY_CHECKIN_2026-02-23_START -->
 
 
+
 **PRELUDE**
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -100,6 +126,7 @@ Today is the last day of this happy holiday, I still create no plan for this co-
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
