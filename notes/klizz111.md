@@ -15,8 +15,20 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-26
+<!-- DAILY_CHECKIN_2026-02-26_START -->
+## Daily accumulation 05
+
+-   **_audacious_** $\\leftarrow$ bold
+    
+-   **_imminent_** $\\leftarrow$ upcoming/urgent
+    
+-   **_elaborate_** $\\leftarrow$ v: depict something with adequate details; adj: something complicated and sophisticated
+<!-- DAILY_CHECKIN_2026-02-26_END -->
+
 # 2026-02-25
 <!-- DAILY_CHECKIN_2026-02-25_START -->
+
 ## Daily accumulation 04
 
 -   \*replica\* $\\leftarrow$ copy, noun
@@ -29,6 +41,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
 
+
 ## Daily accumulation 03
 
 -   _foretell_: the oracle is a machine that can _foretell_ something that will happen in future
@@ -38,6 +51,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 ## Daily accumulation 02
@@ -53,6 +67,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
