@@ -15,8 +15,16 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-27
+<!-- DAILY_CHECKIN_2026-02-27_START -->
+1、雅思真题听力2篇，整理错题及词汇
+
+2、雅思真题阅读2篇，整理错题及词汇
+<!-- DAILY_CHECKIN_2026-02-27_END -->
+
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 1、口语对话半小时
 
 2、雅思阅读2篇并校对、
@@ -27,6 +35,7 @@ timezone: UTC+8
 # 2026-02-25
 <!-- DAILY_CHECKIN_2026-02-25_START -->
 
+
 1、与Chat GPt进行口语交互练习
 
 2、利用Chat GPt生成单词卡片
@@ -36,6 +45,7 @@ timezone: UTC+8
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 今日第一天打卡
