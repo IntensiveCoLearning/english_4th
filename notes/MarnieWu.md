@@ -15,19 +15,27 @@ A new Web3 builder.
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-27
+<!-- DAILY_CHECKIN_2026-02-27_START -->
+GM
+<!-- DAILY_CHECKIN_2026-02-27_END -->
+
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 ✊ 坚持
 <!-- DAILY_CHECKIN_2026-02-26_END -->
 
 # 2026-02-25
 <!-- DAILY_CHECKIN_2026-02-25_START -->
 
+
 发现还是得制定具体的学习计划，才能控制时间的投入，达到有效学习
 <!-- DAILY_CHECKIN_2026-02-25_END -->
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 语法学习中
@@ -38,12 +46,14 @@ A new Web3 builder.
 
 
 
+
 Finish Grammar Learning  
 [https://hzpt-inet-club.github.io/english-note/guide/grammar.html](https://hzpt-inet-club.github.io/english-note/guide/grammar.html)
 <!-- DAILY_CHECKIN_2026-02-23_END -->
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
