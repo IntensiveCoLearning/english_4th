@@ -15,8 +15,16 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-27
+<!-- DAILY_CHECKIN_2026-02-27_START -->
+Daily English Dictation
+
+-   Battered, soaked and flooded, the Philippines is being hit by its second typhoon in a week.
+<!-- DAILY_CHECKIN_2026-02-27_END -->
+
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 Daily English Dictation
 
 -   The frantic pacing—scene changes every 11 seconds on average—often leaves kids zoned out and spund up, unable to concentrate.
@@ -24,6 +32,7 @@ Daily English Dictation
 
 # 2026-02-25
 <!-- DAILY_CHECKIN_2026-02-25_START -->
+
 
 Daily English Dictation
 
@@ -34,6 +43,7 @@ Daily English Dictation
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -48,6 +58,7 @@ Daily English Dictation
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 
@@ -76,6 +87,7 @@ Daily English Dictation
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
