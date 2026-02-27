@@ -15,8 +15,14 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-28
+<!-- DAILY_CHECKIN_2026-02-28_START -->
+The line graph illustrates the consumption of different energy sources in the USA from 1980 to 2030, with projections for the future. Overall, fossil fuels, particularly petrol and oil, are expected to remain the dominant energy sources throughout the period, while renewable energy sources such as solar/wind are projected to grow steadily but remain relatively minor. In 1980, petrol and oil were the most consumed energy source at around 35 quadrillion units, followed by coal (15 units) and natural gas (20 units). Petrol and oil consumption dipped slightly in the early 1980s before rising consistently to reach approximately 50 units by 2030. Coal consumption also increased, from 15 units in 1980 to a projected 30 units in 2030. In contrast, natural gas use fluctuated around 20 units until 2020, after which it is expected to stabilise at this level. Nuclear power saw modest growth, rising from 3 units in 1980 to around 8 units by 2030. Hydropower remained relatively stable at approximately 4 units throughout the period. Solar/wind energy, which was negligible in 1980, is projected to increase steadily, reaching about 5 units by 2030, though still far below the levels of fossil fuels.
+<!-- DAILY_CHECKIN_2026-02-28_END -->
+
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 C19-T3-P4 笔记整理（微塑料主题）
 
 1\. 来源：衣物（clothing）
@@ -135,6 +141,7 @@ C19-T3-P4 笔记整理（微塑料主题）
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
 
+
 66 Fluent Forever｜如何快速、地道、流利地学习一门外语？
 
 沉浸式学习 拒绝语言天赋论
@@ -142,6 +149,7 @@ C19-T3-P4 笔记整理（微塑料主题）
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 听 力 提 升 指
@@ -167,6 +175,7 @@ P2：尽量听懂，不跟丢，注意句子中的否定词(wont/can't)和时态
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
