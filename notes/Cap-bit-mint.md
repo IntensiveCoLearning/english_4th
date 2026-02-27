@@ -15,8 +15,16 @@ Hi I'm eden. I deeply resonate with the phrase, "The boundary of language is the
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-27
+<!-- DAILY_CHECKIN_2026-02-27_START -->
+**Cruel Coeducational Challenge – Day Five**
+
+Yesterday I forgot to check in, but I'm back at it today.For my shadowing practice, I practiced on a TED talk titled "You Don't Need More Than 2 Years." One line really stuck with me: _"Small changes are putting you in the position of succeeding; small changes make huge differences."_It’s so true. Yesterday my foreign friend told me my spoken English is more fluent than before. I'm so happy to hear that—it really motivates me to keep going.I will keep on practicing.
+<!-- DAILY_CHECKIN_2026-02-27_END -->
+
 # 2026-02-25
 <!-- DAILY_CHECKIN_2026-02-25_START -->
+
 DAY-3
 
 Yesterday I forgot to cleck in. Actually today is [day4.](http://day4.Now)
@@ -29,12 +37,14 @@ Sharing an interesting website which can study English words.
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
 
+
 **Day 2**  
 Today I chatted with two foreigners on Free4Talk. They are from Pakistan. It was so interesting to talk with them. I even taught one of them some Chinese. We chatted for two hours!
 <!-- DAILY_CHECKIN_2026-02-23_END -->
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 DAY-1
