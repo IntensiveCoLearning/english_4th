@@ -15,8 +15,20 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-27
+<!-- DAILY_CHECKIN_2026-02-27_START -->
+## Daily accumulation 06
+
+-   **_hype-d_** $\\leftarrow$ relatively over promoting with some exaggerated facts
+    
+-   **_invaluable_** $\\leftarrow$ to describe something whose value can't be assess or extremely precious
+    
+-   **_commotion-rebellion-agitation_**
+<!-- DAILY_CHECKIN_2026-02-27_END -->
+
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 ## Daily accumulation 05
 
 -   **_audacious_** $\\leftarrow$ bold
@@ -28,6 +40,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 # 2026-02-25
 <!-- DAILY_CHECKIN_2026-02-25_START -->
+
 
 ## Daily accumulation 04
 
@@ -42,6 +55,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 <!-- DAILY_CHECKIN_2026-02-24_START -->
 
 
+
 ## Daily accumulation 03
 
 -   _foretell_: the oracle is a machine that can _foretell_ something that will happen in future
@@ -51,6 +65,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 
@@ -67,6 +82,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
