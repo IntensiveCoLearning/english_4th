@@ -15,8 +15,20 @@ web3初学者
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-27
+<!-- DAILY_CHECKIN_2026-02-27_START -->
+# Day 6
+
+1.  listen the popular psychology【“脑子里像开了50个网页”ADHD的大脑在经历什么-哔哩哔哩】 [https://b23.tv/VrSLnK3](https://b23.tv/VrSLnK3)
+    
+2.  complish four chapters of duolingo
+    
+3.  read a news about Japan's antitrust investigation into Microsoft
+<!-- DAILY_CHECKIN_2026-02-27_END -->
+
 # 2026-02-25
 <!-- DAILY_CHECKIN_2026-02-25_START -->
+
 # Day 4
 
 1.  reading a news about ios
@@ -28,6 +40,7 @@ web3初学者
 <!-- DAILY_CHECKIN_2026-02-24_START -->
 
 
+
 # Day 3
 
 1.  listening the englishpod for 30 minutes
@@ -35,6 +48,7 @@ web3初学者
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 
@@ -49,6 +63,7 @@ web3初学者
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
