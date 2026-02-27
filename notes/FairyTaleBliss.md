@@ -18,8 +18,28 @@ Just come and chat with me!
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-27
+<!-- DAILY_CHECKIN_2026-02-27_START -->
+### PRELUDE
+
+About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
+
+Today’s authentication lyrics:
+
+And then came the rush of the flood~ The stars at night turned you to dust~ Melt me down~ _The Greatest,_ from Wong-Kar Wai’s movie _My Blueberry Nights_. Little blueberry pie, you don’t have to run away from New York. Just wait in Central Park, then your mom will find you, and your lover will find you, too.
+
+### Track (Or diary, whatever)
+
+After a long haul on the train, finally, I went back to Shanghai.
+
+On the train, I found some seed-users for PUSDC. What really regrettable is that we still haven’t reached a consensus on the project name.
+
+In the next few days, I will prepare for the BD coordinator interview and modify my resume to apply for more positions.
+<!-- DAILY_CHECKIN_2026-02-27_END -->
+
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 **PRELUDE**
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -44,6 +64,7 @@ Today, Zoya and I are going to apply for the X Space bounty task from LXDAO. We 
 # 2026-02-25
 <!-- DAILY_CHECKIN_2026-02-25_START -->
 
+
 ### PRELUDE
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -67,6 +88,7 @@ Tomorrow evening I will take a train back to Shanghai. And when I return to Shan
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 ### PRELUDE
@@ -107,6 +129,7 @@ Besides, I had a one-on-one meeting with the lead-developer of PUSDC. We discuss
 
 
 
+
 **PRELUDE**
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -126,6 +149,7 @@ Today is the last day of this happy holiday, I still create no plan for this co-
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
