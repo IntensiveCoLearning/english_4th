@@ -15,8 +15,16 @@ NUS硕士在读
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-27
+<!-- DAILY_CHECKIN_2026-02-27_START -->
+自学business vocabulary Day4
+
+![a653037249677d31c3b8f05967e536a3.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/zoiaw1214/images/2026-02-27-1772199620589-a653037249677d31c3b8f05967e536a3.jpg)
+<!-- DAILY_CHECKIN_2026-02-27_END -->
+
 # 2026-02-25
 <!-- DAILY_CHECKIN_2026-02-25_START -->
+
 自学business vocabulary Day3
 
 ![37be958de7b7bd05524de6ad2db7234d.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/zoiaw1214/images/2026-02-25-1772034682868-37be958de7b7bd05524de6ad2db7234d.jpg)
@@ -25,6 +33,7 @@ NUS硕士在读
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
 
+
 自学business vocabulary Day2
 
 ![c4ba10ba126d1f92cbb02f4b547a59d8.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/zoiaw1214/images/2026-02-23-1771858316942-c4ba10ba126d1f92cbb02f4b547a59d8.jpg)
@@ -32,6 +41,7 @@ NUS硕士在读
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 自学business vocabulary Day1
