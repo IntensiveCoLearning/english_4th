@@ -15,8 +15,29 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-28
+<!-- DAILY_CHECKIN_2026-02-28_START -->
+Day 6
+
+1.  I followed my plan listening to the English Pod:
+    
+
+a. Infected files
+
+b. Information / map / computer is **up-to-date**
+
+c. I'll be right up / there / down / out (depends on the situation)
+
+d. It turns out that...
+
+e. pick up the virus
+
+2.  Keep expressing myself in English!
+<!-- DAILY_CHECKIN_2026-02-28_END -->
+
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 Day 5
 
 1.  I followed my plan listening to the English Pod:
@@ -48,6 +69,7 @@ j. Fill up the tank
 # 2026-02-25
 <!-- DAILY_CHECKIN_2026-02-25_START -->
 
+
 Day 4
 
 1.  I followed my plan listening to the English Pod:
@@ -68,6 +90,7 @@ e. Sounds reasonable
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 Day 3 - Starting to work after the CNY holiday!
@@ -94,6 +117,7 @@ c. overbooked - full
 
 
 
+
 Day 2
 
 1.  I followed my plan listening to the English Pod:
@@ -112,6 +136,7 @@ d. Was hoping - To kindly expect
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
