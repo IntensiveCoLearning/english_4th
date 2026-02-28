@@ -18,8 +18,28 @@ Just come and chat with me!
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-28
+<!-- DAILY_CHECKIN_2026-02-28_START -->
+### **PRELUDE**
+
+About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
+
+Today’s authentication lyrics:
+
+Losing you 九月の都会は いつもと 変わらない顔で I'm losing you あの日の君を 昨日に変えてゆく
+
+I find that city pop lyrics prefer the story of heartbreak in September. I have experienced “heartbreak in September” for nearly ten years. I love the summer heat so bad, but feel sad when the leaves are brown.
+
+**Track (Or diary, whatever)**
+
+Another busy day! I updated my resume and applied for a position. Honestly, designing a good resume is still a challenge to me, so it took me a long time and it made me suffer a little. I want to work directly and produce value, not just play this recruitment game.
+
+I participated in the LXDAO weekly meeting, then I read a sequence of posts by Bruce in the LXDAO forum and updated my understanding of the S15 development route of LXDAO. Next week I will have the interview for the BD Coordinator position, and I believe that’s a good chance to express my thoughts about the S15 development route.
+<!-- DAILY_CHECKIN_2026-02-28_END -->
+
 # 2026-02-27
 <!-- DAILY_CHECKIN_2026-02-27_START -->
+
 ### PRELUDE
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -39,6 +59,7 @@ In the next few days, I will prepare for the BD coordinator interview and modify
 
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 
 **PRELUDE**
 
@@ -65,6 +86,7 @@ Today, Zoya and I are going to apply for the X Space bounty task from LXDAO. We 
 <!-- DAILY_CHECKIN_2026-02-25_START -->
 
 
+
 ### PRELUDE
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -88,6 +110,7 @@ Tomorrow evening I will take a train back to Shanghai. And when I return to Shan
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -130,6 +153,7 @@ Besides, I had a one-on-one meeting with the lead-developer of PUSDC. We discuss
 
 
 
+
 **PRELUDE**
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -149,6 +173,7 @@ Today is the last day of this happy holiday, I still create no plan for this co-
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
