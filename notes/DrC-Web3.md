@@ -15,8 +15,38 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-28
+<!-- DAILY_CHECKIN_2026-02-28_START -->
+Verse 1: Ariana Grande\]  
+[Tell me somethin' I need to know  
+Then take my breath and never let it go  
+If you just let me invade your space  
+I'll take the pleasure, take it with the pain](https://genius.com/24526142/Ariana-grande-and-the-weeknd-love-me-harder/Tell-me-somethin-i-need-to-know-then-take-my-breath-and-never-let-it-go-if-you-just-let-me-invade-your-space-ill-take-the-pleasure-take-it-with-the-pain)  
+  
+\[Pre-Chorus: Ariana Grande\]  
+And if in the moment, I bite my lip  
+Baby, in that moment, you'll know this is  
+[Somethin' bigger than us and beyond bliss  
+Give me a reason to believe it](https://genius.com/3943342/Ariana-grande-and-the-weeknd-love-me-harder/Somethin-bigger-than-us-and-beyond-bliss-give-me-a-reason-to-believe-it)  
+  
+\[Chorus: Ariana Grande\]  
+'Cause if you want to keep me  
+You gotta, gotta, gotta, gotta  
+Got to love me harder  
+And if you really need me  
+You gotta, gotta, gotta, gotta  
+Got to love me harder (Lo-love me harder)  
+  
+\[Post-Chorus: Ariana Grande\]  
+Ooh-ooh-ooh-ooh  
+Love me, love me, love me  
+Ooh-ooh-ooh-ooh  
+Harder, harder, harder
+<!-- DAILY_CHECKIN_2026-02-28_END -->
+
 # 2026-02-27
 <!-- DAILY_CHECKIN_2026-02-27_START -->
+
 Goodbye to you my trusted friend  
 We’ve known each other since we were nine or ten  
 Together we’ve climbed hills and trees  
@@ -108,6 +138,7 @@ We had seasons in the sun
 <!-- DAILY_CHECKIN_2026-02-26_START -->
 
 
+
 Everybody's looking for that something  
 One thing that makes it all complete  
 You find it in the strangest places  
@@ -158,6 +189,7 @@ I'm flying without wings
 
 
 
+
 [听力](https://hzpt-inet-club.github.io/english-note/guide/adjectiveToNoun.html)
 
 我认为听力
@@ -177,6 +209,7 @@ I'm flying without wings
 
 
 
+
 今天学的语法
 
 [形容词 和 名词 的关系 | 英语语法](https://hzpt-inet-club.github.io/english-note/guide/adjectiveToNoun.html)
@@ -184,6 +217,7 @@ I'm flying without wings
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
