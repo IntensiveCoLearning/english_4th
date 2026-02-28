@@ -15,8 +15,16 @@ web3初学者，增强英语水平
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-28
+<!-- DAILY_CHECKIN_2026-02-28_START -->
+I learned fifty-eight words ， including extensions.
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/emptytouch/images/2026-02-28-1772291183870-image.png)![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/emptytouch/images/2026-02-28-1772291201786-image.png)
+<!-- DAILY_CHECKIN_2026-02-28_END -->
+
 # 2026-02-27
 <!-- DAILY_CHECKIN_2026-02-27_START -->
+
 today， clock in .
 
 ![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/emptytouch/images/2026-02-27-1772205405638-image.png)
@@ -24,6 +32,7 @@ today， clock in .
 
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 
 I learned thirty-two words, fighting!
 
@@ -34,6 +43,7 @@ I learned thirty-two words, fighting!
 <!-- DAILY_CHECKIN_2026-02-25_START -->
 
 
+
 today，I learned thirty-six words，and expanded my vocabulary.
 
 ![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/emptytouch/images/2026-02-25-1772028903732-image.png)
@@ -41,6 +51,7 @@ today，I learned thirty-six words，and expanded my vocabulary.
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -55,6 +66,7 @@ today, I learned twenty-eight new words, and reviewed four words. I will sign in
 
 
 
+
 I learned thirty-seven new words，and reviewed thirteen words.
 
 ![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/emptytouch/images/2026-02-23-1771835621178-image.png)
@@ -62,6 +74,7 @@ I learned thirty-seven new words，and reviewed thirteen words.
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
