@@ -47,6 +47,7 @@ Harder, harder, harder
 # 2026-02-27
 <!-- DAILY_CHECKIN_2026-02-27_START -->
 
+
 Goodbye to you my trusted friend  
 We’ve known each other since we were nine or ten  
 Together we’ve climbed hills and trees  
@@ -139,6 +140,7 @@ We had seasons in the sun
 
 
 
+
 Everybody's looking for that something  
 One thing that makes it all complete  
 You find it in the strangest places  
@@ -190,6 +192,7 @@ I'm flying without wings
 
 
 
+
 [听力](https://hzpt-inet-club.github.io/english-note/guide/adjectiveToNoun.html)
 
 我认为听力
@@ -210,6 +213,7 @@ I'm flying without wings
 
 
 
+
 今天学的语法
 
 [形容词 和 名词 的关系 | 英语语法](https://hzpt-inet-club.github.io/english-note/guide/adjectiveToNoun.html)
@@ -217,6 +221,7 @@ I'm flying without wings
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
