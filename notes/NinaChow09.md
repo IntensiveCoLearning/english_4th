@@ -15,8 +15,24 @@ Hi~ I’m Nina. I’m engaged in the traditional financial industry.Now I’m ex
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-28
+<!-- DAILY_CHECKIN_2026-02-28_START -->
+English Pod-今天是插队的故事
+
+cut in line插队
+
+threre is no way。。。。不可能怎么怎么
+
+jump the queue 英式英语的插队
+
+line up /form a queue
+
+英音好难听懂
+<!-- DAILY_CHECKIN_2026-02-28_END -->
+
 # 2026-02-27
 <!-- DAILY_CHECKIN_2026-02-27_START -->
+
 今日English Pod
 
 understaffed人手不够
@@ -30,6 +46,7 @@ keep the costs down
 
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 
 English Pod-3 讲酒店住宿
 
@@ -46,6 +63,7 @@ Overbooked
 <!-- DAILY_CHECKIN_2026-02-25_START -->
 
 
+
 English pod2
 
 1学的点餐 2打电话请病假n
@@ -59,6 +77,7 @@ quite ill /sick
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 
