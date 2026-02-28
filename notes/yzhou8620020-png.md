@@ -15,8 +15,54 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-28
+<!-- DAILY_CHECKIN_2026-02-28_START -->
+## Make a given year the best year of your life
+
+Progress: towards the things that truly matter to us
+
+Balance: not sacrificing one area of life for growth in another
+
+Enjoy: enjoying each day on its own merit
+
+Three methods that can be used at any time of the year:
+
+### The Wheel of Life:
+
+rate our satisfaction/alignment with different areas of life from 0-10
+
+e.g. study/work, health, relationship, joy
+
+split more: mission, money, growth; body,mind; romance, family, friends
+
+Use your scoring to fill the pie chart with different colors, and circle the sections where the score is low and that you care more.
+
+### 12 Month Celebration
+
+ask yourself each area of your life: What would I like to be celebrating after 12 months?
+
+you can start with 3 areas you circled as being the most important
+
+you can write down several things you want to celebrate, but you can only choose to focus on one thing
+
+when you set your goal, not just thinking of it as a goal, but also a joyful adventure, like "PS: While enjoying every step along the way.
+
+Please write this down somewhere you can frequently and easily review it
+
+And ask why you want to do it, it means that you're more likely to stay that path which is most important to you
+
+### Ideal Week Method
+
+Open a blank calendar, call it your Ideal Week Calendar
+
+Block off the absolute essentials of your life in terms of when to wake up, it will show you how much time do you have left to play
+
+Depending on your month celebration, pick a block at least once a week for the goal
+<!-- DAILY_CHECKIN_2026-02-28_END -->
+
 # 2026-02-25
 <!-- DAILY_CHECKIN_2026-02-25_START -->
+
 ## Deep Work System
 
 ### 1\. realize the importance of deep work
@@ -50,6 +96,7 @@ timezone: UTC+8
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 ## how to keep studying when tired
 
@@ -105,6 +152,7 @@ batch your tasks to different groups that requires similar mindsets like logic a
 <!-- DAILY_CHECKIN_2026-02-23_START -->
 
 
+
 ## **The 4 Hobbies that Improved my Life**
 
 ### **YouTube – Ali Abdaal**
@@ -128,6 +176,7 @@ batch your tasks to different groups that requires similar mindsets like logic a
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
