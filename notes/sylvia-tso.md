@@ -15,8 +15,20 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-01
+<!-- DAILY_CHECKIN_2026-03-01_START -->
+a xx(satellite) (that was) carried the (to)space shato  (aboard the shuttle ) 20 years ago（is about to fall to earth)
+
+but nobody knows where the bread(debris)  will lead him (hit)
+
+Aboard the (连读）
+
+Is about to 连读
+<!-- DAILY_CHECKIN_2026-03-01_END -->
+
 # 2026-02-27
 <!-- DAILY_CHECKIN_2026-02-27_START -->
+
 another road (rogue) trader has cost the（a)  bank billions
 
 Rogue :流氓
@@ -26,6 +38,7 @@ cost 和 a连读
 
 # 2026-02-25
 <!-- DAILY_CHECKIN_2026-02-25_START -->
+
 
 i have come here to chew bubblegum and kick ass and (im) all out of bubblegum
 
@@ -37,12 +50,14 @@ i have come here to chew bubblegum and kick ass and (im) all out of bubblegum
 <!-- DAILY_CHECKIN_2026-02-23_START -->
 
 
+
 dont never let somebody tell u, you cant do something  
 never 应是ever, dont 和ever连读以后t音变weak
 <!-- DAILY_CHECKIN_2026-02-23_END -->
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
