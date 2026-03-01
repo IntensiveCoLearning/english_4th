@@ -18,10 +18,13 @@ timezone: UTC+8
 # 2026-03-01
 <!-- DAILY_CHECKIN_2026-03-01_START -->
 Daily English Dictation
+
+-   A few years ago they were thought to be useless—past their prime, not now!
 <!-- DAILY_CHECKIN_2026-03-01_END -->
 
 # 2026-02-27
 <!-- DAILY_CHECKIN_2026-02-27_START -->
+
 
 Daily English Dictation
 
@@ -32,6 +35,7 @@ Daily English Dictation
 <!-- DAILY_CHECKIN_2026-02-26_START -->
 
 
+
 Daily English Dictation
 
 -   The frantic pacing—scene changes every 11 seconds on average—often leaves kids zoned out and spund up, unable to concentrate.
@@ -39,6 +43,7 @@ Daily English Dictation
 
 # 2026-02-25
 <!-- DAILY_CHECKIN_2026-02-25_START -->
+
 
 
 
@@ -56,6 +61,7 @@ Daily English Dictation
 
 
 
+
 Daily English Dictation
 
 -   It is a lofty， probably impossible goal.
@@ -67,6 +73,7 @@ Daily English Dictation
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 
@@ -97,6 +104,7 @@ Daily English Dictation
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
