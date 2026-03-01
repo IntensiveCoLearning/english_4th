@@ -18,8 +18,30 @@ Just come and chat with me!
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-01
+<!-- DAILY_CHECKIN_2026-03-01_START -->
+### PRELUDE
+
+About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
+
+Today’s authentication lyrics:
+
+雨の中けむるあなたの~ 后姿、二度と振り返らず~ これがきっと别れなのね~
+
+今 气付くの 迟すぎたわ…~
+
+_Lost Love In The Rain_, from _Timely!!_, track 8, lyrics and composition by Toshiki Kadomatsu. Rainy day makes me thought of this song. Doesn’t like other sad song, Toshiki Kadomatsu’s compositions are like rainwater sliding off the back of an umbrella, as if narrate the story of a normal rainy night. Sax interlude, bassline and synthesizer, the whole track is perfect like nature itself.
+
+### Track (Or diary, whatever)
+
+Rainy day, sleepy day! I took many hours to sleep but still not really energetic.
+
+But I still finished some tasks, like resume modification and position application.
+<!-- DAILY_CHECKIN_2026-03-01_END -->
+
 # 2026-02-28
 <!-- DAILY_CHECKIN_2026-02-28_START -->
+
 ### **PRELUDE**
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -40,6 +62,7 @@ I participated in the LXDAO weekly meeting, then I read a sequence of posts by B
 # 2026-02-27
 <!-- DAILY_CHECKIN_2026-02-27_START -->
 
+
 ### PRELUDE
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -59,6 +82,7 @@ In the next few days, I will prepare for the BD coordinator interview and modify
 
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 
 
 **PRELUDE**
@@ -87,6 +111,7 @@ Today, Zoya and I are going to apply for the X Space bounty task from LXDAO. We 
 
 
 
+
 ### PRELUDE
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -110,6 +135,7 @@ Tomorrow evening I will take a train back to Shanghai. And when I return to Shan
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -154,6 +180,7 @@ Besides, I had a one-on-one meeting with the lead-developer of PUSDC. We discuss
 
 
 
+
 **PRELUDE**
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -173,6 +200,7 @@ Today is the last day of this happy holiday, I still create no plan for this co-
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
