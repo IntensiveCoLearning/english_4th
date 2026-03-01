@@ -15,8 +15,29 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-01
+<!-- DAILY_CHECKIN_2026-03-01_START -->
+Day 7
+
+1.  I followed my plan listening to the English Pod:
+    
+
+a. in bit of a hurry
+
+b. slip ones mind - forget
+
+c. around there - close
+
+d. terrible with number / direction / faces
+
+e. contact details
+
+2.  I only rest one day this week, so I didnt keep expressing myself in English today : (
+<!-- DAILY_CHECKIN_2026-03-01_END -->
+
 # 2026-02-28
 <!-- DAILY_CHECKIN_2026-02-28_START -->
+
 Day 6
 
 1.  I followed my plan listening to the English Pod:
@@ -37,6 +58,7 @@ e. pick up the virus
 
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 
 Day 5
 
@@ -70,6 +92,7 @@ j. Fill up the tank
 <!-- DAILY_CHECKIN_2026-02-25_START -->
 
 
+
 Day 4
 
 1.  I followed my plan listening to the English Pod:
@@ -90,6 +113,7 @@ e. Sounds reasonable
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -118,6 +142,7 @@ c. overbooked - full
 
 
 
+
 Day 2
 
 1.  I followed my plan listening to the English Pod:
@@ -136,6 +161,7 @@ d. Was hoping - To kindly expect
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
