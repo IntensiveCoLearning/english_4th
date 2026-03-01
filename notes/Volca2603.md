@@ -15,13 +15,20 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-01
+<!-- DAILY_CHECKIN_2026-03-01_START -->
+…最近怎么越来越忙了，今天一定学习好吗？
+<!-- DAILY_CHECKIN_2026-03-01_END -->
+
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 I forgot to submit the daily refelction yesterday . That's a bad sign. So I'm trying to write something down to finish today's day streak.It's being so busy after new year.Just keep fighting!
 <!-- DAILY_CHECKIN_2026-02-26_END -->
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 Hi, I’m Vera. Let me quickly reflect on my day.
 
@@ -36,6 +43,7 @@ That’s all for today. This is my daily reflection.
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 用语音转文字总结了我的一天，然后找 GPT 老师改了下
@@ -57,6 +65,7 @@ Besides that, I fixed a bug in my code. Although I vibe-coded and managed my age
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
