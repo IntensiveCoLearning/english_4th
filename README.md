@@ -184,7 +184,7 @@
 | [sunyuchenyaobo](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/sunyuchenyaobo.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [Miaaa111](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Miaaa111.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⭕️ | ✅ | | | | | | | | | | | | | |
 | [lrm350378-star](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/lrm350378-star.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
-| [FairyTaleBliss](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/FairyTaleBliss.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | |
+| [FairyTaleBliss](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/FairyTaleBliss.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | | | | | | | | | | | | | |
 | [Jalen1412](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Jalen1412.md) | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
 | [2273310475-dev](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/2273310475-dev.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | | | | | | | | | | | | | |
 | [sharingcoke](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/sharingcoke.md) | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
@@ -277,12 +277,13 @@
 | [I-am-not-Terry](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/I-am-not-Terry.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [hjx516615156-hue](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/hjx516615156-hue.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [hwish39-byte](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/hwish39-byte.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
-| [XGe711](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/XGe711.md) | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   | | | | | | | | | | | | | |
+| [XGe711](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/XGe711.md) | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | | | | | | | | | | | | | |
 | [Arvo-in-coding](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Arvo-in-coding.md) | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ❌ | | | | | | | | | | | | | | | |
 | [yishengxu777-sketch](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/yishengxu777-sketch.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [Xiaonan2020](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Xiaonan2020.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [zombiegazhi](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/zombiegazhi.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
