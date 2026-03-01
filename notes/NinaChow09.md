@@ -15,8 +15,34 @@ Hi~ I’m Nina. I’m engaged in the traditional financial industry.Now I’m ex
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-01
+<!-- DAILY_CHECKIN_2026-03-01_START -->
+**English pod 6 road trip**
+
+packed。the car is packed需要的都装好了
+
+munchis 零食snacks
+
+fill up the tank加满油
+
+pit stop 小停一下
+
+we‘ve got all our bases covered 都准备好了
+
+let‘s get going 咱们出发
+
+it‘s all set 准备好了
+
+freeway=highway
+
+highway toll 免费使用高速
+
+trunk 后备箱
+<!-- DAILY_CHECKIN_2026-03-01_END -->
+
 # 2026-02-28
 <!-- DAILY_CHECKIN_2026-02-28_START -->
+
 English Pod-今天是插队的故事
 
 cut in line插队
@@ -33,6 +59,7 @@ line up /form a queue
 # 2026-02-27
 <!-- DAILY_CHECKIN_2026-02-27_START -->
 
+
 今日English Pod
 
 understaffed人手不够
@@ -46,6 +73,7 @@ keep the costs down
 
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 
 
 English Pod-3 讲酒店住宿
@@ -64,6 +92,7 @@ Overbooked
 
 
 
+
 English pod2
 
 1学的点餐 2打电话请病假n
@@ -77,6 +106,7 @@ quite ill /sick
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 
