@@ -15,8 +15,20 @@ web3初学者
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-01
+<!-- DAILY_CHECKIN_2026-03-01_START -->
+# Day 8
+
+1.  reading english book for 1 hours, learning about 23 words in the book
+    
+2.  learning 5 lessons in duolingo
+    
+3.  watching 2 episodes of Friends in the afternoon
+<!-- DAILY_CHECKIN_2026-03-01_END -->
+
 # 2026-02-27
 <!-- DAILY_CHECKIN_2026-02-27_START -->
+
 # Day 6
 
 1.  listen the popular psychology【“脑子里像开了50个网页”ADHD的大脑在经历什么-哔哩哔哩】 [https://b23.tv/VrSLnK3](https://b23.tv/VrSLnK3)
@@ -28,6 +40,7 @@ web3初学者
 
 # 2026-02-25
 <!-- DAILY_CHECKIN_2026-02-25_START -->
+
 
 # Day 4
 
@@ -41,6 +54,7 @@ web3初学者
 
 
 
+
 # Day 3
 
 1.  listening the englishpod for 30 minutes
@@ -48,6 +62,7 @@ web3初学者
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 
@@ -63,6 +78,7 @@ web3初学者
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
