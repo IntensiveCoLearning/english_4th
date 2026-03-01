@@ -15,8 +15,48 @@ o(=•ェ•=)m
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-01
+<!-- DAILY_CHECKIN_2026-03-01_START -->
+Auguries:An _augury_ is a sign of things to come, like an omen. If you’re superstitious, you might think that seeing a black cat is an _augury_ of bad luck.
+
+\-- means a "sign"
+
+omen:An _omen_ is an event or happening that you take as sign of something to come. It’s believed to be a bad _omen_ if a black cat crosses your path or if it rains on your wedding day.
+
+  
+
+then, what is the difference between auguries and omen?
+
+The distinction is decided by agency and specificity: omen is the raw communicative event from the divine (a phenomenon interpreted as meaningful); augury is the human institutional response — a deliberate, rule-bound technique to elicit and decode signs, especially avian ones. The governing constraint is intentionality: omens can appear spontaneously (unsought), while augury requires active solicitation within a defined framework (e.g., marking a templum in the sky, observing in a prescribed direction). This reflects the ancient worldview that gods communicate indirectly through nature, but humans can structure that communication for practical (especially political/military) decisions.
+
+condenses: When you _condense_ something, you cut it down and trim it. You may love every word of your 1000-page novel, but you'll have to _condense_ the plot into a 2-page summary for your editor.
+
+  
+irreducible: Something _irreducible_ is as simple, basic, or straightforward as it possibly can be.
+
+  
+constraint: A _constraint_ is a limit or restriction. Hopefully your school won't cut the sports or music programs due to budget _constraints_!
+
+  
+allusion: That little nod to a Dylan Thomas poem that you sneaked into your PowerPoint presentation? That was an _allusion_, a quick reference to something that your audience will have to already know in order to "get."
+
+what is the difference between allusion, reference, and reference?
+
+Allusion is a brief, usually indirect (and sometimes direct but unexplained) reference to something external (person, event, work, myth) for rhetorical/literary effect, relying on reader recognition to add layered meaning. Reference is a broader, usually explicit/direct mention of a source, often for informational/clarificatory purposes (e.g., evidence, citation). The query repeats “reference,” so the core difference lies in indirect/subtle vs explicit/explained; allusion is a specific literary device subset of reference, not a separate category from it.
+
+**microcosm：**When you think of _microcosm_, picture your home town inside a snow globe. The teeny tiny city is a _microcosm_ of the one you live in. It is that place in miniature.
+
+  
+what is the meaning of microcosm?
+
+macrocosm: The _macrocosm_ is everything that exists: it's another word for the universe or cosmos.
+
+epitome: If you're talking about a typical example of something, call it the _epitome._ The cartoon character Garfield is the _epitome_ of the lazy, food-obsessed cat.
+<!-- DAILY_CHECKIN_2026-03-01_END -->
+
 # 2026-02-27
 <!-- DAILY_CHECKIN_2026-02-27_START -->
+
 difference between Eth and Solana:
 
 Solana and Ethereum represent two fundamentally different approaches to scaling blockchain: Solana optimizes for single-chain extreme throughput and minimal fees at the cost of lower decentralization and higher centralization risk; Ethereum prioritizes maximum decentralization and censorship resistance, accepting higher base-layer costs and relying on modular L2 scaling. Neither is objectively superior — the “better” chain depends almost entirely on use-case priorities (retail speed & speculation vs institutional-grade security & longevity). Confidence: high.
@@ -25,6 +65,7 @@ Solana and Ethereum represent two fundamentally different approaches to scaling 
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
 
+
 summarize long-termism in life:
 
 technically speaking, there is no "personal long-termism". Scholars currently haven't decide to declare a lifestyle, such as eating healthy food, focus on long-term goals, choosing entertainment that may do well to human, such as reading, instead of social media viewing is an ideology. This may disappoint some people who choose their life because of its fancy name(wow, long-termism, that's cool.) And I have to admit that I am one of them, knowing the fact make me feel weak and turndown, but then the harsh fact surprisingly woke me: The real task is only to live a life fulfilled, not just saying it.
@@ -32,6 +73,7 @@ technically speaking, there is no "personal long-termism". Scholars currently ha
 
 # 2026-02-25
 <!-- DAILY_CHECKIN_2026-02-25_START -->
+
 
 
 playing disco elysium--expanding vocabulary
@@ -46,6 +88,7 @@ feline: You can describe your kitten as your young _feline_ friend, since _felin
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -183,6 +226,7 @@ It compresses:
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 
