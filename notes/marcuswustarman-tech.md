@@ -25,37 +25,34 @@ reclassification： classifying something again (usually in a new category)
 
 contingent: The adjective _contingent_ can be used to describe something that can occur only when something else happens first. Making money is _contingent_ on finding a good-paying job.
 
-（observe how yourself find compassion in this simple phase)  
+（observe how yourself find compassion in this simple phase)
 
 serenity: The goal of meditation is to reach a state of _serenity_, when your mind is still and perfectly calm. Use _serenity_ to mean the quality or state of being calm and peaceful.
 
-(you can choose how you face the unknown world and **Capricious fate)**  
+(you can choose how you face the unknown world and **Capricious fate)**
 
 equates:When you _equate_ one thing with another, you say that they are both the same. You might _equate_ indulging in a hot fudge sundae with giving up on your body entirely, but I would disagree.
 
 indulging: the act of indulging or gratifying a desire
 
-indulgence: An _indulgence_ is doing something that you enjoy even if it has negative consequences. Buying yourself something that you don't need, be it a cookie, video game, or diamond necklace, is an _indulgence_.
-
-  
+indulgence: An _indulgence_ is doing something that you enjoy even if it has negative consequences. Buying yourself something that you don’t need, be it a cookie, video game, or diamond necklace, is an _indulgence_.
 
 gratifying:When something is _gratifying_, it feels emotionally satisfying and pleasant, like the sweet feeling you get after acing a test that you studied really hard for.
-
-  
 
 daimon: inner divine principle or rational guiding spirit within each person
 
 unsentimental： facing facts or difficulties realistically and with determination
 
-dialectical： _Dialectical_ describes how someone goes about finding the truth. If you're an investigative journalist, you probably use _dialectical_ reasoning. 辩证的
+dialectical： _Dialectical_ describes how someone goes about finding the truth. If you’re an investigative journalist, you probably use _dialectical_ reasoning. 辩证的
 
-...But _dialectical_ instead comes from the French word _dialecte_, meaning "denoting the art of investigating the truth of opinions." It has to do with a method of reasoning used to determine the truth.  
+…But _dialectical_ instead comes from the French word _dialecte_, meaning “denoting the art of investigating the truth of opinions.” It has to do with a method of reasoning used to determine the truth.
 
 discourse: Discourse fundamentally means extended, structured communication of thought—spoken or written—often implying reasoned treatment of a subject at length.
 <!-- DAILY_CHECKIN_2026-03-02_END -->
 
 # 2026-03-01
 <!-- DAILY_CHECKIN_2026-03-01_START -->
+
 
 Auguries:An _augury_ is a sign of things to come, like an omen. If you’re superstitious, you might think that seeing a black cat is an _augury_ of bad luck.
 
@@ -98,6 +95,7 @@ epitome: If you're talking about a typical example of something, call it the _ep
 <!-- DAILY_CHECKIN_2026-02-27_START -->
 
 
+
 difference between Eth and Solana:
 
 Solana and Ethereum represent two fundamentally different approaches to scaling blockchain: Solana optimizes for single-chain extreme throughput and minimal fees at the cost of lower decentralization and higher centralization risk; Ethereum prioritizes maximum decentralization and censorship resistance, accepting higher base-layer costs and relying on modular L2 scaling. Neither is objectively superior — the “better” chain depends almost entirely on use-case priorities (retail speed & speculation vs institutional-grade security & longevity). Confidence: high.
@@ -108,6 +106,7 @@ Solana and Ethereum represent two fundamentally different approaches to scaling 
 
 
 
+
 summarize long-termism in life:
 
 technically speaking, there is no "personal long-termism". Scholars currently haven't decide to declare a lifestyle, such as eating healthy food, focus on long-term goals, choosing entertainment that may do well to human, such as reading, instead of social media viewing is an ideology. This may disappoint some people who choose their life because of its fancy name(wow, long-termism, that's cool.) And I have to admit that I am one of them, knowing the fact make me feel weak and turndown, but then the harsh fact surprisingly woke me: The real task is only to live a life fulfilled, not just saying it.
@@ -115,6 +114,7 @@ technically speaking, there is no "personal long-termism". Scholars currently ha
 
 # 2026-02-25
 <!-- DAILY_CHECKIN_2026-02-25_START -->
+
 
 
 
@@ -131,6 +131,7 @@ feline: You can describe your kitten as your young _feline_ friend, since _felin
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -270,6 +271,7 @@ It compresses:
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 
