@@ -18,13 +18,20 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-02
+<!-- DAILY_CHECKIN_2026-03-02_START -->
+今日打卡
+<!-- DAILY_CHECKIN_2026-03-02_END -->
+
 # 2026-03-01
 <!-- DAILY_CHECKIN_2026-03-01_START -->
+
 今日打卡
 <!-- DAILY_CHECKIN_2026-03-01_END -->
 
 # 2026-02-28
 <!-- DAILY_CHECKIN_2026-02-28_START -->
+
 
 今日打卡。
 <!-- DAILY_CHECKIN_2026-02-28_END -->
@@ -33,11 +40,13 @@ timezone: UTC+8
 <!-- DAILY_CHECKIN_2026-02-27_START -->
 
 
+
 今日打卡。
 <!-- DAILY_CHECKIN_2026-02-27_END -->
 
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 
 
 
@@ -50,11 +59,13 @@ timezone: UTC+8
 
 
 
+
 今日用时50分钟，复习112个单词，学习100个单词。
 <!-- DAILY_CHECKIN_2026-02-25_END -->
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -71,11 +82,13 @@ timezone: UTC+8
 
 
 
+
 今日用时47分钟，复习昨天100个单词，以及记忆今天100个单词。
 <!-- DAILY_CHECKIN_2026-02-23_END -->
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
