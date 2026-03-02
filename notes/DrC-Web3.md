@@ -15,8 +15,66 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-02
+<!-- DAILY_CHECKIN_2026-03-02_START -->
+Yeah
+
+You are my fire  
+The one desire  
+Believe when I say  
+I want it that way
+
+But we are two worlds apart  
+Can't reach to your heart  
+When you say  
+That I want it that way
+
+Tell me why (ain't nothin' but a heartache)  
+Tell me why (ain't nothing but a mistake)  
+Tell me why (I never wanna hear you say)  
+I want it that way
+
+Am I your fire?  
+Your one desire  
+Yes, I know it's too late  
+But I want it that way
+
+Tell me why (ain't nothin' but a heartache)  
+Tell me why (ain't nothin' but a mistake)  
+Tell me why (I never wanna hear you say)  
+I want it that way
+
+Now I can see that we've fallen apart  
+From the way that it used to be, yeah  
+No matter the distance, I want you to know  
+That deep down inside of me
+
+You are my fire  
+The one desire  
+You are (you are, you are, you are)  
+Don't wanna hear you say
+
+Ain't nothin' but a heartache (hey, yeah)  
+Ain't nothin' but a mistake (don't wanna hear you say)  
+I never wanna hear you say (oh, yeah)  
+I want it that way
+
+Tell me why (ain't nothin' but a heartache)  
+Tell me why (ain't nothin' but a mistake)  
+Tell me why (I never wanna hear you say) (don't wanna hear you say)  
+I want it that way
+
+Tell me why (ain't nothin' but a heartache)  
+Ain't nothin' but a mistake  
+Tell me why (I never wanna hear you say) (never wanna hear you say, yeah)  
+I want it that way
+
+'Cause I want it that way
+<!-- DAILY_CHECKIN_2026-03-02_END -->
+
 # 2026-02-28
 <!-- DAILY_CHECKIN_2026-02-28_START -->
+
 Verse 1: Ariana Grande\]  
 [Tell me somethin' I need to know  
 Then take my breath and never let it go  
@@ -46,6 +104,7 @@ Harder, harder, harder
 
 # 2026-02-27
 <!-- DAILY_CHECKIN_2026-02-27_START -->
+
 
 
 Goodbye to you my trusted friend  
@@ -141,6 +200,7 @@ We had seasons in the sun
 
 
 
+
 Everybody's looking for that something  
 One thing that makes it all complete  
 You find it in the strangest places  
@@ -193,6 +253,7 @@ I'm flying without wings
 
 
 
+
 [听力](https://hzpt-inet-club.github.io/english-note/guide/adjectiveToNoun.html)
 
 我认为听力
@@ -214,6 +275,7 @@ I'm flying without wings
 
 
 
+
 今天学的语法
 
 [形容词 和 名词 的关系 | 英语语法](https://hzpt-inet-club.github.io/english-note/guide/adjectiveToNoun.html)
@@ -221,6 +283,7 @@ I'm flying without wings
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
