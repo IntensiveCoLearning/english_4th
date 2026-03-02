@@ -15,8 +15,22 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-02
+<!-- DAILY_CHECKIN_2026-03-02_START -->
+## Daily accumulation 09
+
+-   **_titular_** having the title of a position but not the responsibilities, duties, or power
+    
+-   **_vet/inspect/treat/check_**
+    
+-   **_landform/terrain_**
+    
+-   **_imminent_** $\\leftarrow$ coming or likely to happen very soon - **_imminently_** $\\leftarrow$ urgently
+<!-- DAILY_CHECKIN_2026-03-02_END -->
+
 # 2026-03-01
 <!-- DAILY_CHECKIN_2026-03-01_START -->
+
 ## Daily accumulation 08
 
 -   今天写大作文一顿操作猛如虎, 结果一看得分5.5
@@ -31,6 +45,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 # 2026-02-28
 <!-- DAILY_CHECKIN_2026-02-28_START -->
 
+
 ## Dailly accumulation 07
 
 -   **_gripping_** $\\leftarrow$ grip sb’s attention, denoting that which is attractive or interesting
@@ -44,6 +59,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 # 2026-02-27
 <!-- DAILY_CHECKIN_2026-02-27_START -->
+
 
 
 
@@ -62,6 +78,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 
 
+
 ## Daily accumulation 05
 
 -   **_audacious_** $\\leftarrow$ bold
@@ -73,6 +90,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 # 2026-02-25
 <!-- DAILY_CHECKIN_2026-02-25_START -->
+
 
 
 
@@ -95,6 +113,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 
 
+
 ## Daily accumulation 03
 
 -   _foretell_: the oracle is a machine that can _foretell_ something that will happen in future
@@ -104,6 +123,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 
@@ -124,6 +144,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
