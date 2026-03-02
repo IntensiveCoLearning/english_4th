@@ -15,8 +15,18 @@ web3初学者
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-02
+<!-- DAILY_CHECKIN_2026-03-02_START -->
+# Day 9
+
+-   watching Friends for 2 hours
+    
+-   learning 2 lessons in Duolingo
+<!-- DAILY_CHECKIN_2026-03-02_END -->
+
 # 2026-03-01
 <!-- DAILY_CHECKIN_2026-03-01_START -->
+
 # Day 8
 
 1.  reading english book for 1 hours, learning about 23 words in the book
@@ -28,6 +38,7 @@ web3初学者
 
 # 2026-02-27
 <!-- DAILY_CHECKIN_2026-02-27_START -->
+
 
 # Day 6
 
@@ -42,6 +53,7 @@ web3初学者
 <!-- DAILY_CHECKIN_2026-02-25_START -->
 
 
+
 # Day 4
 
 1.  reading a news about ios
@@ -51,6 +63,7 @@ web3初学者
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -67,6 +80,7 @@ web3初学者
 
 
 
+
 # Day 2
 
 1.  Use Cambridge English to test my english level, my score is 16 out of 25. Maybe it takes so long time that I haven’t learn english grammar.
@@ -78,6 +92,7 @@ web3初学者
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
