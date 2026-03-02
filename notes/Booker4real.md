@@ -15,8 +15,70 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-02
+<!-- DAILY_CHECKIN_2026-03-02_START -->
+macro 宏大的
+
+recession 减缩
+
+forecast 预测
+
+inflation 通货膨胀
+
+perception 感知
+
+value proposition 价值主张
+
+demographic 人口统计
+
+aspirational 励志的，志同道合的
+
+distortion 扭曲，曲解
+
+retention 保留
+
+cues 提示
+
+come across遇到
+
+latte 拿铁
+
+reinforcement 强化
+
+recognition 认知
+
+cognitive dissonance 认知冲突
+
+reference group 参照群体
+
+input price 投入价格
+
+equilibrium 平衡
+
+intersect相交
+
+excess 超过 excess supply 超额供给
+
+excess demand 超额需求
+
+diagram 图
+
+substantially 大幅地
+
+allocation 分配
+
+signal 信号
+
+deprivation 匮乏
+
+customer equity 客户资产
+
+budget 预算，便宜的
+<!-- DAILY_CHECKIN_2026-03-02_END -->
+
 # 2026-02-28
 <!-- DAILY_CHECKIN_2026-02-28_START -->
+
 scarce 稀缺的 scarcity
 
 trade off 权衡取舍
@@ -43,6 +105,7 @@ complement 互补
 # 2026-02-27
 <!-- DAILY_CHECKIN_2026-02-27_START -->
 
+
 demographic 人口
 
 intermediary 中介
@@ -56,6 +119,7 @@ actors 外部因素
 <!-- DAILY_CHECKIN_2026-02-25_START -->
 
 
+
 philosophy 哲学 居然还有理念的意思。
 
 department 部门
@@ -65,6 +129,7 @@ bundle 组合
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
