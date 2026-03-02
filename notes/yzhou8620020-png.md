@@ -15,8 +15,92 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-02
+<!-- DAILY_CHECKIN_2026-03-02_START -->
+## How to Train Your Brain to Be More Patient
+
+**It's probably even more of a struggle in our fast-paced, on-demand culture.**
+
+fast-paced 快节奏的
+
+The movie is fast-paced and exciting.
+
+live in a fast-paced world
+
+on-demand 随点随到
+
+Food delivery in China is on-demand.
+
+We can watch movies on-demand. 可以随时看想看的电影
+
+**Today, situations that involve waiting are viewed as glitches rather than inevitable parts of life.**
+
+glitch 小故障，失灵
+
+a technical glitch 技术故障
+
+**We've come to believe technology can and should make delays obsolete.**
+
+obsolete 过时的；淘汰的
+
+Payment by cheque will soon be obsolete. 支票支付
+
+**We're entitled to instant ……**
+
+be entitled to sth. 赋予某人权力做某事
+
+Children and the elderly are entitled cheap train tickets.
+
+These kids are spoiled and entitled. 宠坏了，很任性
+
+**One is "micro-patience," or dealing with daily hassles like Wi-Fi outages and basement leaks.**
+
+hassle n./ v. 麻烦；使烦恼
+
+Bad weather was the major hassle during our trip.
+
+The kids keep hassling me about going to Disney World. 一直缠着我
+
+outage （电力或其他服务的）停止供应期
+
+power outage
+
+**Another is "life-hardships patience": major obstacles like chronic health conditions that interfere with daily routines, making them slow and tedious.**
+
+interfere 干扰；妨碍
+
+I try not to let work interfere with my personal life.
+
+tedious (=boring)
+
+**A third type is "interpersonal patience," or being able to endure holdups caused by other people, like slow-mo drivers, flaky coworkers, or young kids who require 15 minutes to put on their shoes before leaving the house.**
+
+endure 忍耐
+
+We had to endure a nine-hour delay at the airport.
+
+holdup 延迟；阻塞
+
+Come on,let's go. What's the holdup? 还在磨蹭什么？
+
+flaky 薄片的（flaky flowers）；不靠谱的
+
+She's flaky about deadlines.
+
+How to exercise?
+
+1\. set realistic expectations
+
+2\. change your mindset
+
+3\. savor what feels pleasant
+
+4\. distract yourself with flow【让自己进入心流状态
+<!-- DAILY_CHECKIN_2026-03-02_END -->
+
 # 2026-02-28
 <!-- DAILY_CHECKIN_2026-02-28_START -->
+
 ## Make a given year the best year of your life
 
 Progress: towards the things that truly matter to us
@@ -63,6 +147,7 @@ Depending on your month celebration, pick a block at least once a week for the g
 # 2026-02-25
 <!-- DAILY_CHECKIN_2026-02-25_START -->
 
+
 ## Deep Work System
 
 ### 1\. realize the importance of deep work
@@ -96,6 +181,7 @@ Depending on your month celebration, pick a block at least once a week for the g
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 ## how to keep studying when tired
@@ -153,6 +239,7 @@ batch your tasks to different groups that requires similar mindsets like logic a
 
 
 
+
 ## **The 4 Hobbies that Improved my Life**
 
 ### **YouTube – Ali Abdaal**
@@ -176,6 +263,7 @@ batch your tasks to different groups that requires similar mindsets like logic a
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
