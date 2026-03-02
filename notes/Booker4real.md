@@ -15,8 +15,34 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-02-28
+<!-- DAILY_CHECKIN_2026-02-28_START -->
+scarce 稀缺的 scarcity
+
+trade off 权衡取舍
+
+rational 理性的
+
+incentive 激励
+
+enforce 执行
+
+diminish 减少
+
+injection 注入
+
+negligible 微小的
+
+inferior good 低档品
+
+substitute 替代
+
+complement 互补
+<!-- DAILY_CHECKIN_2026-02-28_END -->
+
 # 2026-02-27
 <!-- DAILY_CHECKIN_2026-02-27_START -->
+
 demographic 人口
 
 intermediary 中介
@@ -29,6 +55,7 @@ actors 外部因素
 # 2026-02-25
 <!-- DAILY_CHECKIN_2026-02-25_START -->
 
+
 philosophy 哲学 居然还有理念的意思。
 
 department 部门
@@ -38,6 +65,7 @@ bundle 组合
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 我今天学习了一些经济学相关的单词，实际上是经济学课是英文的，看不懂真的没招了，于是乎边翻译边硬学。（我服了。。。
