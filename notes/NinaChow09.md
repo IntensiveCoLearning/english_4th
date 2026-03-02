@@ -15,8 +15,28 @@ Hi~ I’m Nina. I’m engaged in the traditional financial industry.Now I’m ex
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-02
+<!-- DAILY_CHECKIN_2026-03-02_START -->
+**english pod7 office-virus**
+
+infected file被感染的文件有病毒的文件
+
+sth is not up to date不是最新的
+
+**sth is acting up /the computer freezes不正常运作了**
+
+pick up virus
+
+moniter显示器
+
+browse the internet
+
+web brower
+<!-- DAILY_CHECKIN_2026-03-02_END -->
+
 # 2026-03-01
 <!-- DAILY_CHECKIN_2026-03-01_START -->
+
 **English pod 6 road trip**
 
 packed。the car is packed需要的都装好了
@@ -43,6 +63,7 @@ trunk 后备箱
 # 2026-02-28
 <!-- DAILY_CHECKIN_2026-02-28_START -->
 
+
 English Pod-今天是插队的故事
 
 cut in line插队
@@ -60,6 +81,7 @@ line up /form a queue
 <!-- DAILY_CHECKIN_2026-02-27_START -->
 
 
+
 今日English Pod
 
 understaffed人手不够
@@ -73,6 +95,7 @@ keep the costs down
 
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 
 
 
@@ -93,6 +116,7 @@ Overbooked
 
 
 
+
 English pod2
 
 1学的点餐 2打电话请病假n
@@ -106,6 +130,7 @@ quite ill /sick
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 
