@@ -15,8 +15,31 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-03
+<!-- DAILY_CHECKIN_2026-03-03_START -->
+Day 9
+
+1.  I followed my plan listening to the English Pod:
+    
+
+a. Match the competitors - be as good as or better than the competitors
+
+b. in the market - in the industry
+
+c. it will never fly - it will never work the idea / the story won't fly
+
+d. be here any minute
+
+e. 2 for 1 - buy one get one free
+
+f. brilliant - excellent
+
+2.  Keep expressing myself in English!
+<!-- DAILY_CHECKIN_2026-03-03_END -->
+
 # 2026-03-02
 <!-- DAILY_CHECKIN_2026-03-02_START -->
+
 Day 8
 
 1.  I followed my plan listening to the English Pod:
@@ -37,6 +60,7 @@ e. Can't hear a thing
 
 # 2026-03-01
 <!-- DAILY_CHECKIN_2026-03-01_START -->
+
 
 Day 7
 
@@ -60,6 +84,7 @@ e. contact details
 <!-- DAILY_CHECKIN_2026-02-28_START -->
 
 
+
 Day 6
 
 1.  I followed my plan listening to the English Pod:
@@ -80,6 +105,7 @@ e. pick up the virus
 
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 
 
 
@@ -117,6 +143,7 @@ j. Fill up the tank
 
 
 
+
 Day 4
 
 1.  I followed my plan listening to the English Pod:
@@ -137,6 +164,7 @@ e. Sounds reasonable
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -169,6 +197,7 @@ c. overbooked - full
 
 
 
+
 Day 2
 
 1.  I followed my plan listening to the English Pod:
@@ -187,6 +216,7 @@ d. Was hoping - To kindly expect
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
