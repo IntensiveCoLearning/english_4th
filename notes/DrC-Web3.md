@@ -15,8 +15,44 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-03
+<!-- DAILY_CHECKIN_2026-03-03_START -->
+Fly me to the moon  
+Let me play among the stars  
+Let me see what's spring is like  
+on a Jupiter and Mars
+
+In other words  
+hold my hand  
+In other words  
+baby, kiss me
+
+Fill my heart with song  
+and let me sing forever more  
+You are all I long for  
+all I worship and I adore
+
+In other words  
+Please, be true  
+In other words  
+I love you
+
+Fill my heart with song  
+let me sing forever more  
+You are all I long for  
+all I worship and adore
+
+In other words  
+Please, be true
+
+In other words  
+In other words  
+I love you
+<!-- DAILY_CHECKIN_2026-03-03_END -->
+
 # 2026-03-02
 <!-- DAILY_CHECKIN_2026-03-02_START -->
+
 Yeah
 
 You are my fire  
@@ -75,6 +111,7 @@ I want it that way
 # 2026-02-28
 <!-- DAILY_CHECKIN_2026-02-28_START -->
 
+
 Verse 1: Ariana Grande\]  
 [Tell me somethin' I need to know  
 Then take my breath and never let it go  
@@ -104,6 +141,7 @@ Harder, harder, harder
 
 # 2026-02-27
 <!-- DAILY_CHECKIN_2026-02-27_START -->
+
 
 
 
@@ -201,6 +239,7 @@ We had seasons in the sun
 
 
 
+
 Everybody's looking for that something  
 One thing that makes it all complete  
 You find it in the strangest places  
@@ -254,6 +293,7 @@ I'm flying without wings
 
 
 
+
 [听力](https://hzpt-inet-club.github.io/english-note/guide/adjectiveToNoun.html)
 
 我认为听力
@@ -276,6 +316,7 @@ I'm flying without wings
 
 
 
+
 今天学的语法
 
 [形容词 和 名词 的关系 | 英语语法](https://hzpt-inet-club.github.io/english-note/guide/adjectiveToNoun.html)
@@ -283,6 +324,7 @@ I'm flying without wings
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
