@@ -15,8 +15,72 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-03
+<!-- DAILY_CHECKIN_2026-03-03_START -->
+## **How** Dopamine Work when We Swipe Phones
+
+**This behavior would help to explain why our society has developed such an intense and often uncontrollable need for our phones.**
+
+intense 强烈的；激烈的
+
+intense heat/pressure
+
+**Devices and their apps don't give us instant gratification, as we often believe, but instead trigger the opposite: constant wanting and desire.**
+
+即时满足
+
+**Today nearly everyone in America has become just as silly.**
+
+句子形式：Nearly everyone has become just as silly (as these birds).
+
+It's not as tired (as it was used to).
+
+**We carry around a device that elicits this bizarre behavior: our phones.**
+
+elicit 引出；诱出
+
+elicit a response 引发反应
+
+They were able to elicit the support of the public. 他们成功争取到公众支持。
+
+bizarre 古怪的；奇异的
+
+The building was of bizarre construction.
+
+swipe 滑动；刷手机 e.g. watch short videos or some photos
+
+scroll 上下滑动；刷手机 e.g. read a long article
+
+**Smartphones can trick us into no longer seeking out what we need in our lives.**
+
+trick sb into doing 欺骗某人做某事
+
+The app tricks you into staying online by sending constant notifications.
+
+seek out 寻求xx
+
+seek out sth. （主动）寻找xx
+
+seek help/advice
+
+When we are bored, our brains seek out new information to get a dopamine hit. 大脑会主动寻求新信息来获得多巴胺快感
+
+**We start to value, desire and even become obsessed with signals on our devices that we associate with our fundamental needs, like belonging.**
+
+be obsessed with xx 沉迷于
+
+Many teenagers are obsessed with their social media likes. 社交媒体的点赞
+
+**People are driven to find social interaction just as compelling as food, water, sex and salt.**
+
+compelling 扣人心弦的；强烈的
+
+This compelling story begins with ……
+<!-- DAILY_CHECKIN_2026-03-03_END -->
+
 # 2026-03-02
 <!-- DAILY_CHECKIN_2026-03-02_START -->
+
 ## How to Train Your Brain to Be More Patient
 
 **It's probably even more of a struggle in our fast-paced, on-demand culture.**
@@ -101,6 +165,7 @@ How to exercise?
 # 2026-02-28
 <!-- DAILY_CHECKIN_2026-02-28_START -->
 
+
 ## Make a given year the best year of your life
 
 Progress: towards the things that truly matter to us
@@ -148,6 +213,7 @@ Depending on your month celebration, pick a block at least once a week for the g
 <!-- DAILY_CHECKIN_2026-02-25_START -->
 
 
+
 ## Deep Work System
 
 ### 1\. realize the importance of deep work
@@ -181,6 +247,7 @@ Depending on your month celebration, pick a block at least once a week for the g
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -240,6 +307,7 @@ batch your tasks to different groups that requires similar mindsets like logic a
 
 
 
+
 ## **The 4 Hobbies that Improved my Life**
 
 ### **YouTube – Ali Abdaal**
@@ -263,6 +331,7 @@ batch your tasks to different groups that requires similar mindsets like logic a
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
