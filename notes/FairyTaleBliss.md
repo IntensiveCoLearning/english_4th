@@ -18,8 +18,26 @@ Just come and chat with me!
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-04
+<!-- DAILY_CHECKIN_2026-03-04_START -->
+### PRELUDE
+
+About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
+
+Today’s authentication lyrics:
+
+薬指のリングより~ 人目忍ぶ恋選んだ~ 強い女に見えても~ 心の中いつも~ 切なさに 揺れてる
+
+_OH NO, OH YES_ by Nakamori Akina, one of SEXY ROBOT’s favorite singer. Who’s SEXY ROBOT? She’s a girl I met at Hotomi Tohyama’s live in 2024, Shanghai. At that day, she was dressed all in back, head to toe, with black lipstick on her lips, and she hit my heart, badly! I was deeply attracted by her and nearly mad about her!
+
+### Track (Or diary, whatever)
+
+None.
+<!-- DAILY_CHECKIN_2026-03-04_END -->
+
 # 2026-03-03
 <!-- DAILY_CHECKIN_2026-03-03_START -->
+
 ### PRELUDE
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -33,6 +51,7 @@ Today I had an interview and slept for ten more hours to recover. In the evening
 
 # 2026-03-02
 <!-- DAILY_CHECKIN_2026-03-02_START -->
+
 
 **PRELUDE**
 
@@ -49,6 +68,7 @@ Besides that, I prepared a document for tomorrow’s interview.
 
 # 2026-03-01
 <!-- DAILY_CHECKIN_2026-03-01_START -->
+
 
 
 ### PRELUDE
@@ -75,6 +95,7 @@ But I still finished some tasks, like resume modification and position applicati
 
 
 
+
 ### **PRELUDE**
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -98,6 +119,7 @@ I participated in the LXDAO weekly meeting, then I read a sequence of posts by B
 
 
 
+
 ### PRELUDE
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -117,6 +139,7 @@ In the next few days, I will prepare for the BD coordinator interview and modify
 
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 
 
 
@@ -151,6 +174,7 @@ Today, Zoya and I are going to apply for the X Space bounty task from LXDAO. We 
 
 
 
+
 ### PRELUDE
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -174,6 +198,7 @@ Tomorrow evening I will take a train back to Shanghai. And when I return to Shan
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -224,6 +249,7 @@ Besides, I had a one-on-one meeting with the lead-developer of PUSDC. We discuss
 
 
 
+
 **PRELUDE**
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -243,6 +269,7 @@ Today is the last day of this happy holiday, I still create no plan for this co-
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
