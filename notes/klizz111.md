@@ -15,8 +15,20 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-04
+<!-- DAILY_CHECKIN_2026-03-04_START -->
+## Daily accumulation 11
+
+-   **_pivot/pivotal_** $\\leftarrow$ refering mig-29 "pivot point"
+    
+-   **_torrential_** $\\leftarrow$ to depict something like flood
+    
+-   **_proliferate/proliferation_** $\\leftarrow$ mutiply
+<!-- DAILY_CHECKIN_2026-03-04_END -->
+
 # 2026-03-03
 <!-- DAILY_CHECKIN_2026-03-03_START -->
+
 ## Daily accumulation 09
 
 -   **_harness_** $\\leftarrow$ to make use of something or control something such as mood
@@ -31,6 +43,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 # 2026-03-02
 <!-- DAILY_CHECKIN_2026-03-02_START -->
 
+
 ## Daily accumulation 09
 
 -   **_titular_** having the title of a position but not the responsibilities, duties, or power
@@ -44,6 +57,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 # 2026-03-01
 <!-- DAILY_CHECKIN_2026-03-01_START -->
+
 
 
 ## Daily accumulation 08
@@ -62,6 +76,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 
 
+
 ## Dailly accumulation 07
 
 -   **_gripping_** $\\leftarrow$ grip sb’s attention, denoting that which is attractive or interesting
@@ -75,6 +90,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 # 2026-02-27
 <!-- DAILY_CHECKIN_2026-02-27_START -->
+
 
 
 
@@ -97,6 +113,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 
 
+
 ## Daily accumulation 05
 
 -   **_audacious_** $\\leftarrow$ bold
@@ -108,6 +125,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 # 2026-02-25
 <!-- DAILY_CHECKIN_2026-02-25_START -->
+
 
 
 
@@ -134,6 +152,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 
 
+
 ## Daily accumulation 03
 
 -   _foretell_: the oracle is a machine that can _foretell_ something that will happen in future
@@ -143,6 +162,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 
@@ -165,6 +185,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
