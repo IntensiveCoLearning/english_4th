@@ -15,8 +15,60 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-04
+<!-- DAILY_CHECKIN_2026-03-04_START -->
+## \## 1. native speaker
+
+## \## 2. language ability
+
+According to research (Bachman,2010), true language ability, regardless of the language, is built on two distinct pillars: language knowledge and strategic competence.
+
+**language knowledge**: "what". It's about correctness. This is the foundation: grammar, vocabulary, pronunciation.
+
+**strategic competence**: "how". It's about flexibility and impact. This is the advanced skill: using language effectively, persuasively, and appropriately in real-world situations.
+
+## \## 3. who have achieved nativelike proficiency?
+
+The path to mastery: foundational & cognitive factors
+
+\- initial conditions & personal experience
+
+\- psychological & cognitive factors
+
+\- linguistic imitation & musicality: a strong ability to mimic sounds, rhythm, and intonation
+
+\- language aptitude: natural talent for learning languages
+
+\- high-precision self-monitoring: the ability to notice and correct one's own errors in real-time
+
+\- motivation & connection
+
+\- deep connection: a strong, genuine attraction to English language and its culture
+
+\- directed motivation: a powerful, specific goal that fuels the learning process (e.g. career advancement, specific project)
+
+\- social dynamics & identity
+
+\- **support system**: the role of excellent teachers and supportive peer role models
+
+\- sencond-language identity: reaching a point where expressing oneself in English feels natural and becomes a core part of who you are.
+
+Use these questions to assess and guide your own path to mastery.
+
+\- Motivation: Do I genuinely love the English language? What is my specific, powerful motivation for learning it?
+
+\- Aptitude: What are my natural strengths (e.g. mimicry, musical ear)? How can I leverage them more?
+
+\- Support: Who are my teachers and peer role models? How can I build a stronger support system?
+
+\- Identity: How can I create more opportunities for English to become a natural part of my identity?
+
+## \## 4. how long does it take?
+<!-- DAILY_CHECKIN_2026-03-04_END -->
+
 # 2026-03-03
 <!-- DAILY_CHECKIN_2026-03-03_START -->
+
 ## **How** Dopamine Work when We Swipe Phones
 
 **This behavior would help to explain why our society has developed such an intense and often uncontrollable need for our phones.**
@@ -80,6 +132,7 @@ This compelling story begins with ……
 
 # 2026-03-02
 <!-- DAILY_CHECKIN_2026-03-02_START -->
+
 
 ## How to Train Your Brain to Be More Patient
 
@@ -166,6 +219,7 @@ How to exercise?
 <!-- DAILY_CHECKIN_2026-02-28_START -->
 
 
+
 ## Make a given year the best year of your life
 
 Progress: towards the things that truly matter to us
@@ -214,6 +268,7 @@ Depending on your month celebration, pick a block at least once a week for the g
 
 
 
+
 ## Deep Work System
 
 ### 1\. realize the importance of deep work
@@ -247,6 +302,7 @@ Depending on your month celebration, pick a block at least once a week for the g
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -308,6 +364,7 @@ batch your tasks to different groups that requires similar mindsets like logic a
 
 
 
+
 ## **The 4 Hobbies that Improved my Life**
 
 ### **YouTube – Ali Abdaal**
@@ -331,6 +388,7 @@ batch your tasks to different groups that requires similar mindsets like logic a
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
