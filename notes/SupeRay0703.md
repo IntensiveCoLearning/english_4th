@@ -24,23 +24,25 @@ Day 10
 
 a. House-warming gift
 
-b. A bad feeling about something - uncomfortable feeling, feel that something bad's gonna happen
+b. A bad feeling about something - uncomfortable feeling, feel that something bad’s gonna happen
 
 c. Scare the heck out of me
 
-d. Fill someone in (today's gossip) - tell someone about it
+d. Fill someone in (today’s gossip) - tell someone about it
 
-e. I don't know if you heard...
+e. I don’t know if you heard…
 
-f. You'll never guess -
+f. You’ll never guess
 
-2.  Random meeting at night in office once again! I'm really annoyed by the random events that ruins my schedule :(
+2.  Another random meeting in the office at night! I'm really annoyed by these random things that keep ruining my schedule :(
     
+
 3.  Keep expressing myself in English!
 <!-- DAILY_CHECKIN_2026-03-05_END -->
 
 # 2026-03-03
 <!-- DAILY_CHECKIN_2026-03-03_START -->
+
 
 Day 9
 
@@ -66,6 +68,7 @@ f. brilliant - excellent
 <!-- DAILY_CHECKIN_2026-03-02_START -->
 
 
+
 Day 8
 
 1.  I followed my plan listening to the English Pod:
@@ -86,6 +89,7 @@ e. Can't hear a thing
 
 # 2026-03-01
 <!-- DAILY_CHECKIN_2026-03-01_START -->
+
 
 
 
@@ -113,6 +117,7 @@ e. contact details
 
 
 
+
 Day 6
 
 1.  I followed my plan listening to the English Pod:
@@ -133,6 +138,7 @@ e. pick up the virus
 
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 
 
 
@@ -174,6 +180,7 @@ j. Fill up the tank
 
 
 
+
 Day 4
 
 1.  I followed my plan listening to the English Pod:
@@ -194,6 +201,7 @@ e. Sounds reasonable
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -230,6 +238,7 @@ c. overbooked - full
 
 
 
+
 Day 2
 
 1.  I followed my plan listening to the English Pod:
@@ -248,6 +257,7 @@ d. Was hoping - To kindly expect
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
