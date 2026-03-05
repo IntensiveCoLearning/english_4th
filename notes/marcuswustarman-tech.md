@@ -15,8 +15,33 @@ o(=•ェ•=)m
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-05
+<!-- DAILY_CHECKIN_2026-03-05_START -->
+**dichotomy** — A division into two mutually exclusive and jointly exhaustive parts (from Greek διχοτομία “cutting in two”). In Stoicism: the strict binary “things up to us” vs “things not up to us.”
+
+-   **exclusively** — Solely, only, to the exclusion of all else. In Stoicism: virtue is the only true good; nothing external qualifies.
+    
+
+-   **epistemological** — Pertaining to epistemology, i.e., the theory of knowledge — what is knowable, how we know it, what we can be certain of. In Stoicism: the control distinction is epistemological because we can only know and therefore govern our own judgments/assent.
+    
+
+-   **distress** — Mental suffering, agitation, emotional pain (Greek tarachē, Latin perturbatio). In Stoicism: the feeling the sage eliminates through correct judgment.
+    
+
+-   **misattribute** — To wrongly assign a cause, quality, or responsibility to something. In Stoicism: people misattribute the cause of their distress to external events instead of to their own judgments about those events.
+    
+
+-   **dichotomy** — Identical to 1; repeated in the list, so same meaning.
+    
+-   **explicitly** — Clearly, directly, and unambiguously stated (not merely implied or hinted). In Stoicism: Epictetus states the control principle openly and at the very beginning of the Enchiridion.
+    
+
+Stoicism holds that the only true good is virtue (living rationally and excellently), and the only true evil is vice (irrationality, lack of self-mastery). Everything else — health, wealth, reputation, other people's opinions, fate itself — is neither good nor bad in itself. T
+<!-- DAILY_CHECKIN_2026-03-05_END -->
+
 # 2026-03-02
 <!-- DAILY_CHECKIN_2026-03-02_START -->
+
 he self as a vulnerable bay, ceaselessly battered by passions/desires and weighed down by ambition.
 
 rigorous： If you are _rigorous_ when you do something, you do it extremely carefully and precisely. A _rigorous_ inspection of your tax records has revealed the government owes you money. Congratulations!
@@ -52,6 +77,7 @@ discourse: Discourse fundamentally means extended, structured communication of t
 
 # 2026-03-01
 <!-- DAILY_CHECKIN_2026-03-01_START -->
+
 
 
 Auguries:An _augury_ is a sign of things to come, like an omen. If you’re superstitious, you might think that seeing a black cat is an _augury_ of bad luck.
@@ -96,6 +122,7 @@ epitome: If you're talking about a typical example of something, call it the _ep
 
 
 
+
 difference between Eth and Solana:
 
 Solana and Ethereum represent two fundamentally different approaches to scaling blockchain: Solana optimizes for single-chain extreme throughput and minimal fees at the cost of lower decentralization and higher centralization risk; Ethereum prioritizes maximum decentralization and censorship resistance, accepting higher base-layer costs and relying on modular L2 scaling. Neither is objectively superior — the “better” chain depends almost entirely on use-case priorities (retail speed & speculation vs institutional-grade security & longevity). Confidence: high.
@@ -107,6 +134,7 @@ Solana and Ethereum represent two fundamentally different approaches to scaling 
 
 
 
+
 summarize long-termism in life:
 
 technically speaking, there is no "personal long-termism". Scholars currently haven't decide to declare a lifestyle, such as eating healthy food, focus on long-term goals, choosing entertainment that may do well to human, such as reading, instead of social media viewing is an ideology. This may disappoint some people who choose their life because of its fancy name(wow, long-termism, that's cool.) And I have to admit that I am one of them, knowing the fact make me feel weak and turndown, but then the harsh fact surprisingly woke me: The real task is only to live a life fulfilled, not just saying it.
@@ -114,6 +142,7 @@ technically speaking, there is no "personal long-termism". Scholars currently ha
 
 # 2026-02-25
 <!-- DAILY_CHECKIN_2026-02-25_START -->
+
 
 
 
@@ -131,6 +160,7 @@ feline: You can describe your kitten as your young _feline_ friend, since _felin
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -271,6 +301,7 @@ It compresses:
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 
