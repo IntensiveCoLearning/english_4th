@@ -175,7 +175,7 @@
 | [welldone711](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/welldone711.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [Haiweb3](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Haiweb3.md) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   | | | | | | | | | |
 | [enderzcx](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/enderzcx.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
-| [Nancy0209](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Nancy0209.md) | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ |   | | | | | | | | | |
+| [Nancy0209](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Nancy0209.md) | ✅ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ✅ | ⭕️ | ✅ | | | | | | | | | |
 | [angela881225-debug](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/angela881225-debug.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [iluvjaecott](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/iluvjaecott.md) | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ❌ | | | | | | | | | | | | | | | |
 | [lunateng](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/lunateng.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
@@ -283,6 +283,7 @@
 | [Xiaonan2020](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Xiaonan2020.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [zombiegazhi](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/zombiegazhi.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
