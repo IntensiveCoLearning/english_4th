@@ -15,8 +15,16 @@ web3初学者，增强英语水平
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-05
+<!-- DAILY_CHECKIN_2026-03-05_START -->
+today，learned forty words. and i find a new method，i will try it tomorrow.
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/emptytouch/images/2026-03-05-1772726295070-image.png)
+<!-- DAILY_CHECKIN_2026-03-05_END -->
+
 # 2026-03-04
 <!-- DAILY_CHECKIN_2026-03-04_START -->
+
 I slack off today and only learned 20 words
 
 ![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/emptytouch/images/2026-03-04-1772639852704-image.png)
@@ -25,11 +33,13 @@ I slack off today and only learned 20 words
 # 2026-03-03
 <!-- DAILY_CHECKIN_2026-03-03_START -->
 
+
 today learned twenty words
 <!-- DAILY_CHECKIN_2026-03-03_END -->
 
 # 2026-03-02
 <!-- DAILY_CHECKIN_2026-03-02_START -->
+
 
 
 today learned forty words
@@ -40,6 +50,7 @@ today learned forty words
 
 
 
+
 i learned 47 words.
 
 ![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/emptytouch/images/2026-03-01-1772380688171-image.png)
@@ -47,6 +58,7 @@ i learned 47 words.
 
 # 2026-02-28
 <!-- DAILY_CHECKIN_2026-02-28_START -->
+
 
 
 
@@ -63,6 +75,7 @@ I learned fifty-eight words ， including extensions.
 
 
 
+
 today， clock in .
 
 ![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/emptytouch/images/2026-02-27-1772205405638-image.png)
@@ -70,6 +83,7 @@ today， clock in .
 
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 
 
 
@@ -90,6 +104,7 @@ I learned thirty-two words, fighting!
 
 
 
+
 today，I learned thirty-six words，and expanded my vocabulary.
 
 ![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/emptytouch/images/2026-02-25-1772028903732-image.png)
@@ -97,6 +112,7 @@ today，I learned thirty-six words，and expanded my vocabulary.
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -121,6 +137,7 @@ today, I learned twenty-eight new words, and reviewed four words. I will sign in
 
 
 
+
 I learned thirty-seven new words，and reviewed thirteen words.
 
 ![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/emptytouch/images/2026-02-23-1771835621178-image.png)
@@ -128,6 +145,7 @@ I learned thirty-seven new words，and reviewed thirteen words.
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
