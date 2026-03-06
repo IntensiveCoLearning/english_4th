@@ -244,7 +244,7 @@
 | [surhaim72](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/surhaim72.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [TLwen114514](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/TLwen114514.md) | ✅ | ✅ | ✅ | ⭕️ | ✅ | ✅ | ⭕️ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | |
 | [annecn037](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/annecn037.md) | ✅ | ✅ | ⭕️ | ⭕️ | ✅ | ❌ | | | | | | | | | | | | | | | |
-| [NinaChow09](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/NinaChow09.md) | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |   | | | | | | | | |
+| [NinaChow09](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/NinaChow09.md) | ⭕️ | ✅ | ⭕️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | | | | | | | | |
 | [Perseids0919](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Perseids0919.md) | ✅ | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | |
 | [Attila-infinity](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Attila-infinity.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [Eugene-22](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Eugene-22.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
@@ -283,6 +283,7 @@
 | [Xiaonan2020](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/Xiaonan2020.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 | [zombiegazhi](https://github.com/IntensiveCoLearning/english_4th/blob/main/notes/zombiegazhi.md) | ⭕️ | ⭕️ | ❌ | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
