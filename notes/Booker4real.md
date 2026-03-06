@@ -15,8 +15,22 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-05
+<!-- DAILY_CHECKIN_2026-03-05_START -->
+monopolistic 垄断
+
+cereal 麦片
+
+manufacture 制造
+
+elastic 弹性的
+
+utility 效用
+<!-- DAILY_CHECKIN_2026-03-05_END -->
+
 # 2026-03-02
 <!-- DAILY_CHECKIN_2026-03-02_START -->
+
 macro 宏大的
 
 recession 减缩
@@ -79,6 +93,7 @@ budget 预算，便宜的
 # 2026-02-28
 <!-- DAILY_CHECKIN_2026-02-28_START -->
 
+
 scarce 稀缺的 scarcity
 
 trade off 权衡取舍
@@ -106,6 +121,7 @@ complement 互补
 <!-- DAILY_CHECKIN_2026-02-27_START -->
 
 
+
 demographic 人口
 
 intermediary 中介
@@ -120,6 +136,7 @@ actors 外部因素
 
 
 
+
 philosophy 哲学 居然还有理念的意思。
 
 department 部门
@@ -129,6 +146,7 @@ bundle 组合
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
