@@ -15,8 +15,67 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-06
+<!-- DAILY_CHECKIN_2026-03-06_START -->
+It might seem crazy what I'm 'bout to say  
+Sunshine, she's here, you can take a break  
+I'm a hot air balloon that could go to space  
+With the air, like I don't care, baby, by the way, huh
+
+(Because I'm happy) clap along if you feel like a room without a roof  
+(Because I'm happy) clap along if you feel like happiness is the truth  
+(Because I'm happy) clap along if you know what happiness is to you  
+(Because I'm happy) clap along if you feel like that's what you wanna do
+
+Here come bad news, talkin' this and that (yeah)  
+Well, give me all you got, don't hold it back (yeah)  
+Well, I should probably warn ya, I'll be just fine (yeah)  
+No offense to you, don't waste your time, here's why
+
+(Because I'm happy) clap along if you feel like a room without a roof  
+(Because I'm happy) clap along if you feel like happiness is the truth  
+(Because I'm happy) clap along if you know what happiness is to you  
+(Because I'm happy) clap along if you feel like that's what you wanna do (hey, come on, uh)
+
+(Happy) bring me down  
+Can't nothin' (happy), bring me down  
+My level's too high to (happy), bring me down  
+Can't nothin' (happy), bring me down, I said (let me tell you now)
+
+(Happy, happy, happy, happy) bring me down  
+Can't nothin' (happy, happy, happy, happy) bring me down  
+My level's too high to (happy, happy, happy, happy) bring me down  
+Can't nothin' (happy, happy) bring me down, I said
+
+(Because I'm happy) clap along if you feel like a room without a roof  
+(Because I'm happy) clap along if you feel like happiness is the truth  
+(Because I'm happy) clap along if you know what happiness is to you  
+(Because I'm happy) clap along if you feel like that's what you wanna do
+
+(Because I'm happy) clap along if you feel like a room without a roof  
+(Because I'm happy) clap along if you feel like happiness is the truth  
+(Because I'm happy) clap along if you know what happiness is to you  
+(Because I'm happy) clap along if you feel like that's what you wanna do (hey, come on, uh)
+
+(Happy, happy, happy, happy) bring me down  
+Can't nothin' (happy, happy, happy, happy) bring me down  
+My level's too high to (happy, happy, happy, happy) bring me down  
+Can't nothin' (happy, happy) bring me down, I said
+
+(Because I'm happy) clap along if you feel like a room without a roof  
+(Because I'm happy) clap along if you feel like happiness is the truth  
+(Because I'm happy) clap along if you know what happiness is to you, ay-ay-ay  
+(Because I'm happy) clap along if you feel like that's what you wanna do
+
+(Because I'm happy) clap along if you feel like a room without a roof  
+(Because I'm happy) clap along if you feel like happiness is the truth  
+(Because I'm happy) clap along if you know what happiness is to you, hey  
+(Because I'm happy) clap along if you feel like that's what you wanna do, huh, come on
+<!-- DAILY_CHECKIN_2026-03-06_END -->
+
 # 2026-03-05
 <!-- DAILY_CHECKIN_2026-03-05_START -->
+
 最爱的westlife
 
 if i let you go
@@ -73,6 +132,7 @@ If I let you go
 <!-- DAILY_CHECKIN_2026-03-03_START -->
 
 
+
 Fly me to the moon  
 Let me play among the stars  
 Let me see what's spring is like  
@@ -108,6 +168,7 @@ I love you
 
 # 2026-03-02
 <!-- DAILY_CHECKIN_2026-03-02_START -->
+
 
 
 
@@ -172,6 +233,7 @@ I want it that way
 
 
 
+
 Verse 1: Ariana Grande\]  
 [Tell me somethin' I need to know  
 Then take my breath and never let it go  
@@ -201,6 +263,7 @@ Harder, harder, harder
 
 # 2026-02-27
 <!-- DAILY_CHECKIN_2026-02-27_START -->
+
 
 
 
@@ -304,6 +367,7 @@ We had seasons in the sun
 
 
 
+
 Everybody's looking for that something  
 One thing that makes it all complete  
 You find it in the strangest places  
@@ -360,6 +424,7 @@ I'm flying without wings
 
 
 
+
 [听力](https://hzpt-inet-club.github.io/english-note/guide/adjectiveToNoun.html)
 
 我认为听力
@@ -385,6 +450,7 @@ I'm flying without wings
 
 
 
+
 今天学的语法
 
 [形容词 和 名词 的关系 | 英语语法](https://hzpt-inet-club.github.io/english-note/guide/adjectiveToNoun.html)
@@ -392,6 +458,7 @@ I'm flying without wings
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
