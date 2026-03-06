@@ -15,8 +15,30 @@ Hi~ I’m Nina. I’m engaged in the traditional financial industry.Now I’m ex
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-06
+<!-- DAILY_CHECKIN_2026-03-06_START -->
+**Engkish Pod-11gossip -new guy in town**
+
+weird/strange /odd（英音）
+
+housewarming gift
+
+a basket of pastries/ei/糕点篮
+
+have a bad feeling about
+
+creep me out吓煞奴家了creepy
+
+scare the hack out of me
+
+fill me in=tell me about it
+
+coffin棺材
+<!-- DAILY_CHECKIN_2026-03-06_END -->
+
 # 2026-03-05
 <!-- DAILY_CHECKIN_2026-03-05_START -->
+
 **  
 Englishpod 10-办公室开会讨论如何提高销售量**
 
@@ -36,6 +58,7 @@ someone will be here any minute 谁will arrive very soon
 # 2026-03-04
 <!-- DAILY_CHECKIN_2026-03-04_START -->
 
+
 **englishpod 9-讲电影院里的故事**
 
 **keep it down /be quiet**
@@ -53,6 +76,7 @@ do you mind doing sth
 
 # 2026-03-03
 <!-- DAILY_CHECKIN_2026-03-03_START -->
+
 
 
 **Englishpod8-what‘s ur name again**
@@ -77,6 +101,7 @@ acquaintance熟人n.
 
 
 
+
 **english pod7 office-virus**
 
 infected file被感染的文件有病毒的文件
@@ -96,6 +121,7 @@ web brower
 
 # 2026-03-01
 <!-- DAILY_CHECKIN_2026-03-01_START -->
+
 
 
 
@@ -130,6 +156,7 @@ trunk 后备箱
 
 
 
+
 English Pod-今天是插队的故事
 
 cut in line插队
@@ -151,6 +178,7 @@ line up /form a queue
 
 
 
+
 今日English Pod
 
 understaffed人手不够
@@ -164,6 +192,7 @@ keep the costs down
 
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 
 
 
@@ -192,6 +221,7 @@ Overbooked
 
 
 
+
 English pod2
 
 1学的点餐 2打电话请病假n
@@ -205,6 +235,7 @@ quite ill /sick
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 
