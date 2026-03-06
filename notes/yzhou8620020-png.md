@@ -15,8 +15,63 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-06
+<!-- DAILY_CHECKIN_2026-03-06_START -->
+## **The power of 1% changes over time**
+
+compounding  
+Sometimes the outcomes of the progress are delayed, this leads to an initial valley of disappointment, and then we give up.
+
+## **Screw our goals and focus on systems**
+
+A group of people may have same goals, like winning the competition, but just few of them achieve it.  
+set goals → win the game ❌  
+↓  
+build systems → continue playing the game ✔️
+
+## **Focus identity rather than outcomes**
+
+The identity is more closer to your system,  
+a habit becomes part of our identity  
+Imagine circles with the same center: the outcome outside concerned with changing the results, the processes related to our habits and systems, and our identity which is related to our beliefs.  
+To solve the problem in the longer term at the system level, we need change our identity.
+
+✔️: identity → process → outcome  
+e.g. I am a healthy person, so I will exercise regularly, and then maybe I'll lose weight.
+
+## **Four fundamental laws of behavior change**
+
+cue 提示
+
+-   trigger the brain to initiate an action
+    
+-   design our environment around our cues:  
+    **put fewer steps between you and good behaviors**  
+    you gently being nudged in the right direction each day 你每日天都被轻轻地推向正确的方向  
+    craving 渴求
+    
+-   provide the motivational force
+    
+-   making the habits attractive will help us stick to them  
+    attach some form of immediate gratification 即时满足  
+    response 反应
+    
+-   the action or habit we perform  
+    reward 奖励
+    
+-   the end goal
+    
+-   what is immediately rewarded is repeated, like scrolling aimlessly through social media
+    
+-   what is immediately punished is avoided 回避被即时惩罚的行为
+    
+
+Ensure that behaviors of good habits are obvious, attractive, easy and satisfying, and those of bad habits are inisible, unattractive, hard and unsatisfying.
+<!-- DAILY_CHECKIN_2026-03-06_END -->
+
 # 2026-03-04
 <!-- DAILY_CHECKIN_2026-03-04_START -->
+
 ## \## 1. native speaker
 
 ## \## 2. language ability
@@ -68,6 +123,7 @@ Use these questions to assess and guide your own path to mastery.
 
 # 2026-03-03
 <!-- DAILY_CHECKIN_2026-03-03_START -->
+
 
 ## **How** Dopamine Work when We Swipe Phones
 
@@ -132,6 +188,7 @@ This compelling story begins with ……
 
 # 2026-03-02
 <!-- DAILY_CHECKIN_2026-03-02_START -->
+
 
 
 ## How to Train Your Brain to Be More Patient
@@ -220,6 +277,7 @@ How to exercise?
 
 
 
+
 ## Make a given year the best year of your life
 
 Progress: towards the things that truly matter to us
@@ -269,6 +327,7 @@ Depending on your month celebration, pick a block at least once a week for the g
 
 
 
+
 ## Deep Work System
 
 ### 1\. realize the importance of deep work
@@ -302,6 +361,7 @@ Depending on your month celebration, pick a block at least once a week for the g
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -365,6 +425,7 @@ batch your tasks to different groups that requires similar mindsets like logic a
 
 
 
+
 ## **The 4 Hobbies that Improved my Life**
 
 ### **YouTube – Ali Abdaal**
@@ -388,6 +449,7 @@ batch your tasks to different groups that requires similar mindsets like logic a
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
