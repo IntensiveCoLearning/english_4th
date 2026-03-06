@@ -15,8 +15,62 @@ o(=•ェ•=)m
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-06
+<!-- DAILY_CHECKIN_2026-03-06_START -->
+1ST vocabulary
+
+articulate:
+
+express meaning of words clearly
+
+> grok: **Articulate** (adj./v.): factually means expressing ideas clearly, fluently, and coherently (from Latin articulare = to divide into joints → well-jointed speech). Primary dictionaries and usage show it describes people or arguments that are lucid and persuasive, not mumbled or vague. Assumption: people sometimes confuse it with “talkative”; if wrong, articulate still requires quality over quantity
+
+develop the idea of articulare: what is the meaning, what other words it developed
+
+lucid:
+
+mumbled:
+
+courteous:
+
+what do you mean: courteous is something superficial,. genuine without depth, do you mean by: it is shallow?
+
+etiquette
+
+discreet: carefully speak in order to avoid making mistake
+
+> idea of speeching: use the word that you own, when writing, never temped to use words that is “over” you, because they will embarress you. Futther, it derives from the origin usage of speech/writing: to explain things clearly.
+
+> how discreet arise form latin words: discretus?
+
+> what is the meaning of low profile?
+
+prudent: careful and wise
+
+> what is the meaning of : virtue of reasoned restraint and providence?
+
+tactful： considerate and diplomatic with people
+
+> is it full of siklls?
+
+> RELAXING INTO ATTENTION: something inherent arise: away from hurry.
+
+its not about resisting, its about leting go. I cant explain its interal sense: but I can make expmple: when learning english, not “forcusing” your brain to learn, like, “you have to learn it !” no! but to, idongt know how to describe, but to flow like water, observe, enjoy its wave, andclaerly change your focus. Wonderful experience!
+
+It’s not about resisting. It’s about letting go.
+
+I can’t fully explain the inner feeling, but I can give an example.
+
+When learning English, it’s not about forcing your brain and saying, “You have to learn it!”
+
+It’s more like flowing with it — like water. Observing it, enjoying its rhythm, and gently shifting your focus.
+
+It’s a wonderful experience.
+<!-- DAILY_CHECKIN_2026-03-06_END -->
+
 # 2026-03-05
 <!-- DAILY_CHECKIN_2026-03-05_START -->
+
 **dichotomy** — A division into two mutually exclusive and jointly exhaustive parts (from Greek διχοτομία “cutting in two”). In Stoicism: the strict binary “things up to us” vs “things not up to us.”
 
 -   **exclusively** — Solely, only, to the exclusion of all else. In Stoicism: virtue is the only true good; nothing external qualifies.
@@ -37,6 +91,7 @@ Stoicism holds that the only true good is virtue (living rationally and excellen
 
 # 2026-03-02
 <!-- DAILY_CHECKIN_2026-03-02_START -->
+
 
 
 he self as a vulnerable bay, ceaselessly battered by passions/desires and weighed down by ambition.
@@ -74,6 +129,7 @@ discourse: Discourse fundamentally means extended, structured communication of t
 
 # 2026-03-01
 <!-- DAILY_CHECKIN_2026-03-01_START -->
+
 
 
 
@@ -122,6 +178,7 @@ epitome: If you're talking about a typical example of something, call it the _ep
 
 
 
+
 difference between Eth and Solana:
 
 Solana and Ethereum represent two fundamentally different approaches to scaling blockchain: Solana optimizes for single-chain extreme throughput and minimal fees at the cost of lower decentralization and higher centralization risk; Ethereum prioritizes maximum decentralization and censorship resistance, accepting higher base-layer costs and relying on modular L2 scaling. Neither is objectively superior — the “better” chain depends almost entirely on use-case priorities (retail speed & speculation vs institutional-grade security & longevity). Confidence: high.
@@ -129,6 +186,7 @@ Solana and Ethereum represent two fundamentally different approaches to scaling 
 
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 
 
 
@@ -149,6 +207,7 @@ technically speaking, there is no "personal long-termism". Scholars currently ha
 
 
 
+
 playing disco elysium--expanding vocabulary
 
 ![20260225124045_1.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/marcuswustarman-tech/images/2026-02-25-1771994583528-20260225124045_1.jpg)
@@ -161,6 +220,7 @@ feline: You can describe your kitten as your young _feline_ friend, since _felin
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -303,6 +363,7 @@ It compresses:
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 
