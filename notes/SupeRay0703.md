@@ -15,8 +15,20 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-06
+<!-- DAILY_CHECKIN_2026-03-06_START -->
+Day 11
+
+Today I watched a ton of documentaries about Iran.
+
+My foreign friend told me that actually only 40% Iranians are Islam believers, while the original Persians believe in Zoroastrianism.
+
+The most horrible thing is that even loads of viral Youtubers talking about Iran have no idea about this fact...
+<!-- DAILY_CHECKIN_2026-03-06_END -->
+
 # 2026-03-05
 <!-- DAILY_CHECKIN_2026-03-05_START -->
+
 Day 10
 
 1.  I followed my plan listening to the English Pod - Gossip Lesson:
@@ -44,6 +56,7 @@ f. You’ll never guess
 <!-- DAILY_CHECKIN_2026-03-03_START -->
 
 
+
 Day 9
 
 1.  I followed my plan listening to the English Pod:
@@ -69,6 +82,7 @@ f. brilliant - excellent
 
 
 
+
 Day 8
 
 1.  I followed my plan listening to the English Pod:
@@ -89,6 +103,7 @@ e. Can't hear a thing
 
 # 2026-03-01
 <!-- DAILY_CHECKIN_2026-03-01_START -->
+
 
 
 
@@ -118,6 +133,7 @@ e. contact details
 
 
 
+
 Day 6
 
 1.  I followed my plan listening to the English Pod:
@@ -138,6 +154,7 @@ e. pick up the virus
 
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 
 
 
@@ -181,6 +198,7 @@ j. Fill up the tank
 
 
 
+
 Day 4
 
 1.  I followed my plan listening to the English Pod:
@@ -201,6 +219,7 @@ e. Sounds reasonable
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -239,6 +258,7 @@ c. overbooked - full
 
 
 
+
 Day 2
 
 1.  I followed my plan listening to the English Pod:
@@ -257,6 +277,7 @@ d. Was hoping - To kindly expect
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
