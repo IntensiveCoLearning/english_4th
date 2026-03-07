@@ -15,8 +15,32 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-07
+<!-- DAILY_CHECKIN_2026-03-07_START -->
+## **Why you should potentially consider starting a YouTube channel even if no one watches**
+
+The key reason is internal growth
+
+The personal, emotional and spiritual growth you will go through.
+
+put ourselves into uncomfortable situations where we are able to confront our internal demons
+
+1\. recognize no one actually cares
+
+2\. If they do, it shouldn't affect you
+
+3\. learn to not care about what others think
+
+boost your sense of personal agency
+
+you gain the ability to learn new things
+
+make the first 7 videos purely for yourself to see whether you like the art of making YouTube videos
+<!-- DAILY_CHECKIN_2026-03-07_END -->
+
 # 2026-03-06
 <!-- DAILY_CHECKIN_2026-03-06_START -->
+
 ## **The power of 1% changes over time**
 
 compounding  
@@ -72,6 +96,7 @@ Ensure that behaviors of good habits are obvious, attractive, easy and satisfyin
 # 2026-03-04
 <!-- DAILY_CHECKIN_2026-03-04_START -->
 
+
 ## \## 1. native speaker
 
 ## \## 2. language ability
@@ -123,6 +148,7 @@ Use these questions to assess and guide your own path to mastery.
 
 # 2026-03-03
 <!-- DAILY_CHECKIN_2026-03-03_START -->
+
 
 
 ## **How** Dopamine Work when We Swipe Phones
@@ -188,6 +214,7 @@ This compelling story begins with ……
 
 # 2026-03-02
 <!-- DAILY_CHECKIN_2026-03-02_START -->
+
 
 
 
@@ -278,6 +305,7 @@ How to exercise?
 
 
 
+
 ## Make a given year the best year of your life
 
 Progress: towards the things that truly matter to us
@@ -328,6 +356,7 @@ Depending on your month celebration, pick a block at least once a week for the g
 
 
 
+
 ## Deep Work System
 
 ### 1\. realize the importance of deep work
@@ -361,6 +390,7 @@ Depending on your month celebration, pick a block at least once a week for the g
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -426,6 +456,7 @@ batch your tasks to different groups that requires similar mindsets like logic a
 
 
 
+
 ## **The 4 Hobbies that Improved my Life**
 
 ### **YouTube – Ali Abdaal**
@@ -449,6 +480,7 @@ batch your tasks to different groups that requires similar mindsets like logic a
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
