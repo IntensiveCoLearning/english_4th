@@ -386,10 +386,162 @@ That means:
 So the brain is not just processing signals — it is also **continually reorganizing itself**.
 
 * * *
+
+**limestone:**
+
+-   **Heat pass through** → **conductive**
+    
+    Example: “Metal is highly conductive.”
+    
+-   **Electricity pass through** → **conductive**
+    
+    Example: “Copper is a good conductive material.”
+    
+-   **Water / rain pass through** → **permeable**
+    
+    Example: “This fabric is permeable to water.”
+    
+-   **Light pass through** → **transparent**
+    
+    Example: “Glass is transparent.”
+    
+
+GLOSS shine or smooth brightness
+
+# Main meaning of **gloss**
+
+## 1) Gloss = shine or smooth brightness on a surface
+
+This is the most common everyday meaning.
+
+It means a **shiny, smooth, polished look** on something.
+
+### Examples:
+
+-   “Her hair has a healthy gloss.”
+    
+-   “The table has a glossy finish.”
+    
+-   “This paint gives the wall a soft gloss.”
+    
+
+### Common things that can have gloss:
+
+-   hair
+    
+-   paint
+    
+-   paper
+    
+-   wood
+    
+-   lips
+    
+-   furniture
+    
+-   tiles
+    
+-   shoes
+    
+
+### Related idea:
+
+If something has gloss, it reflects light and looks smooth or polished.
+
+* * *
+
+# 2) Gloss = a brief explanation of a word or text
+
+In books, language study, and literature, **gloss** can mean a **short note that explains the meaning of a difficult word or passage**.
+
+### Examples:
+
+-   “The poem includes a gloss for old words.”
+    
+-   “The teacher wrote a gloss in the margin.”
+    
+-   “This edition has glosses for difficult expressions.”
+    
+
+### Simple meaning:
+
+A **gloss** here is like a **small explanation**, **note**, or **definition**.
+
+* * *
+
+# 3) Gloss = an interpretation or way of explaining something
+
+Sometimes **gloss** means a particular explanation, meaning, or interpretation.
+
+### Examples:
+
+-   “That is one possible gloss of the sentence.”
+    
+-   “The lawyer gave the law a new gloss.”
+    
+-   “His comments added a political gloss to the issue.”
+    
+
+Here, **gloss** means:
+
+-   explanation
+    
+-   interpretation
+    
+-   way of understanding something
+    
+
+* * *
+
+# 4) Gloss as a verb = to make shiny
+
+As a **verb**, **to gloss** can mean **to give shine to something**.
+
+### Examples:
+
+-   “She glossed the paper for the art project.”
+    
+-   “The magazine pages are glossed.”
+    
+-   “They used polish to gloss the wood.”
+    
+
+* * *
+
+# 5) Gloss over = to hide, ignore, or avoid unpleasant details
+
+This is a very common phrase.
+
+## **Gloss over**
+
+It means:
+
+-   to avoid talking about something fully
+    
+-   to hide difficulties
+    
+-   to make something seem less serious than it is
+    
+
+### Examples:
+
+-   “The report glossed over the main problem.”
+    
+-   “He tried to gloss over his mistake.”
+    
+-   “The movie glosses over the violence of that period.”
+    
+
+### Simple meaning:
+
+**Gloss over** = **ignore or hide the unpleasant parts**
+
+This is one of the most important uses of the word.
 <!-- DAILY_CHECKIN_2026-03-08_END -->
 
 # 2026-03-07
 <!-- DAILY_CHECKIN_2026-03-07_START -->
+
 
 develop the idea of articulare: what is the meaning, what other words it developed
 
@@ -422,6 +574,7 @@ develop the idea of articulare: what is the meaning, what other words it develop
 
 # 2026-03-06
 <!-- DAILY_CHECKIN_2026-03-06_START -->
+
 
 
 1ST vocabulary
@@ -480,6 +633,7 @@ It’s a wonderful experience.
 
 
 
+
 **dichotomy** — A division into two mutually exclusive and jointly exhaustive parts (from Greek διχοτομία “cutting in two”). In Stoicism: the strict binary “things up to us” vs “things not up to us.”
 
 -   **exclusively** — Solely, only, to the exclusion of all else. In Stoicism: virtue is the only true good; nothing external qualifies.
@@ -500,6 +654,7 @@ Stoicism holds that the only true good is virtue (living rationally and excellen
 
 # 2026-03-02
 <!-- DAILY_CHECKIN_2026-03-02_START -->
+
 
 
 
@@ -540,6 +695,7 @@ discourse: Discourse fundamentally means extended, structured communication of t
 
 # 2026-03-01
 <!-- DAILY_CHECKIN_2026-03-01_START -->
+
 
 
 
@@ -594,6 +750,7 @@ epitome: If you're talking about a typical example of something, call it the _ep
 
 
 
+
 difference between Eth and Solana:
 
 Solana and Ethereum represent two fundamentally different approaches to scaling blockchain: Solana optimizes for single-chain extreme throughput and minimal fees at the cost of lower decentralization and higher centralization risk; Ethereum prioritizes maximum decentralization and censorship resistance, accepting higher base-layer costs and relying on modular L2 scaling. Neither is objectively superior — the “better” chain depends almost entirely on use-case priorities (retail speed & speculation vs institutional-grade security & longevity). Confidence: high.
@@ -601,6 +758,7 @@ Solana and Ethereum represent two fundamentally different approaches to scaling 
 
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 
 
 
@@ -627,6 +785,7 @@ technically speaking, there is no "personal long-termism". Scholars currently ha
 
 
 
+
 playing disco elysium--expanding vocabulary
 
 ![20260225124045_1.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/marcuswustarman-tech/images/2026-02-25-1771994583528-20260225124045_1.jpg)
@@ -639,6 +798,7 @@ feline: You can describe your kitten as your young _feline_ friend, since _felin
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -784,6 +944,7 @@ It compresses:
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 
