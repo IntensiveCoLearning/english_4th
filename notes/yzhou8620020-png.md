@@ -15,8 +15,18 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-08
+<!-- DAILY_CHECKIN_2026-03-08_START -->
+## Why are we always looking back at the past?
+
+[https://www.bilibili.com/video/BV17jAazkEtg/?spm\_id\_from=333.1387.homepage.video\_card.click&vd\_source=e46dec29bbb09224760ee13cae0a148f](https://www.bilibili.com/video/BV17jAazkEtg/?spm_id_from=333.1387.homepage.video_card.click&vd_source=e46dec29bbb09224760ee13cae0a148f)
+
+Just follow the speaker and repeat.
+<!-- DAILY_CHECKIN_2026-03-08_END -->
+
 # 2026-03-07
 <!-- DAILY_CHECKIN_2026-03-07_START -->
+
 ## **Why you should potentially consider starting a YouTube channel even if no one watches**
 
 The key reason is internal growth
@@ -40,6 +50,7 @@ make the first 7 videos purely for yourself to see whether you like the art of m
 
 # 2026-03-06
 <!-- DAILY_CHECKIN_2026-03-06_START -->
+
 
 ## **The power of 1% changes over time**
 
@@ -97,6 +108,7 @@ Ensure that behaviors of good habits are obvious, attractive, easy and satisfyin
 <!-- DAILY_CHECKIN_2026-03-04_START -->
 
 
+
 ## \## 1. native speaker
 
 ## \## 2. language ability
@@ -148,6 +160,7 @@ Use these questions to assess and guide your own path to mastery.
 
 # 2026-03-03
 <!-- DAILY_CHECKIN_2026-03-03_START -->
+
 
 
 
@@ -214,6 +227,7 @@ This compelling story begins with ……
 
 # 2026-03-02
 <!-- DAILY_CHECKIN_2026-03-02_START -->
+
 
 
 
@@ -306,6 +320,7 @@ How to exercise?
 
 
 
+
 ## Make a given year the best year of your life
 
 Progress: towards the things that truly matter to us
@@ -357,6 +372,7 @@ Depending on your month celebration, pick a block at least once a week for the g
 
 
 
+
 ## Deep Work System
 
 ### 1\. realize the importance of deep work
@@ -390,6 +406,7 @@ Depending on your month celebration, pick a block at least once a week for the g
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -457,6 +474,7 @@ batch your tasks to different groups that requires similar mindsets like logic a
 
 
 
+
 ## **The 4 Hobbies that Improved my Life**
 
 ### **YouTube – Ali Abdaal**
@@ -480,6 +498,7 @@ batch your tasks to different groups that requires similar mindsets like logic a
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
