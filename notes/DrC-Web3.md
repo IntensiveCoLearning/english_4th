@@ -20,10 +20,80 @@ timezone: UTC+8
 What if i told you
 
 You are the best as you are
+
+**"Just The Way You Are"**  
+  
+
+Oh oh oh oh  
+  
+Oh, her eyes, her eyes  
+Make the stars look like they're not shinin'  
+Her hair, her hair  
+Falls perfectly without her trying  
+She's so beautiful  
+And I tell her every day  
+Yeah  
+  
+I know, I know  
+When I compliment her she won't believe me  
+And it's so, it's so  
+Sad to think that she don't see what I see  
+But every time she asks me, "Do I look okay?"  
+I say  
+  
+When I see your face (face, face...)  
+There's not a thing that I would change  
+'Cause you're amazing (amazing)  
+Just the way you are (are)  
+And when you smile (smile, smile...)  
+The whole world stops and stares for a while  
+'Cause, girl, you're amazing (amazing)  
+Just the way you are (are)  
+Yeah  
+  
+Her lips, her lips  
+I could kiss them all day if she'd let me  
+Her laugh, her laugh  
+She hates but I think it's so sexy  
+She's so beautiful  
+And I tell her every day  
+  
+Oh you know, you know, you know  
+I'd never ask you to change  
+If perfect's what you're searching for  
+Then just stay the same  
+So don't even bother asking if you look okay  
+You know I'll say,  
+  
+When I see your face (face, face...)  
+There's not a thing that I would change  
+'Cause you're amazing (amazing)  
+Just the way you are (are)  
+And when you smile (smile, smile...)  
+The whole world stops and stares for a while  
+'Cause, girl, you're amazing (amazing)  
+Just the way you are (are)  
+  
+The way you are  
+The way you are  
+Girl, you're amazing (amazing)  
+Just the way you are (are)  
+  
+When I see your face  
+There's not a thing that I would change  
+'Cause you're amazing (amazing)  
+Just the way you are (are)  
+And when you smile  
+The whole world stops and stares for a while  
+'Cause, girl, you're amazing  
+Just the way you are  
+  
+Yeah
 <!-- DAILY_CHECKIN_2026-03-08_END -->
 
 # 2026-03-06
 <!-- DAILY_CHECKIN_2026-03-06_START -->
+
 
 It might seem crazy what I'm 'bout to say  
 Sunshine, she's here, you can take a break  
@@ -85,6 +155,7 @@ Can't nothin' (happy, happy) bring me down, I said
 <!-- DAILY_CHECKIN_2026-03-05_START -->
 
 
+
 最爱的westlife
 
 if i let you go
@@ -143,6 +214,7 @@ If I let you go
 
 
 
+
 Fly me to the moon  
 Let me play among the stars  
 Let me see what's spring is like  
@@ -178,6 +250,7 @@ I love you
 
 # 2026-03-02
 <!-- DAILY_CHECKIN_2026-03-02_START -->
+
 
 
 
@@ -246,6 +319,7 @@ I want it that way
 
 
 
+
 Verse 1: Ariana Grande\]  
 [Tell me somethin' I need to know  
 Then take my breath and never let it go  
@@ -275,6 +349,7 @@ Harder, harder, harder
 
 # 2026-02-27
 <!-- DAILY_CHECKIN_2026-02-27_START -->
+
 
 
 
@@ -382,6 +457,7 @@ We had seasons in the sun
 
 
 
+
 Everybody's looking for that something  
 One thing that makes it all complete  
 You find it in the strangest places  
@@ -440,6 +516,7 @@ I'm flying without wings
 
 
 
+
 [听力](https://hzpt-inet-club.github.io/english-note/guide/adjectiveToNoun.html)
 
 我认为听力
@@ -467,6 +544,7 @@ I'm flying without wings
 
 
 
+
 今天学的语法
 
 [形容词 和 名词 的关系 | 英语语法](https://hzpt-inet-club.github.io/english-note/guide/adjectiveToNoun.html)
@@ -474,6 +552,7 @@ I'm flying without wings
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
