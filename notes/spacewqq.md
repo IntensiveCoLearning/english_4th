@@ -15,8 +15,18 @@ web3初学者
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-08
+<!-- DAILY_CHECKIN_2026-03-08_START -->
+# Day 15
+
+-   read 3 pages of Carol, check 31 words in the pages
+    
+-   learn 7 lessons in Duolingo
+<!-- DAILY_CHECKIN_2026-03-08_END -->
+
 # 2026-03-07
 <!-- DAILY_CHECKIN_2026-03-07_START -->
+
 # Day 13
 
 -   learn 5 lessons in Duolingo
@@ -26,6 +36,7 @@ web3初学者
 
 # 2026-03-06
 <!-- DAILY_CHECKIN_2026-03-06_START -->
+
 
 # Day 13
 
@@ -38,6 +49,7 @@ web3初学者
 <!-- DAILY_CHECKIN_2026-03-05_START -->
 
 
+
 # Day 12
 
 -   recite words from [https://b23.tv/ytNLqQz](https://b23.tv/ytNLqQz)
@@ -47,6 +59,7 @@ web3初学者
 
 # 2026-03-04
 <!-- DAILY_CHECKIN_2026-03-04_START -->
+
 
 
 
@@ -65,6 +78,7 @@ web3初学者
 
 
 
+
 # Day 9
 
 -   watching Friends for 2 hours
@@ -74,6 +88,7 @@ web3初学者
 
 # 2026-03-01
 <!-- DAILY_CHECKIN_2026-03-01_START -->
+
 
 
 
@@ -90,6 +105,7 @@ web3初学者
 
 # 2026-02-27
 <!-- DAILY_CHECKIN_2026-02-27_START -->
+
 
 
 
@@ -114,6 +130,7 @@ web3初学者
 
 
 
+
 # Day 4
 
 1.  reading a news about ios
@@ -123,6 +140,7 @@ web3初学者
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -149,6 +167,7 @@ web3初学者
 
 
 
+
 # Day 2
 
 1.  Use Cambridge English to test my english level, my score is 16 out of 25. Maybe it takes so long time that I haven’t learn english grammar.
@@ -160,6 +179,7 @@ web3初学者
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
