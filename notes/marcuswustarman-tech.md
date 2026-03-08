@@ -15,8 +15,382 @@ o(=•ェ•=)m
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-08
+<!-- DAILY_CHECKIN_2026-03-08_START -->
+Sure — here is the same idea in English, with clearer wording.
+
+## 1) What does this mean?
+
+> **“Ganglion cells are the first cells that produce full action potentials.”**
+
+It means:
+
+> In the retina, **ganglion cells are the first cells that send information as standard nerve spikes**.
+
+There are two main kinds of electrical signals in the visual system:
+
+### A. Graded signals
+
+Photoreceptors (**rods and cones**) and several earlier retinal cells mostly use **graded potentials**.
+
+That means:
+
+-   their voltage changes **smoothly**
+    
+-   the change can be small or large
+    
+-   it is not all-or-none
+    
+
+This is like a **dimmer switch**.
+
+### B. Action potentials
+
+Ganglion cells produce **action potentials**, also called **spikes** or **nerve impulses**.
+
+These are:
+
+-   **all-or-none**
+    
+-   standard-shaped pulses
+    
+-   good for long-distance transmission
+    
+
+This is more like a **digital pulse**.
+
+So the sentence does **not** mean rods and cones have no electrical activity.  
+It means:
+
+-   rods and cones change their membrane voltage gradually
+    
+-   ganglion cells convert that information into spike trains that can travel through the **optic nerve** to the brain
+    
+
+* * *
+
+## 2) In the human body, how are electrical signals transmitted?
+
+This is a very important point:
+
+### Biological electricity is not mainly like electricity in a metal wire
+
+In a copper wire, current is mainly carried by **electrons**.
+
+In the body, signals are mainly created by **ions** moving across cell membranes, especially:
+
+-   **Na⁺** (sodium)
+    
+-   **K⁺** (potassium)
+    
+-   **Ca²⁺** (calcium)
+    
+-   **Cl⁻** (chloride)
+    
+
+So nervous-system electricity is really:
+
+> **electrochemical signaling produced by ion movement across membranes**
+
+* * *
+
+## 2.1) How does one neuron carry a signal?
+
+A neuron has:
+
+-   **dendrites**: receive input
+    
+-   **cell body**: integrates input
+    
+-   **axon**: sends output
+    
+-   **synapse**: passes signal to the next cell
+    
+
+### Resting state
+
+A neuron at rest usually has a membrane potential around:
+
+-   **\-70 mV**
+    
+
+This is called the **resting potential**.
+
+It exists because:
+
+-   ion concentrations differ inside vs outside the cell
+    
+-   the membrane is selectively permeable
+    
+-   ion pumps and channels maintain the differences
+    
+
+So the cell is like a tiny charged system, ready to respond.
+
+* * *
+
+## 2.2) How does an action potential start?
+
+If incoming signals make the membrane voltage rise enough to reach a threshold, often around:
+
+-   **\-55 mV**
+    
+
+then voltage-gated ion channels open.
+
+### Basic sequence
+
+1.  **Sodium channels open**
+    
+    -   Na⁺ rushes in
+        
+    -   membrane voltage rises rapidly
+        
+2.  **Potassium channels open**
+    
+    -   K⁺ flows out
+        
+    -   voltage falls again
+        
+3.  The neuron resets
+    
+    -   returns toward resting level
+        
+    -   goes through a short refractory period
+        
+
+This brief electrical pulse is the **action potential**.
+
+* * *
+
+## 2.3) How does it move along the axon?
+
+One active patch of membrane causes the next patch to reach threshold, and so on.
+
+So the signal travels forward along the axon.
+
+A good analogy is:
+
+-   falling dominoes
+    
+-   or a wave moving down a line
+    
+
+If the axon has **myelin**, the signal travels much faster by effectively “jumping” between gaps called **nodes of Ranvier**. This is called **saltatory conduction**.
+
+* * *
+
+## 2.4) How does one neuron pass information to another?
+
+Usually through a **chemical synapse**:
+
+1.  action potential reaches the axon terminal
+    
+2.  calcium channels open
+    
+3.  Ca²⁺ enters
+    
+4.  vesicles release **neurotransmitters**
+    
+5.  neurotransmitters cross the synaptic gap
+    
+6.  they bind receptors on the next cell
+    
+7.  the next cell’s voltage changes
+    
+
+Common neurotransmitters:
+
+-   **glutamate**: usually excitatory
+    
+-   **GABA**: usually inhibitory
+    
+-   also dopamine, acetylcholine, serotonin, etc.
+    
+
+So in the nervous system:
+
+-   **within a neuron**: signal is mainly electrical
+    
+-   **between neurons**: signal is often chemical
+    
+
+* * *
+
+## 2.5) Then how does vision specifically work?
+
+In the retina:
+
+-   **rods and cones** detect light
+    
+-   they signal to **bipolar cells**
+    
+-   bipolar cells signal to **ganglion cells**
+    
+-   ganglion cells send action potentials into the **optic nerve**
+    
+-   optic nerve carries them to the brain
+    
+
+So the retina is already doing some processing before the signal even reaches the brain.
+
+* * *
+
+## 3) Does the brain process like a computer?
+
+### Yes, in some ways
+
+The brain and a computer both:
+
+-   receive input
+    
+-   encode information
+    
+-   process it
+    
+-   store information
+    
+-   produce output
+    
+
+So in a broad sense, the brain **is** an information-processing system.
+
+### But it is not like a normal digital computer
+
+A standard computer usually has:
+
+-   a central processor
+    
+-   strict clock timing
+    
+-   binary logic
+    
+-   explicit programs and stored data
+    
+
+The brain is very different:
+
+-   massively **parallel**
+    
+-   no single central clock
+    
+-   information is distributed across many neurons
+    
+-   uses spike timing, rate, and population patterns
+    
+-   rewires itself through learning
+    
+
+So the brain is **more like a huge adaptive network** than a standard laptop CPU.
+
+* * *
+
+## 4) How does the brain organize such a huge amount of signals?
+
+The brain handles huge signal flow by using:
+
+### A. Hierarchy
+
+Signals are processed in stages.
+
+For vision:
+
+1.  **retina**
+    
+2.  **thalamus** (especially the LGN)
+    
+3.  **primary visual cortex (V1)**
+    
+4.  higher visual areas
+    
+
+Each stage extracts more useful structure.
+
+### B. Division of labor
+
+Different brain regions specialize in different things:
+
+-   visual cortex: vision
+    
+-   auditory cortex: sound
+    
+-   motor areas: movement
+    
+-   hippocampus: memory formation
+    
+-   prefrontal cortex: planning and decision-making
+    
+
+### C. Parallel processing
+
+Many things happen at the same time:
+
+-   color
+    
+-   motion
+    
+-   edges
+    
+-   shape
+    
+-   attention
+    
+-   memory links
+    
+
+The brain does not process everything one-by-one in a single stream.
+
+### D. Filtering and compression
+
+The brain does not preserve every raw detail equally. It emphasizes:
+
+-   change
+    
+-   contrast
+    
+-   patterns
+    
+-   behaviorally useful information
+    
+
+This saves energy and reduces overload.
+
+### E. Excitation and inhibition balance
+
+Some neurons increase activity, others suppress it. This balance helps:
+
+-   prevent runaway activity
+    
+-   reduce noise
+    
+-   sharpen important signals
+    
+
+### F. Coding by groups
+
+The brain often represents information using **patterns across populations of neurons**, not one neuron = one idea.
+
+So perception comes from coordinated activity across large networks.
+
+### G. Plasticity
+
+The brain changes its own wiring with experience.
+
+That means:
+
+-   frequently used connections can strengthen
+    
+-   less useful ones can weaken
+    
+
+So the brain is not just processing signals — it is also **continually reorganizing itself**.
+
+* * *
+<!-- DAILY_CHECKIN_2026-03-08_END -->
+
 # 2026-03-07
 <!-- DAILY_CHECKIN_2026-03-07_START -->
+
 develop the idea of articulare: what is the meaning, what other words it developed
 
 **1) Conclusion (confidence: high)** The Latin verb _articulāre_ means “to divide into joints” or “to separate into distinct parts,” with a secondary sense “to utter distinctly.” It developed from _articulus_ (“small joint, part, division”), a diminutive of _artus_ (“joint”), tracing to PIE root _ar-_ (“to fit together”). In English, this root family evolved into words about joints (anatomical/structural) and clear, segmented expression (speech/thought), yielding a rich cluster including _articulate_, _article_, _articulation_, _inarticulate_, and many medical/technical terms.
@@ -48,6 +422,7 @@ develop the idea of articulare: what is the meaning, what other words it develop
 
 # 2026-03-06
 <!-- DAILY_CHECKIN_2026-03-06_START -->
+
 
 1ST vocabulary
 
@@ -104,6 +479,7 @@ It’s a wonderful experience.
 <!-- DAILY_CHECKIN_2026-03-05_START -->
 
 
+
 **dichotomy** — A division into two mutually exclusive and jointly exhaustive parts (from Greek διχοτομία “cutting in two”). In Stoicism: the strict binary “things up to us” vs “things not up to us.”
 
 -   **exclusively** — Solely, only, to the exclusion of all else. In Stoicism: virtue is the only true good; nothing external qualifies.
@@ -124,6 +500,7 @@ Stoicism holds that the only true good is virtue (living rationally and excellen
 
 # 2026-03-02
 <!-- DAILY_CHECKIN_2026-03-02_START -->
+
 
 
 
@@ -163,6 +540,7 @@ discourse: Discourse fundamentally means extended, structured communication of t
 
 # 2026-03-01
 <!-- DAILY_CHECKIN_2026-03-01_START -->
+
 
 
 
@@ -215,6 +593,7 @@ epitome: If you're talking about a typical example of something, call it the _ep
 
 
 
+
 difference between Eth and Solana:
 
 Solana and Ethereum represent two fundamentally different approaches to scaling blockchain: Solana optimizes for single-chain extreme throughput and minimal fees at the cost of lower decentralization and higher centralization risk; Ethereum prioritizes maximum decentralization and censorship resistance, accepting higher base-layer costs and relying on modular L2 scaling. Neither is objectively superior — the “better” chain depends almost entirely on use-case priorities (retail speed & speculation vs institutional-grade security & longevity). Confidence: high.
@@ -222,6 +601,7 @@ Solana and Ethereum represent two fundamentally different approaches to scaling 
 
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 
 
 
@@ -246,6 +626,7 @@ technically speaking, there is no "personal long-termism". Scholars currently ha
 
 
 
+
 playing disco elysium--expanding vocabulary
 
 ![20260225124045_1.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/marcuswustarman-tech/images/2026-02-25-1771994583528-20260225124045_1.jpg)
@@ -258,6 +639,7 @@ feline: You can describe your kitten as your young _feline_ friend, since _felin
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -402,6 +784,7 @@ It compresses:
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 
