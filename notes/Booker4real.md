@@ -15,8 +15,74 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-09
+<!-- DAILY_CHECKIN_2026-03-09_START -->
+entice 吸引
+
+internal 内部的
+
+distortion 失真的
+
+impulsively 冲动地
+
+controlled experiment 对照试验
+
+CRM 客户关系
+
+valued based 基于价值观
+
+niche segment 客户少 价格敏低
+
+strategic misfit
+
+reference group 参照群体
+
+influencer 网红
+
+exaggerated product claim 夸张的产品宣传
+
+exaggerated夸张的
+
+understated 被低估的
+
+openness 开放性
+
+millennial 千禧年
+
+unsought 不渴求的
+
+funeral 葬礼的
+
+sign 标志
+
+wrapper 包装
+
+container 包装
+
+perish ability
+
+lubricating oil 润滑油
+
+equity 资产
+
+augmented 延申
+
+warranty 保险
+
+bolts 螺栓
+
+screw 螺钉
+
+margins 利润
+
+manufacture 制造业
+
+aesthetics 美学
+<!-- DAILY_CHECKIN_2026-03-09_END -->
+
 # 2026-03-08
 <!-- DAILY_CHECKIN_2026-03-08_START -->
+
 shut down 停产
 
 interpret 理解
@@ -28,6 +94,7 @@ express 表达
 
 # 2026-03-05
 <!-- DAILY_CHECKIN_2026-03-05_START -->
+
 
 monopolistic 垄断
 
@@ -42,6 +109,7 @@ utility 效用
 
 # 2026-03-02
 <!-- DAILY_CHECKIN_2026-03-02_START -->
+
 
 
 macro 宏大的
@@ -108,6 +176,7 @@ budget 预算，便宜的
 
 
 
+
 scarce 稀缺的 scarcity
 
 trade off 权衡取舍
@@ -137,6 +206,7 @@ complement 互补
 
 
 
+
 demographic 人口
 
 intermediary 中介
@@ -153,6 +223,7 @@ actors 外部因素
 
 
 
+
 philosophy 哲学 居然还有理念的意思。
 
 department 部门
@@ -162,6 +233,7 @@ bundle 组合
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
