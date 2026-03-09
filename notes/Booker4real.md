@@ -78,10 +78,13 @@ margins 利润
 manufacture 制造业
 
 aesthetics 美学
+
+ration 分配
 <!-- DAILY_CHECKIN_2026-03-09_END -->
 
 # 2026-03-08
 <!-- DAILY_CHECKIN_2026-03-08_START -->
+
 
 
 shut down 停产
@@ -98,6 +101,7 @@ express 表达
 
 
 
+
 monopolistic 垄断
 
 cereal 麦片
@@ -111,6 +115,7 @@ utility 效用
 
 # 2026-03-02
 <!-- DAILY_CHECKIN_2026-03-02_START -->
+
 
 
 
@@ -181,6 +186,7 @@ budget 预算，便宜的
 
 
 
+
 scarce 稀缺的 scarcity
 
 trade off 权衡取舍
@@ -212,6 +218,7 @@ complement 互补
 
 
 
+
 demographic 人口
 
 intermediary 中介
@@ -230,6 +237,7 @@ actors 外部因素
 
 
 
+
 philosophy 哲学 居然还有理念的意思。
 
 department 部门
@@ -239,6 +247,7 @@ bundle 组合
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
