@@ -15,8 +15,26 @@ Hi~ I’m Nina. I’m engaged in the traditional financial industry.Now I’m ex
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-09
+<!-- DAILY_CHECKIN_2026-03-09_START -->
+**Engkish pod\_14 elementary-I m in debt**
+
+recession 萧条期
+
+the mob黑帮
+
+mortgage住房抵押贷款
+
+tuition教学贷款
+
+i m sorry to trouble u 抱歉打扰
+
+on top of all that 除此之外 besides/and also递进感
+<!-- DAILY_CHECKIN_2026-03-09_END -->
+
 # 2026-03-08
 <!-- DAILY_CHECKIN_2026-03-08_START -->
+
 **Englishpod-13 out of control spending**
 
 profit and loss statement损益表
@@ -35,6 +53,7 @@ agenda议程
 # 2026-03-07
 <!-- DAILY_CHECKIN_2026-03-07_START -->
 
+
 **English Pod-12 cleaning the house**
 
 such a mess
@@ -52,6 +71,7 @@ I m in the middle of something我在忙
 
 # 2026-03-06
 <!-- DAILY_CHECKIN_2026-03-06_START -->
+
 
 
 **Engkish Pod-11gossip -new guy in town**
@@ -78,6 +98,7 @@ coffin棺材
 
 
 
+
 **  
 Englishpod 10-办公室开会讨论如何提高销售量**
 
@@ -100,6 +121,7 @@ someone will be here any minute 谁will arrive very soon
 
 
 
+
 **englishpod 9-讲电影院里的故事**
 
 **keep it down /be quiet**
@@ -117,6 +139,7 @@ do you mind doing sth
 
 # 2026-03-03
 <!-- DAILY_CHECKIN_2026-03-03_START -->
+
 
 
 
@@ -147,6 +170,7 @@ acquaintance熟人n.
 
 
 
+
 **english pod7 office-virus**
 
 infected file被感染的文件有病毒的文件
@@ -166,6 +190,7 @@ web brower
 
 # 2026-03-01
 <!-- DAILY_CHECKIN_2026-03-01_START -->
+
 
 
 
@@ -206,6 +231,7 @@ trunk 后备箱
 
 
 
+
 English Pod-今天是插队的故事
 
 cut in line插队
@@ -230,6 +256,7 @@ line up /form a queue
 
 
 
+
 今日English Pod
 
 understaffed人手不够
@@ -243,6 +270,7 @@ keep the costs down
 
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 
 
 
@@ -277,6 +305,7 @@ Overbooked
 
 
 
+
 English pod2
 
 1学的点餐 2打电话请病假n
@@ -290,6 +319,7 @@ quite ill /sick
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 
