@@ -18,8 +18,26 @@ Just come and chat with me!
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-11
+<!-- DAILY_CHECKIN_2026-03-11_START -->
+### PRELUDE
+
+About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
+
+Today’s authentication lyrics:
+
+Flying boogie dance~ 踊りだせ光ちりばめて~ Good bye boogie dance~ 小粋なサヨナラ~
+
+_Good Bye Boogie Dance_ by Anri, and composed by Toshiki Kadomatsu, a city pop huge-hit. I really love those albums that are vocalized by Anri and composed by Toshiki Kadomatsu.
+
+### Track (Or diary, whatever)
+
+So fun! I had the second X space of my own!
+<!-- DAILY_CHECKIN_2026-03-11_END -->
+
 # 2026-03-10
 <!-- DAILY_CHECKIN_2026-03-10_START -->
+
 ### PRELUDE
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -39,6 +57,7 @@ Today I continued to promote the task of LXDAO BD Group. Honestly I am still in 
 
 # 2026-03-09
 <!-- DAILY_CHECKIN_2026-03-09_START -->
+
 
 ### PRELUDE
 
@@ -65,6 +84,7 @@ The reactive co-learning has started, but seemingly I can’t arrange enough tim
 <!-- DAILY_CHECKIN_2026-03-08_START -->
 
 
+
 ### PRELUDE
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -87,6 +107,7 @@ Still so many things to do. I don’t know how to handle everything. But there�
 
 
 
+
 ### PRELUDE
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -104,6 +125,7 @@ So many busy days! My partner Zoya invited me and our friend to create a pay-to-
 
 # 2026-03-04
 <!-- DAILY_CHECKIN_2026-03-04_START -->
+
 
 
 
@@ -130,6 +152,7 @@ None.
 
 
 
+
 ### PRELUDE
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -143,6 +166,7 @@ Today I had an interview and slept for ten more hours to recover. In the evening
 
 # 2026-03-02
 <!-- DAILY_CHECKIN_2026-03-02_START -->
+
 
 
 
@@ -164,6 +188,7 @@ Besides that, I prepared a document for tomorrow’s interview.
 
 # 2026-03-01
 <!-- DAILY_CHECKIN_2026-03-01_START -->
+
 
 
 
@@ -200,6 +225,7 @@ But I still finished some tasks, like resume modification and position applicati
 
 
 
+
 ### **PRELUDE**
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -228,6 +254,7 @@ I participated in the LXDAO weekly meeting, then I read a sequence of posts by B
 
 
 
+
 ### PRELUDE
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -247,6 +274,7 @@ In the next few days, I will prepare for the BD coordinator interview and modify
 
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 
 
 
@@ -291,6 +319,7 @@ Today, Zoya and I are going to apply for the X Space bounty task from LXDAO. We 
 
 
 
+
 ### PRELUDE
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -314,6 +343,7 @@ Tomorrow evening I will take a train back to Shanghai. And when I return to Shan
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -374,6 +404,7 @@ Besides, I had a one-on-one meeting with the lead-developer of PUSDC. We discuss
 
 
 
+
 **PRELUDE**
 
 About this notes, I intend to practice my writing skills. Probably, this will be a public 21-day-diary. Besides that, maybe I will write something else like my own learning skills, my thoughts, or my feelings about life. Welcome you guys reading my notes to come and find me on X and Telegram: @JaggerLam
@@ -393,6 +424,7 @@ Today is the last day of this happy holiday, I still create no plan for this co-
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
