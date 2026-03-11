@@ -15,8 +15,29 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-11
+<!-- DAILY_CHECKIN_2026-03-11_START -->
+Day 13
+
+1.  I followed my plan listening to the English Pod:
+    
+
+a. Recession - a period of time when the country is making less money
+
+b. Hit somebody pretty hard - The cold/divorce/news hits me pretty hard
+
+c. tuition - money paid to school
+
+d. I'm sorry to trouble you / Can I trouble you for a pen
+
+e. On the top of that - besides that
+
+2.  Keep expressing myself in English!
+<!-- DAILY_CHECKIN_2026-03-11_END -->
+
 # 2026-03-09
 <!-- DAILY_CHECKIN_2026-03-09_START -->
+
 Day 12
 
 1.  I followed my plan listening to the English Pod:
@@ -46,6 +67,7 @@ i. Expenditures - total amount of the money spent
 # 2026-03-06
 <!-- DAILY_CHECKIN_2026-03-06_START -->
 
+
 Day 11
 
 Today I watched a ton of documentaries about Iran.
@@ -57,6 +79,7 @@ The most horrible thing is that even loads of viral Youtubers talking about Iran
 
 # 2026-03-05
 <!-- DAILY_CHECKIN_2026-03-05_START -->
+
 
 
 Day 10
@@ -88,6 +111,7 @@ f. You’ll never guess
 
 
 
+
 Day 9
 
 1.  I followed my plan listening to the English Pod:
@@ -115,6 +139,7 @@ f. brilliant - excellent
 
 
 
+
 Day 8
 
 1.  I followed my plan listening to the English Pod:
@@ -135,6 +160,7 @@ e. Can't hear a thing
 
 # 2026-03-01
 <!-- DAILY_CHECKIN_2026-03-01_START -->
+
 
 
 
@@ -168,6 +194,7 @@ e. contact details
 
 
 
+
 Day 6
 
 1.  I followed my plan listening to the English Pod:
@@ -188,6 +215,7 @@ e. pick up the virus
 
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 
 
 
@@ -235,6 +263,7 @@ j. Fill up the tank
 
 
 
+
 Day 4
 
 1.  I followed my plan listening to the English Pod:
@@ -255,6 +284,7 @@ e. Sounds reasonable
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -297,6 +327,7 @@ c. overbooked - full
 
 
 
+
 Day 2
 
 1.  I followed my plan listening to the English Pod:
@@ -315,6 +346,7 @@ d. Was hoping - To kindly expect
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
