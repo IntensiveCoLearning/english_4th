@@ -15,8 +15,79 @@ o(=•ェ•=)m
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-12
+<!-- DAILY_CHECKIN_2026-03-12_START -->
+frenzy: In a _frenzy_, people go into a state of hysteria. Stay away from hungry sharks or kids at a 16th birthday party when the pizza arrives if you don't want to get caught up in a feeding _frenzy_.
+
+sis frenzy means: panic or just 狂热？
+
+  
+hysteria: _Hysteria_ is a medical condition or general state of extreme fear and panic. When _hysteria_ sets in, people are out of control.
+
+_agitation: Agitation_ is the act of stirring things up, like the _agitation_ of a washing machine that moves the water, detergent, and clothes around and gets the dirt out or the _agitation_ of political activists who want people to work together to do something.
+
+staged a coup： Meaning: Organized and carried out a sudden, forceful takeover of power or control (like a mini-revolution or overthrow). In context: Genovés "staged a coup" by seizing command of the raft from the elected female captain when she wanted to change course for safety. He basically forced himself into leadership against the group's decision.
+
+coup: A _coup_ is a pretty major achievement, whether it involves taking over a government by force, or landing a major business contract.
+
+  
+**"Enrolling in clown college"** is an idiomatic or humorous English expression that refers to making a wildly unconventional, impractical, risky, or absurd life decision — especially one that seems ridiculous, unpredictable, or doomed to failure from the start.
+
+It often implies jumping into something with great uncertainty, little logic, or against all common sense/family expectations, like quitting a stable job to pursue a bizarre dream.
+
+hypocritical : Behaving in a way that contradicts one's own stated beliefs or principles (saying one thing but doing the opposite). In context: Genovés preached progressive ideas (e.g., empowering women, equality, non-violence) but acted dominantly and overrode the female captain when it suited him → this made him seem hypocritical.
+
+do it contain greek meaning?
+
+macho： Meaning: Exhibiting exaggerated or aggressive masculinity; acting tough, dominant, or "manly" in a stereotypical way (often seen as outdated or toxic).
+
+-   In context: His decision to take control and ignore the captain's judgment was described as "macho" because it showed traditional male dominance overriding a woman's authority.
+    
+
+collided：
+
+Meaning: Crashed into or came into violent contact with something (e.g., two objects hitting each other).
+
+-   In context: A huge oil tanker nearly "collided" with the tiny raft — meaning it came dangerously close to smashing into them.
+    
+
+flares： Meaning: Bright, burning signals (usually red emergency flares) shot into the sky to attract attention and signal distress.
+
+-   In context: The captain quickly organized the group to fire "flares" toward the tanker to warn it and prevent a collision.
+    
+
+avert：
+
+Meaning: To prevent something bad from happening; to turn away or avoid a disaster.
+
+In context: The flares helped "avert" disaster — they stopped the tanker from hitting the raft.
+
+reckless：Meaning: Acting without thinking about danger or consequences; careless and risky.
+
+-   In context: Genovés' refusal to divert to safety during hurricane season was seen as "reckless" because he was putting everyone's lives at risk just to keep his experiment "pure."
+    
+
+enrolling in clown college:
+
+irony： Meaning: A situation that is strangely or amusingly the opposite of what was expected (often highlighting a contradiction).
+
+-   In context: The biggest "irony" was that Genovés designed the experiment to prove humans become violent and chaotic under stress, but the only real conflict came from _him_ — the participants stayed peaceful and united _against him_ instead.
+    
+
+scandalous：
+
+Meaning: Causing public shock or outrage because it is considered immoral, shocking, or improper.
+
+In context: The media called it the "scandalous Sex Raft" experiment due to rumors of wild sex, orgies, and danger — even though little of that actually happened.
+
+profound： Meaning: Very deep, meaningful, or intense (often emotionally or intellectually); having great insight or impact.
+
+-   In context: Some participants described the experience as "profound" — not just survival, but spiritually or personally transformative (e.g., moments of deep human connection or self-reflection).
+<!-- DAILY_CHECKIN_2026-03-12_END -->
+
 # 2026-03-10
 <!-- DAILY_CHECKIN_2026-03-10_START -->
+
 At the center, you seem to be saying this:
 
 **Learning a language is not conquest, but surrender.**  
@@ -215,6 +286,7 @@ You can keep building the idea by asking:
 
 # 2026-03-08
 <!-- DAILY_CHECKIN_2026-03-08_START -->
+
 
 Sure — here is the same idea in English, with clearer wording.
 
@@ -743,6 +815,7 @@ This is one of the most important uses of the word.
 
 
 
+
 develop the idea of articulare: what is the meaning, what other words it developed
 
 **1) Conclusion (confidence: high)** The Latin verb _articulāre_ means “to divide into joints” or “to separate into distinct parts,” with a secondary sense “to utter distinctly.” It developed from _articulus_ (“small joint, part, division”), a diminutive of _artus_ (“joint”), tracing to PIE root _ar-_ (“to fit together”). In English, this root family evolved into words about joints (anatomical/structural) and clear, segmented expression (speech/thought), yielding a rich cluster including _articulate_, _article_, _articulation_, _inarticulate_, and many medical/technical terms.
@@ -774,6 +847,7 @@ develop the idea of articulare: what is the meaning, what other words it develop
 
 # 2026-03-06
 <!-- DAILY_CHECKIN_2026-03-06_START -->
+
 
 
 
@@ -836,6 +910,7 @@ It’s a wonderful experience.
 
 
 
+
 **dichotomy** — A division into two mutually exclusive and jointly exhaustive parts (from Greek διχοτομία “cutting in two”). In Stoicism: the strict binary “things up to us” vs “things not up to us.”
 
 -   **exclusively** — Solely, only, to the exclusion of all else. In Stoicism: virtue is the only true good; nothing external qualifies.
@@ -856,6 +931,7 @@ Stoicism holds that the only true good is virtue (living rationally and excellen
 
 # 2026-03-02
 <!-- DAILY_CHECKIN_2026-03-02_START -->
+
 
 
 
@@ -898,6 +974,7 @@ discourse: Discourse fundamentally means extended, structured communication of t
 
 # 2026-03-01
 <!-- DAILY_CHECKIN_2026-03-01_START -->
+
 
 
 
@@ -956,6 +1033,7 @@ epitome: If you're talking about a typical example of something, call it the _ep
 
 
 
+
 difference between Eth and Solana:
 
 Solana and Ethereum represent two fundamentally different approaches to scaling blockchain: Solana optimizes for single-chain extreme throughput and minimal fees at the cost of lower decentralization and higher centralization risk; Ethereum prioritizes maximum decentralization and censorship resistance, accepting higher base-layer costs and relying on modular L2 scaling. Neither is objectively superior — the “better” chain depends almost entirely on use-case priorities (retail speed & speculation vs institutional-grade security & longevity). Confidence: high.
@@ -963,6 +1041,7 @@ Solana and Ethereum represent two fundamentally different approaches to scaling 
 
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 
 
 
@@ -993,6 +1072,7 @@ technically speaking, there is no "personal long-termism". Scholars currently ha
 
 
 
+
 playing disco elysium--expanding vocabulary
 
 ![20260225124045_1.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/marcuswustarman-tech/images/2026-02-25-1771994583528-20260225124045_1.jpg)
@@ -1005,6 +1085,7 @@ feline: You can describe your kitten as your young _feline_ friend, since _felin
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -1152,6 +1233,7 @@ It compresses:
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 
