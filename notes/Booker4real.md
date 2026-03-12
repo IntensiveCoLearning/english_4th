@@ -15,8 +15,26 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-11
+<!-- DAILY_CHECKIN_2026-03-11_START -->
+price-conscious 价格敏感
+
+nominal 名义的
+
+deflator 去通货膨胀
+
+ratio 比率
+
+inflation 通货膨胀
+
+correction 修改
+
+flour 面粉
+<!-- DAILY_CHECKIN_2026-03-11_END -->
+
 # 2026-03-09
 <!-- DAILY_CHECKIN_2026-03-09_START -->
+
 entice 吸引
 
 internal 内部的
@@ -87,6 +105,7 @@ ration 分配
 
 
 
+
 shut down 停产
 
 interpret 理解
@@ -98,6 +117,7 @@ express 表达
 
 # 2026-03-05
 <!-- DAILY_CHECKIN_2026-03-05_START -->
+
 
 
 
@@ -115,6 +135,7 @@ utility 效用
 
 # 2026-03-02
 <!-- DAILY_CHECKIN_2026-03-02_START -->
+
 
 
 
@@ -187,6 +208,7 @@ budget 预算，便宜的
 
 
 
+
 scarce 稀缺的 scarcity
 
 trade off 权衡取舍
@@ -219,6 +241,7 @@ complement 互补
 
 
 
+
 demographic 人口
 
 intermediary 中介
@@ -238,6 +261,7 @@ actors 外部因素
 
 
 
+
 philosophy 哲学 居然还有理念的意思。
 
 department 部门
@@ -247,6 +271,7 @@ bundle 组合
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
