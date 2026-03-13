@@ -15,8 +15,16 @@ o(=•ェ•=)m
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-13
+<!-- DAILY_CHECKIN_2026-03-13_START -->
+develop the idea of articulare: what is the meaning, what other words it developed
+
+The Latin verb articulāre means “to divide into joints” or “to separate into distinct parts,” with a secondary sense “to utter distinctly.” It developed from articulus (“small joint, part, division”), a diminutive of artus (“joint”), tracing to PIE root ar- (“to fit together”). In English, this root family evolved into words about joints (anatomical/structural) and clear, segmented expression (speech/thought), yielding a rich cluster including articulate, article, articulation, inarticulate, and many medical/technical terms.
+<!-- DAILY_CHECKIN_2026-03-13_END -->
+
 # 2026-03-12
 <!-- DAILY_CHECKIN_2026-03-12_START -->
+
 frenzy: In a _frenzy_, people go into a state of hysteria. Stay away from hungry sharks or kids at a 16th birthday party when the pizza arrives if you don't want to get caught up in a feeding _frenzy_.
 
 sis frenzy means: panic or just 狂热？
@@ -87,6 +95,7 @@ profound： Meaning: Very deep, meaningful, or intense (often emotionally or int
 
 # 2026-03-10
 <!-- DAILY_CHECKIN_2026-03-10_START -->
+
 
 At the center, you seem to be saying this:
 
@@ -286,6 +295,7 @@ You can keep building the idea by asking:
 
 # 2026-03-08
 <!-- DAILY_CHECKIN_2026-03-08_START -->
+
 
 
 Sure — here is the same idea in English, with clearer wording.
@@ -816,6 +826,7 @@ This is one of the most important uses of the word.
 
 
 
+
 develop the idea of articulare: what is the meaning, what other words it developed
 
 **1) Conclusion (confidence: high)** The Latin verb _articulāre_ means “to divide into joints” or “to separate into distinct parts,” with a secondary sense “to utter distinctly.” It developed from _articulus_ (“small joint, part, division”), a diminutive of _artus_ (“joint”), tracing to PIE root _ar-_ (“to fit together”). In English, this root family evolved into words about joints (anatomical/structural) and clear, segmented expression (speech/thought), yielding a rich cluster including _articulate_, _article_, _articulation_, _inarticulate_, and many medical/technical terms.
@@ -847,6 +858,7 @@ develop the idea of articulare: what is the meaning, what other words it develop
 
 # 2026-03-06
 <!-- DAILY_CHECKIN_2026-03-06_START -->
+
 
 
 
@@ -911,6 +923,7 @@ It’s a wonderful experience.
 
 
 
+
 **dichotomy** — A division into two mutually exclusive and jointly exhaustive parts (from Greek διχοτομία “cutting in two”). In Stoicism: the strict binary “things up to us” vs “things not up to us.”
 
 -   **exclusively** — Solely, only, to the exclusion of all else. In Stoicism: virtue is the only true good; nothing external qualifies.
@@ -931,6 +944,7 @@ Stoicism holds that the only true good is virtue (living rationally and excellen
 
 # 2026-03-02
 <!-- DAILY_CHECKIN_2026-03-02_START -->
+
 
 
 
@@ -974,6 +988,7 @@ discourse: Discourse fundamentally means extended, structured communication of t
 
 # 2026-03-01
 <!-- DAILY_CHECKIN_2026-03-01_START -->
+
 
 
 
@@ -1034,6 +1049,7 @@ epitome: If you're talking about a typical example of something, call it the _ep
 
 
 
+
 difference between Eth and Solana:
 
 Solana and Ethereum represent two fundamentally different approaches to scaling blockchain: Solana optimizes for single-chain extreme throughput and minimal fees at the cost of lower decentralization and higher centralization risk; Ethereum prioritizes maximum decentralization and censorship resistance, accepting higher base-layer costs and relying on modular L2 scaling. Neither is objectively superior — the “better” chain depends almost entirely on use-case priorities (retail speed & speculation vs institutional-grade security & longevity). Confidence: high.
@@ -1041,6 +1057,7 @@ Solana and Ethereum represent two fundamentally different approaches to scaling 
 
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 
 
 
@@ -1073,6 +1090,7 @@ technically speaking, there is no "personal long-termism". Scholars currently ha
 
 
 
+
 playing disco elysium--expanding vocabulary
 
 ![20260225124045_1.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/marcuswustarman-tech/images/2026-02-25-1771994583528-20260225124045_1.jpg)
@@ -1085,6 +1103,7 @@ feline: You can describe your kitten as your young _feline_ friend, since _felin
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -1233,6 +1252,7 @@ It compresses:
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 
