@@ -15,8 +15,20 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-13
+<!-- DAILY_CHECKIN_2026-03-13_START -->
+## **Daily accumulation 20**
+
+-   **_stationery&sationary:_** $\\leftarrow$ representing writing paper&office supplies and motionless&immobile respectively
+    
+-   **_impulse_** $\\leftarrow$ whim, urge, inclination, motivation
+    
+-   **_incapacitate_** $\\leftarrow$ disable,disqualify
+<!-- DAILY_CHECKIN_2026-03-13_END -->
+
 # 2026-03-12
 <!-- DAILY_CHECKIN_2026-03-12_START -->
+
 ## **Daily accumulation 18**
 
 -   **_bucolic_** $\\leftarrow$ idyllic/pastoral/rural
@@ -26,6 +38,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 # 2026-03-11
 <!-- DAILY_CHECKIN_2026-03-11_START -->
+
 
 ## Daily accumulation 18
 
@@ -38,6 +51,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 <!-- DAILY_CHECKIN_2026-03-10_START -->
 
 
+
 ## **Daily accumulation 17**
 
 -   **_subliminal_** $\\leftarrow$ subconcious/latent
@@ -47,6 +61,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 # 2026-03-09
 <!-- DAILY_CHECKIN_2026-03-09_START -->
+
 
 
 
@@ -65,6 +80,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 
 
+
 ## Daily accumulation 15
 
 -   **_adrift_** $\\leftarrow$ wandering/aimless
@@ -74,6 +90,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 # 2026-03-07
 <!-- DAILY_CHECKIN_2026-03-07_START -->
+
 
 
 
@@ -92,6 +109,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 
 
+
 ## Daily accumulation 13
 
 -   **_redundant/excessive/superfluous_**
@@ -103,6 +121,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 # 2026-03-05
 <!-- DAILY_CHECKIN_2026-03-05_START -->
+
 
 
 
@@ -129,6 +148,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 
 
+
 ## Daily accumulation 11
 
 -   **_pivot/pivotal_** $\\leftarrow$ refering mig-29 "pivot point"
@@ -140,6 +160,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 # 2026-03-03
 <!-- DAILY_CHECKIN_2026-03-03_START -->
+
 
 
 
@@ -172,6 +193,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 
 
+
 ## Daily accumulation 09
 
 -   **_titular_** having the title of a position but not the responsibilities, duties, or power
@@ -185,6 +207,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 # 2026-03-01
 <!-- DAILY_CHECKIN_2026-03-01_START -->
+
 
 
 
@@ -221,6 +244,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 
 
+
 ## Dailly accumulation 07
 
 -   **_gripping_** $\\leftarrow$ grip sb’s attention, denoting that which is attractive or interesting
@@ -234,6 +258,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 # 2026-02-27
 <!-- DAILY_CHECKIN_2026-02-27_START -->
+
 
 
 
@@ -274,6 +299,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 
 
+
 ## Daily accumulation 05
 
 -   **_audacious_** $\\leftarrow$ bold
@@ -285,6 +311,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 # 2026-02-25
 <!-- DAILY_CHECKIN_2026-02-25_START -->
+
 
 
 
@@ -329,6 +356,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 
 
+
 ## Daily accumulation 03
 
 -   _foretell_: the oracle is a machine that can _foretell_ something that will happen in future
@@ -338,6 +366,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 
@@ -369,6 +398,7 @@ Currently endeavoring to aquire a IELTS 6.5+ degree
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
