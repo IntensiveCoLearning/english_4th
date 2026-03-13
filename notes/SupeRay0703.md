@@ -15,8 +15,33 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-13
+<!-- DAILY_CHECKIN_2026-03-13_START -->
+Day 15
+
+1.  I followed my plan listening to the English Pod:
+    
+
+a. step on it - drive faster
+
+b. speed up / slow down
+
+c. have a fit
+
+d. cut through - go through
+
+e. make a left / right - turn left / right
+
+f. are you nuts? - are you crazy
+
+g. take a side street
+
+2.  Keep expressing myself in English!
+<!-- DAILY_CHECKIN_2026-03-13_END -->
+
 # 2026-03-12
 <!-- DAILY_CHECKIN_2026-03-12_START -->
+
 Day 14
 
 Today I looked into the history of a super trended song called DtMF by Bad Bunny.
@@ -26,6 +51,7 @@ A lot of people don't like this song, I like it tho. And the story behind it und
 
 # 2026-03-11
 <!-- DAILY_CHECKIN_2026-03-11_START -->
+
 
 Day 13
 
@@ -47,6 +73,7 @@ e. On the top of that - besides that
 
 # 2026-03-09
 <!-- DAILY_CHECKIN_2026-03-09_START -->
+
 
 
 
@@ -82,6 +109,7 @@ i. Expenditures - total amount of the money spent
 
 
 
+
 Day 11
 
 Today I watched a ton of documentaries about Iran.
@@ -93,6 +121,7 @@ The most horrible thing is that even loads of viral Youtubers talking about Iran
 
 # 2026-03-05
 <!-- DAILY_CHECKIN_2026-03-05_START -->
+
 
 
 
@@ -130,6 +159,7 @@ f. You’ll never guess
 
 
 
+
 Day 9
 
 1.  I followed my plan listening to the English Pod:
@@ -160,6 +190,7 @@ f. brilliant - excellent
 
 
 
+
 Day 8
 
 1.  I followed my plan listening to the English Pod:
@@ -180,6 +211,7 @@ e. Can't hear a thing
 
 # 2026-03-01
 <!-- DAILY_CHECKIN_2026-03-01_START -->
+
 
 
 
@@ -219,6 +251,7 @@ e. contact details
 
 
 
+
 Day 6
 
 1.  I followed my plan listening to the English Pod:
@@ -239,6 +272,7 @@ e. pick up the virus
 
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 
 
 
@@ -292,6 +326,7 @@ j. Fill up the tank
 
 
 
+
 Day 4
 
 1.  I followed my plan listening to the English Pod:
@@ -312,6 +347,7 @@ e. Sounds reasonable
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -360,6 +396,7 @@ c. overbooked - full
 
 
 
+
 Day 2
 
 1.  I followed my plan listening to the English Pod:
@@ -378,6 +415,7 @@ d. Was hoping - To kindly expect
 
 # 2026-02-22
 <!-- DAILY_CHECKIN_2026-02-22_START -->
+
 
 
 
