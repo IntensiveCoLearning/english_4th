@@ -15,8 +15,22 @@ o(=•ェ•=)m
 ## Notes
 
 <!-- Content_START -->
+# 2026-03-14
+<!-- DAILY_CHECKIN_2026-03-14_START -->
+**Augury** is a specific, formalized practice (primarily Roman) of deliberately seeking and interpreting divine signs — especially from bird behavior — to determine the gods' approval or disapproval of a proposed action. **Omen** is the broader, neutral term for any sign or portent (solicited or unsolicited) believed to convey divine will or foretell events. In short: omen = the sign itself; augury = the ritualized method of obtaining and reading certain omens.
+
+**First principles — irreducible core** The distinction is decided by agency and specificity: omen is the raw communicative event from the divine (a phenomenon interpreted as meaningful); augury is the human institutional response — a deliberate, rule-bound technique to elicit and decode signs, especially avian ones. The governing constraint is intentionality: omens can appear spontaneously (unsought), while augury requires active solicitation within a defined framework (e.g., marking a templum in the sky, observing in a prescribed direction). This reflects the ancient worldview that gods communicate indirectly through nature, but humans can structure that communication for practical (especially political/military) decisions.
+
+**Reasoning — facts vs assumptions** Fact (primary sources: Britannica, Wikipedia/Augury, Cicero’s _De Divinatione_, historical summaries from Roman religion sites): augury derives from Latin _augurium_/_auspicium_ (“bird-watching” from _avis_ “bird” + _specere_ “to look”); it was a state-sponsored Roman priestly art performed by augurs to ascertain divine favor for actions (not to predict detailed future events, but yes/no approval). Omens (_omina_) are the signs themselves — bird flights, lightning, thunder, animal appearances, etc. — and can be either deliberately sought (via augury) or unsolicited (spontaneous prodigies/portents). Fact: Roman sources (e.g., [the-persians.co.uk](http://the-persians.co.uk) summary, Britannica) explicitly distinguish solicited signs (augury/auspices) from unsought ones (ordinary omens), with the former carrying more procedural weight in public life. Assumption: that augury always means “prediction of the future.” If wrong (and it is), the practice shifts from fortune-telling to constitutional/divinatory consultation — Romans used it to check if gods approved a plan (battle, law, election), not to forecast outcomes in detail. This changes emphasis from fatalism to piety and legitimacy.
+
+**Counter-argument** Pro broad equivalence (augury ≈ omen): in modern casual English, “augury” often means “omen” or “portent” (e.g., “auguries of innocence” in Blake’s poem uses it poetically for signs/insights); some dictionaries and everyday usage treat them as near-synonyms for foreboding signs. Holds when context is literary, non-historical, or generalized divination talk. Concrete precedent: Blake’s title _Auguries of Innocence_ evokes prophetic signs broadly, not strict Roman bird-divination. Contra strict historical distinction: classical sources (Cicero, Britannica, Roman ritual descriptions) reserve augury for the trained, solicited practice by augurs (especially ex avibus — from birds), while omens encompass any divine sign, including unsolicited prodigies or other forms (haruspicy, lightning). Holds strongest in Roman religious studies: augury was a public office/college; omens were universal phenomena anyone might notice. Decision criterion: check domain — historical/Roman context favors augury as technique vs omen as sign; modern/poetic usage blurs them.
+
+**Uncertainties, risks, verification** Uncertainty: boundary cases where spontaneous bird signs are called “auguries” in loose speech (e.g., modern retellings sometimes conflate). Risk: projecting modern synonymy back onto ancient practice ignores Roman emphasis on augury as state-controlled vs omens as potentially chaotic/disruptive (requiring expiation if bad). Verification: read Britannica “Augury” entry (clear solicited vs casual distinction); Cicero _De Divinatione_ Book 1 (primary source on auspices vs other divination); Wikipedia “Augury” (sourced to classical texts). Cross-check with Roman religion overviews (e.g., [the-persians.co.uk](http://the-persians.co.uk) or LacusCurtius/Smith’s Dictionary).
+<!-- DAILY_CHECKIN_2026-03-14_END -->
+
 # 2026-03-13
 <!-- DAILY_CHECKIN_2026-03-13_START -->
+
 develop the idea of articulare: what is the meaning, what other words it developed
 
 The Latin verb articulāre means “to divide into joints” or “to separate into distinct parts,” with a secondary sense “to utter distinctly.” It developed from articulus (“small joint, part, division”), a diminutive of artus (“joint”), tracing to PIE root ar- (“to fit together”). In English, this root family evolved into words about joints (anatomical/structural) and clear, segmented expression (speech/thought), yielding a rich cluster including articulate, article, articulation, inarticulate, and many medical/technical terms.
@@ -24,6 +38,7 @@ The Latin verb articulāre means “to divide into joints” or “to separate i
 
 # 2026-03-12
 <!-- DAILY_CHECKIN_2026-03-12_START -->
+
 
 frenzy: In a _frenzy_, people go into a state of hysteria. Stay away from hungry sharks or kids at a 16th birthday party when the pizza arrives if you don't want to get caught up in a feeding _frenzy_.
 
@@ -95,6 +110,7 @@ profound： Meaning: Very deep, meaningful, or intense (often emotionally or int
 
 # 2026-03-10
 <!-- DAILY_CHECKIN_2026-03-10_START -->
+
 
 
 At the center, you seem to be saying this:
@@ -295,6 +311,7 @@ You can keep building the idea by asking:
 
 # 2026-03-08
 <!-- DAILY_CHECKIN_2026-03-08_START -->
+
 
 
 
@@ -827,6 +844,7 @@ This is one of the most important uses of the word.
 
 
 
+
 develop the idea of articulare: what is the meaning, what other words it developed
 
 **1) Conclusion (confidence: high)** The Latin verb _articulāre_ means “to divide into joints” or “to separate into distinct parts,” with a secondary sense “to utter distinctly.” It developed from _articulus_ (“small joint, part, division”), a diminutive of _artus_ (“joint”), tracing to PIE root _ar-_ (“to fit together”). In English, this root family evolved into words about joints (anatomical/structural) and clear, segmented expression (speech/thought), yielding a rich cluster including _articulate_, _article_, _articulation_, _inarticulate_, and many medical/technical terms.
@@ -858,6 +876,7 @@ develop the idea of articulare: what is the meaning, what other words it develop
 
 # 2026-03-06
 <!-- DAILY_CHECKIN_2026-03-06_START -->
+
 
 
 
@@ -924,6 +943,7 @@ It’s a wonderful experience.
 
 
 
+
 **dichotomy** — A division into two mutually exclusive and jointly exhaustive parts (from Greek διχοτομία “cutting in two”). In Stoicism: the strict binary “things up to us” vs “things not up to us.”
 
 -   **exclusively** — Solely, only, to the exclusion of all else. In Stoicism: virtue is the only true good; nothing external qualifies.
@@ -944,6 +964,7 @@ Stoicism holds that the only true good is virtue (living rationally and excellen
 
 # 2026-03-02
 <!-- DAILY_CHECKIN_2026-03-02_START -->
+
 
 
 
@@ -988,6 +1009,7 @@ discourse: Discourse fundamentally means extended, structured communication of t
 
 # 2026-03-01
 <!-- DAILY_CHECKIN_2026-03-01_START -->
+
 
 
 
@@ -1050,6 +1072,7 @@ epitome: If you're talking about a typical example of something, call it the _ep
 
 
 
+
 difference between Eth and Solana:
 
 Solana and Ethereum represent two fundamentally different approaches to scaling blockchain: Solana optimizes for single-chain extreme throughput and minimal fees at the cost of lower decentralization and higher centralization risk; Ethereum prioritizes maximum decentralization and censorship resistance, accepting higher base-layer costs and relying on modular L2 scaling. Neither is objectively superior — the “better” chain depends almost entirely on use-case priorities (retail speed & speculation vs institutional-grade security & longevity). Confidence: high.
@@ -1057,6 +1080,7 @@ Solana and Ethereum represent two fundamentally different approaches to scaling 
 
 # 2026-02-26
 <!-- DAILY_CHECKIN_2026-02-26_START -->
+
 
 
 
@@ -1091,6 +1115,7 @@ technically speaking, there is no "personal long-termism". Scholars currently ha
 
 
 
+
 playing disco elysium--expanding vocabulary
 
 ![20260225124045_1.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/english_4th/main/assets/marcuswustarman-tech/images/2026-02-25-1771994583528-20260225124045_1.jpg)
@@ -1103,6 +1128,7 @@ feline: You can describe your kitten as your young _feline_ friend, since _felin
 
 # 2026-02-24
 <!-- DAILY_CHECKIN_2026-02-24_START -->
+
 
 
 
@@ -1252,6 +1278,7 @@ It compresses:
 
 # 2026-02-23
 <!-- DAILY_CHECKIN_2026-02-23_START -->
+
 
 
 
