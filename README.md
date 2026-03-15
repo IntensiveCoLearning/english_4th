@@ -1074,15 +1074,16 @@
 
 
 
+
 <!-- STATISTICALDATA_START -->
 ## 统计数据
 
-- 总参与人数: 0
-- 完成人数: 0
-- 完成用户: 
-- 全勤用户: 
-- 淘汰人数: 0
-- 淘汰率: 0.00%
+- 总参与人数: 132
+- 完成人数: 6
+- 完成用户: klizz111, FairyTaleBliss, 2273310475-dev, marcuswustarman-tech, NinaChow09, XGe711
+- 全勤用户: klizz111
+- 淘汰人数: 126
+- 淘汰率: 95.45%
 <!-- STATISTICALDATA_END -->
 
 
